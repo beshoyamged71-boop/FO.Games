@@ -14,8 +14,608 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 1924,
+      "count": 1936,
       "hits": [
+        {
+          "id": "124317",
+          "slug": "pocket-tyrant",
+          "title": "Pocket Tyrant",
+          "description": "Pocket Tyrant is a charming one-joystick action-strategy conquest game where you lead a tiny goblin warlord and his growing horde across seven islands. Gather resources, recruit goblins, upgrade your tools and weapons, then raid 27 kingdoms on the road to the Black Citadel. Combat is instantly readable—your army is a number, theirs is a number, and every clash is visible subtraction. There are no menus or attack buttons: simply walk into the world to harvest, build, fight, and turn cheerful pastel villages into crooked goblin strongholds. The choice is always yours: attack now, or grow stronger first.",
+          "howToPlayText": "Move with W, A, S, D or the arrow keys. With a mouse, click and drag; on a touchscreen, press and drag anywhere to steer. Walk into trees, rocks, ore, and treasure to collect resources. Stand on camp pads to recruit goblins, improve equipment, unlock permanent upgrades, and build crossings. Enter a settlement to fight automatically; compare your warband number with the garrison number before attacking. If the enemy is too strong, retreat, gather more resources, and return—permanent progress is never lost. Conquer all 27 kingdoms across seven islands, then defeat the Black Citadel to complete the campaign. After the first victory, the Citadel returns for repeat battles that increase your Infamy leaderboard score.",
+          "gameURL": "https://playgama.com/export/game/pocket-tyrant?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/pocket-tyrant",
+          "genres": [
+            "arcade",
+            "mouse"
+          ],
+          "tags": [
+            "fantasy-games",
+            "casual-games",
+            "collecting-games",
+            "1-player-games",
+            "incremental-games",
+            "resource-management-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/pocket-tyrant/preview/46018c772d3d4ec18ac119602df56db2?width=448",
+            "https://static.playgama.com/p-img/pg/pocket-tyrant/icon/ee0a7a6c01f142d9a2c8a298d140b4be?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/pocket-tyrant?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124316",
+          "slug": "ragdoll-fighter",
+          "title": "Ragdoll Fighter",
+          "description": "Ragdoll Fighter is a fast, funny 2D physics fighting game where every punch, swing, and stumble is driven by ragdoll physics. Drag your fighter around the arena, build up momentum, and slam into your enemies with fists or weapons until their health hits zero — with satisfying slow-motion on every big hit.\n\nBattle through a campaign of hand-crafted levels, take on multiple foes at once, or test your survival skills in Endless Mode against never-ending waves. Earn coins from powerful hits and combos, then unlock a roster of wild characters — a robot, a ninja, a boxer, a spartan, a pirate, an alien, and more — each with its own attack, defense, and control stats. Collect daily rewards, chase 3-star level clears, and become the last ragdoll standing.\n\nProgression & extras:\n\nUnlock characters in the Character Select screen using coins earned in battle — each has different Attack / Defense / Complexity ratings.\nEarn coins from weapon hits, combos, daily login rewards, and optional reward videos.\nDaily rewards grow bigger the more days you play in a row.\nOptions: toggle music and sound, and set your preferred control side.\n\nFeatures:\n\nHilarious, unpredictable ragdoll physics combat\nCampaign levels with a 3-star rating system\nEndless survival mode with escalating difficulty\n8 unlockable fighters, each with unique stats and weapons\nIntuitive one-finger drag controls — easy to learn, tricky to master\nSatisfying slow-motion impacts and combo rewards\nPlays great in portrait on desktop and mobile browsers\n\nWin the fight:\n\nLevel mode: Defeat every opponent to clear the level. Finish fast and keep your health high to earn up to 3 stars. Clear levels to unlock the next ones.\n\nEndless mode: Survive as long as you can — each kill restores a little health and enemies keep getting tougher. Your score is your kill count.\n\nDon't give up: If you fall, you can watch a short video to revive and jump right back into the fight (once per run).\nManage your health: Keep an eye on the HP bar. When it empties, the round is over.",
+          "howToPlayText": "Move & attack: Touch and drag anywhere on the screen to steer your ragdoll. Drag toward an enemy to fling your body and weapon into them — the faster and harder you swing, the more damage you deal.\n\nUse weapons: Your fighter automatically favors the weapon nearest to your drag direction. Land weapon hits and headshots for the biggest damage (and extra coins).\n\nChain combos: Hit the same enemy repeatedly to rack up combos for bonus coins. Big hits briefly slow time so you can line up the next strike.",
+          "gameURL": "https://playgama.com/export/game/ragdoll-fighter?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/ragdoll-fighter",
+          "genres": [
+            "funny",
+            "fighting",
+            "ragdoll",
+            "physics"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "addictive-games",
+            "combat-games",
+            "touchscreen-games",
+            "1-player-games",
+            "action-fighting"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/ragdoll-fighter/preview/347dec9585dd49c9b8fd670d5b56066c?width=448",
+            "https://static.playgama.com/p-img/pg/ragdoll-fighter/icon/0e3a068e3ac34e12a61a927545aaa9d0?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/ragdoll-fighter?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124314",
+          "slug": "potion-kitchen",
+          "title": "Potion Kitchen",
+          "description": "Potion Kitchen is a cosy crafting puzzle about running a potion shop at the edge of the market. Guests arrive with orders — one needs a potion of warmth, another a good night's sleep, and some speak in riddles and expect you to work it out. Mix ingredients in the cauldron, brew, and serve before your guest gives up. The recipe book starts empty: all 19 recipes are unlocked by brewing alone, and every one of them can be reasoned out rather than guessed, because the ingredients of a potion share one element.",
+          "howToPlayText": "Serve every guest before their patience runs out.\n\n1. Press \"Start shift\" — the first guest walks up to the counter.\n2. Read the order. A direct request names the potion, a riddle describes its effect; the hints below the order narrow it down.\n3. Tap an ingredient on the shelf or drag it into the cauldron. It holds two ingredients, or three once upgraded.\n4. Press \"Brew\" and see what came out. An exact match is \"Perfect\", but any real potion still sells.\n5. Press \"Serve\": the guest pays in coins and reputation, and a new recipe goes straight into the book.\n6. Between shifts, spend coins in the shop on kitchen upgrades.\n\nMouse, touch or keyboard — Space or Enter to brew and serve, C to empty the cauldron, H for a hint, B for the recipe book, P or Esc to pause, M for sound.",
+          "gameURL": "https://playgama.com/export/game/potion-kitchen?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/potion-kitchen",
+          "genres": [
+            "cozy",
+            "crafting",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "shop-games",
+            "1-player-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/potion-kitchen/preview/7609a7558c9a415db2048e36749e5940?width=448",
+            "https://static.playgama.com/p-img/pg/potion-kitchen/icon/37e0c5ef526b40aeb3b6a82d8b5ca3c8?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/potion-kitchen?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124310",
+          "slug": "evade",
+          "title": "EVADE",
+          "description": "A high-speed chase game where you deliver packages across a city while the police hunt you down. Lose them, make the drop, and move on to the next job.",
+          "howToPlayText": "Use the arrow keys or WASD to drive, Space to handbrake, and Shift to boost. Drive to each drop point, but shake the cops first — you can't deliver while they're on your tail.",
+          "gameURL": "https://playgama.com/export/game/evade?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/evade",
+          "genres": [
+            "arcade",
+            "car",
+            "driving"
+          ],
+          "tags": [
+            "race-games",
+            "speed-games",
+            "1-player-games",
+            "arcade-car",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/evade/preview/7881b8b1dd7a433385d6dcd6326f2de1?width=448",
+            "https://static.playgama.com/p-img/pg/evade/icon/5786b5f42776439e8a74c454b05464be?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/evade?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124307",
+          "slug": "shadow-node",
+          "title": "SHADOW NODE",
+          "description": "Welcome to Shadow Node – the ultimate hacker idle experience.\n\nYou are an elite hacker on a mission to infiltrate global networks, breach high-security servers, and mine valuable data fragments. Your ultimate goal? The legendary Shadow Node—a network so secretive it is only spoken of in whispers on the deepest dark web forums.\n\nAre you ready to bring the digital world to its knees?\n\nFEATURES\nProgressive Hacking Network\nWork your way up from simple local networks to complex government databases. Every successful hack brings you closer to the top of the digital food chain.\n\nIdle Gameplay: Your Botnet Never Sleeps\nProgress even while you’re offline. Your scripts automatically gather data fragments while you're away. Return to collect massive rewards—perfect for hackers on the go.\n\nDeep Upgrade System\nInvest in cutting-edge hacking tools, AI assistants, massive botnets, and quantum processors. Optimize your mining rate with hundreds of unique upgrades.\n\nStrategic Prestige System\nPerform a strategic reset to unlock permanent bonuses and multipliers. Plan your ascension carefully to exponentially increase your earning potential.\n\nMilestones & Achievements\nComplete challenging objectives to unlock legendary Dark Matter upgrades that fundamentally transform your gameplay.\n\nImmersive Cyberpunk Atmosphere\nExperience an atmospheric soundtrack and a dark aesthetic designed to pull you deep into the world of cybercrime.\n\nHIGHLIGHTS\nOffline Progression: Your mining operations run 24/7.\nFully Customizable: Tweak visual effects, haptic feedback, and choose from multiple languages.\nMobile Optimized: Smooth gameplay and intuitive touch controls.\n\nLeave no trace. Download Shadow Node now and begin your ascent to hacker stardom!",
+          "howToPlayText": "\"SHADOW NODE\" is a cyberpunk idle hacker game. Click \"EXECUTE\" to mine Data, then spend it in the Market on Bots and power-ups that boost your hash rate automatically. Complete Quests and Syndicate Ops in the Network to earn Intel and Dark Matter. Watch your Trace Level. If it hits 100% you get locked out. Reach higher levels and Prestige to reset for permanent multipliers. Offline earnings keep your network growing while you're away.",
+          "gameURL": "https://playgama.com/export/game/shadow-node?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/shadow-node",
+          "genres": [
+            "simulation",
+            "clicker",
+            "management",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "addictive-games",
+            "endless-games",
+            "1-player-games",
+            "sci-fi-games",
+            "incremental-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/shadow-node/preview/8f15dcf49f1a45ccbed18e96c255c4ab?width=448",
+            "https://static.playgama.com/p-img/pg/shadow-node/icon/38da53cdcc05402d93d4c54e0601d687?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ar-EG",
+            "zh-CN",
+            "de-DE",
+            "nl-NL",
+            "es-ES",
+            "fr-FR",
+            "hi-IN",
+            "id-ID",
+            "ja-JP",
+            "ko-KR",
+            "pl-PL",
+            "pt-PT",
+            "ru-RU",
+            "uk-UA"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/shadow-node?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124304",
+          "slug": "fishing-catch-the-moment",
+          "title": "Fishing: Catch the Moment!",
+          "description": "A relaxing 3D fishing game with atmospheric locations, changing weather and time of day. Cast your line, master the fishing mini-game, discover rare fish, upgrade your tackle and unlock new fishing spots. Build your collection and catch the heaviest trophy!",
+          "howToPlayText": "Move the mouse or swipe left and right to aim. Press and hold to prepare the cast, then release to cast the line. Wait for a bite and press the screen or mouse button to hook the fish. During the fishing mini-game, keep the indicator inside the yellow zone. Successful critical catches can bring heavier and rarer fish. Sell your catch, upgrade your tackle and unlock new locations.",
+          "gameURL": "https://playgama.com/export/game/fishing-catch-the-moment?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/fishing-catch-the-moment",
+          "genres": [
+            "arcade",
+            "simulation",
+            "3d",
+            "fishing"
+          ],
+          "tags": [
+            "reaction-games",
+            "casual-games",
+            "relaxing-games",
+            "addictive-games",
+            "collecting-games",
+            "desktop-games",
+            "1-player-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/fishing-catch-the-moment/preview/c6343e3c3ce94817a224d527ee444b7f?width=448",
+            "https://static.playgama.com/p-img/pg/fishing-catch-the-moment/icon/81dc7707d2ab45b98fb4546f00f3a8e9?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/fishing-catch-the-moment?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124300",
+          "slug": "rustlings-online",
+          "title": "Rustlings online",
+          "description": "Rustlings online brings survival gameplay to your browser, without a steep learning curve.\n\nLand on an island, gather resources, and build your own base - from simple wood walls to fortified metal strongholds. Craft tools, weapons, and gear to survive on your own or with a crew.\n\nTeam up with up to 3 players, defend your territory from other players and hostile creatures, trade, and grow stronger. Day turns to night, and danger rises with the dark - stay alert.\n\nRustlings online delivers the thrill of surviving and building without spending dozens of hours mastering complex systems - just open your browser and play, no install needed.",
+          "howToPlayText": "PC controls: WASD to move, mouse to look, LMB for an item's primary action, RMB for its secondary action (e.g. aiming), E to interact, Tab for inventory, R to reload, V for push-to-talk voice chat, Enter to open text chat.\n\nMobile controls: virtual joystick to move, swipe to look around, on-screen buttons for attack, secondary action, interact, crouch and map marker; bottom icons toggle voice chat and open text chat.\n\n1. Gather basic resources - wood and stone - by hitting trees and rocks with a tool.\n2. Open the crafting menu (Tab) and craft your first tools and walls for shelter.\n3. Build your base: use the snap-point system to place walls, floors, and roofs.\n4. Upgrade building materials from wood to stone and metal for better protection.\n5. Watch your health and gear, and fight off other players and island threats.\n6. Team up with friends - form a squad of up to 3 players to defend together.",
+          "gameURL": "https://playgama.com/export/game/rustlings-online?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/rustlings-online",
+          "genres": [
+            "action",
+            "adventure",
+            "simulation",
+            "multiplayer",
+            "pvp",
+            "survival",
+            "crafting"
+          ],
+          "tags": [
+            "games-for-pc",
+            "defense-games",
+            "combat-games",
+            "1-player-games",
+            "building-games",
+            "resource-management-games",
+            "open-world-games",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/rustlings-online/preview/1b347c0397c84758b7330865d9558f0e?width=448",
+            "https://static.playgama.com/p-img/pg/rustlings-online/icon/c550e61fe29f4474850560f635118d7c?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/rustlings-online?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124299",
+          "slug": "flufflings-pocket-pets",
+          "title": "Flufflings: Pocket Pets",
+          "description": "Take care of stray kittens and create a cozy home and yard for them!\n\n🧸 Buy toys and decorations: Make your space even more appealing to the cats.\n🍲 Attract cats with food: The more food and toys, the more fluffy guests you'll get!\n😊 Earn coins: The happier a cat is when it leaves, the more rewards it will leave behind.\n🏠 Adopt kittens: Put a collar on a cat to make it stay forever.\n🔍 Learn about the cats: Hold a cat to see its characteristics.\n🍽️ Fill the bowls: Simply drop food or water into the bowl.\n🎾 Play with the cats: Drag and release the ball to play.\n🚪 Control the flow of visitors: Click the gate to stop new cats from visiting.",
+          "howToPlayText": "Attract Stray Cats:\nLeave food outside to attract cats.\nMore food and toys will bring more cats to your yard.\n\nEarn Coins:\nThe happier the cats are when they leave, the more coins they will leave behind.\n\nAdopt Cats:\nPut a collar on a cat to adopt it.\nAdopted cats will never leave!\n\nInteract with the Cats:\nHold a cat to see its information.\nFill bowls with food or water by dropping items into them.\nDrag and release the ball to play with the cats.",
+          "gameURL": "https://playgama.com/export/game/flufflings-pocket-pets?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/flufflings-pocket-pets",
+          "genres": [
+            "simulation",
+            "animals",
+            "cozy",
+            "cats"
+          ],
+          "tags": [
+            "casual-games",
+            "pet-games",
+            "cute-games",
+            "virtual-games",
+            "animal-clicker"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/flufflings-pocket-pets/preview/f620dac5bc4c4452977d3e8494068fb1?width=448",
+            "https://static.playgama.com/p-img/pg/flufflings-pocket-pets/icon/d82310aab5634fa38727426bd1ed7a93?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/flufflings-pocket-pets?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124298",
+          "slug": "brainrot-courier",
+          "title": "Brainrot Courier",
+          "description": "Brainrot Courier is an exciting skateboard adventure in which your goal is to collect the most legendary Brainrots! Ride on colorful platforms, jump over dangerous chasms, perform risky maneuvers to reach rare characters scattered around the world.\n\n\n\nThe further you go, the more unique and valuable Brainrots you can find. From popular characters to ultra—rare legends, each find brings you closer to becoming the best Brainroot collector.\n\n\n\nFeatures\n\n\n\n* Dynamic platform gameplay on a skateboard\n\n* Collect dozens of unique and fun Brainrots\n\n* Jump over chasms and overcome difficult obstacles\n\n* Smooth and responsive skateboard controls\n\n* Unlock rare and legendary Brainrots\n\n* Collect the greatest collection of Brainrots\n\n* Fast and addictive gaming sessions\n\n* Suitable for players of all ages",
+          "howToPlayText": "PC Controls\n\nWASD = move\nSpace = jump\nE = interact\nMobile Controls\n\nSwipe the left side of the screen = move with the joystick\nTap on the right side button = jump\nSwipe the screen = move camera view\nTap on the in-game UI = interact",
+          "gameURL": "https://playgama.com/export/game/brainrot-courier?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/brainrot-courier",
+          "genres": [
+            "arcade",
+            "adventure",
+            "skill",
+            "funny",
+            "obby",
+            "skateboarding"
+          ],
+          "tags": [
+            "meme-games",
+            "addictive-games",
+            "obstacles-games",
+            "collecting-games",
+            "1-player-games",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/brainrot-courier/preview/1ba9685f26b54de184c42787eda19ea0?width=448",
+            "https://static.playgama.com/p-img/pg/brainrot-courier/icon/bc5b04803f174527a5203a150c0e3b9c?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "78c2f5b7156f4953b4873f428fc7ab5e",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/brainrot-courier?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124294",
+          "slug": "nitro-ball",
+          "title": "Nitro Ball",
+          "description": "Nitro Ball is a fast-paced car soccer game played entirely in your browser. Drive a boost-powered car, launch off the walls, and smash a giant ball into your opponent's goal. Jump, flip, and fly through the air to pull off saves and score from anywhere on the pitch.\n\nPick your mode: play a quick match against AI opponents in 1v1, 2v2 or 3v3, fight through a knockout tournament, or switch to Hockey mode where the ball is swapped for a heavy puck that slides across the ice. For a different kind of challenge, take on the Challenge Maps — timed obstacle courses that test your aerial control and precision driving, with your best times saved for every course.\n\nCustomise your ride with a garage full of cars, wheels, decals, boost trails, toppers and over 250 antenna flags. Free Play mode lets you practice in an arena solo with no opponents.",
+          "howToPlayText": "Score more goals than your opponent before the clock runs out! Drive, jump and boost your way around the arena, hit the ball into the enemy goal, and defend your own. Use your boost to fly through the air and reach the ball before anyone else. In Challenge Maps, the goal is different — race through the obstacle course, hit every checkpoint, and reach the finish as fast as you can to beat your best time.\n\nDesktop Controls:\n\nW / A / S / D — Drive, steer and reverse\nSpacebar — Jump (press again in mid-air to flip or dodge)\nShift — Boost\nV — Powerslide\nC — Change camera view\nG — Show scoreboard\nO or Esc — Pause menu\n\nGamepad supported — full controller support with rebindable controls in the Settings menu.\n\nTips: Hold jump and push a direction to flip toward the ball for a powerful hit. Collect the glowing boost pads around the arena to refill your boost. Use the walls and ramps to reach high balls.",
+          "gameURL": "https://playgama.com/export/game/nitro-ball?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/nitro-ball",
+          "genres": [
+            "action",
+            "racing",
+            "sports",
+            "car",
+            "driving",
+            "physics",
+            "soccer"
+          ],
+          "tags": [
+            "race-games",
+            "stunt-games",
+            "fast-paced-games",
+            "customization-games",
+            "arena-games",
+            "challenge-games",
+            "desktop-games",
+            "1-player-games",
+            "arcade-car"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/nitro-ball/preview/55e62498a74f425eba0fc76a2cd2cb17?width=448",
+            "https://static.playgama.com/p-img/pg/nitro-ball/icon/79723d04bbc241cca46c47c9a208f520?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/nitro-ball?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124293",
+          "slug": "obby-parkour-crazy-descent",
+          "title": "Obby Parkour: Crazy Descent",
+          "description": "👋 Welcome to \"Obby Parkour: Crazy Descent\" — a fast-paced 3D parkour testing your speed and reactions!\n\nYour main goal is to descend through generated platforms as low as possible while dodging moving obstacles. One wrong move and you fall straight into the abyss! The lower you fall, the faster you go: with every platform passed, your speed constantly increases, turning the parkour into a wild rush.\n\n✨ Game Features:\n🗺️ New levels: cover the distance and unlock new exciting stages!\n🚀 Dynamic acceleration: reach crazy speeds and test your reflexes.\n🤑 Coin collection: pick up gold coins right on the platforms as you drop.\n🛍️ Cool shop: buy pets, viral memes (Six-Seven, Ballerina Capuchina, Tralalero, and more), and stylish accessories — from glasses and capes to the legendary Dominus!\n\n🏆 Ready to become the ultimate fall champion? Jump in and show what you've got!",
+          "howToPlayText": "💻 PC Controls:\n\nWASD or Arrow Keys — move character.\n\nHold Right Mouse Button (RMB) and move mouse — rotate camera and look around.\n\n📱 Phone & Tablet Controls:\n\nVirtual Joystick — drag the joystick in the desired direction to move character.\n\nSwipe across screen — rotate camera and look around.",
+          "gameURL": "https://playgama.com/export/game/obby-parkour-crazy-descent?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/obby-parkour-crazy-descent",
+          "genres": [
+            "arcade",
+            "3d",
+            "running",
+            "obby",
+            "parkour"
+          ],
+          "tags": [
+            "reaction-games",
+            "customization-games",
+            "dodge-games",
+            "addictive-games",
+            "avoid-games",
+            "endless-games",
+            "obstacles-games",
+            "agility-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/obby-parkour-crazy-descent/preview/84d3b33270e84426ab1b44af9e8298ee?width=448",
+            "https://static.playgama.com/p-img/pg/obby-parkour-crazy-descent/icon/c458510f87d348df8d0188c0e0a3adf0?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "f96d6924eb1f495c8d70b0b52626abb8",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/obby-parkour-crazy-descent?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124291",
+          "slug": "bubble-merge-2d",
+          "title": "Bubble Merge 2d",
+          "description": "Bubble Merge is a relaxing physics-based puzzle game where you combine matching bubbles to create new items and complete each level’s objectives. Plan your moves carefully, use helpful power-ups, and discover new combinations as the challenges become more difficult.",
+          "howToPlayText": "Tap and drag a bubble to aim.\nRelease to launch the bubble.\nMerge two identical bubbles to create a higher-level item.\nCreate the items displayed at the top of the screen to complete the level.\nFinish all objectives before running out of moves.\nUse power-ups when you need extra help.",
+          "gameURL": "https://playgama.com/export/game/bubble-merge-2d?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/bubble-merge-2d",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "merge",
+            "physics",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "addictive-games",
+            "collecting-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/bubble-merge-2d/preview/5a86b65d349c45d0ba79a97b560424d5?width=448",
+            "https://static.playgama.com/p-img/pg/bubble-merge-2d/icon/066cda80543b440faf80af92a19ea531?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/bubble-merge-2d?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124282",
           "slug": "draw-and-save-the-stickman",
@@ -953,8 +1553,8 @@
             "1-player-games"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/microgic-89/preview/38a8f0ca12ff459ab2ee0ea17d85a698?width=448",
-            "https://static.playgama.com/p-img/pg/microgic-89/icon/869765b478e74cbf94713f06013a8e27?width=448"
+            "https://static.playgama.com/p-img/pg/microgic-89/preview/2c7ab5b694974958bf5fa47e84599df9?width=448",
+            "https://static.playgama.com/p-img/pg/microgic-89/icon/5c3f0d108601424b8dddf2eade36e0a2?width=448"
           ],
           "videos": [],
           "mobileReady": [
@@ -6008,10 +6608,16 @@
             "timing-games"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/slappy-bird/preview/00cd4f90ba904216b093096802305082?width=448",
-            "https://static.playgama.com/p-img/pg/slappy-bird/icon/0faabdea64d244768c8fab59e57ceac6?width=448"
+            "https://static.playgama.com/p-img/pg/slappy-bird/preview/34ee90e7705b46128942b3e6bd018f7c?width=448",
+            "https://static.playgama.com/p-img/pg/slappy-bird/icon/da95a81c36bf404a91e8ecc6aec37621?width=448"
           ],
-          "videos": [],
+          "videos": [
+            {
+              "playgama_id": "239d62e6432a4546a0430dab565d0f58",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
           "mobileReady": [
             "For Android",
             "For IOS",
@@ -10747,8 +11353,8 @@
             "asmr-games"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/preview/edb058d493f0488b850eb94a4d531458?width=448",
-            "https://static.playgama.com/p-img/pg/icon/3aa15a4384124a3a89063fbe6828f77b?width=448"
+            "https://static.playgama.com/p-img/pg/mandala-meadow/preview/f2ce42f1ad6740358beff96f08adf953?width=448",
+            "https://static.playgama.com/p-img/pg/mandala-meadow/icon/e0c22424689943879031cd8ba9ec19e9?width=448"
           ],
           "videos": [],
           "mobileReady": [
