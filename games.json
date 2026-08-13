@@ -14,8 +14,470 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 1955,
+      "count": 1964,
       "hits": [
+        {
+          "id": "124385",
+          "slug": "talking-veggies-meme-merge",
+          "title": "Talking Veggies: Meme Merge",
+          "description": "Welcome to Talking Veggies: Meme Merge! Drop and merge hilarious talking vegetables in this addictive physics-based puzzle game. Combine two identical veggies to create a bigger one, all the way up to the legendary Boss Watermelon! Earn coins, buy crazy upgrades for your jar, and open gacha boxes to unlock rare meme skins with powerful buffs. Can you reach the ultimate high score without spilling your veggies?",
+          "howToPlayText": "Desktop: Left-click anywhere above the jar to drop a vegetable. Mobile: Tap anywhere on the screen to drop a vegetable.\n\nGoal: Drop and merge identical vegetables to evolve them into larger ones. Keep merging to score points, but be careful — if the vegetables overflow the top of the jar, it's Game Over! Spend your earned coins in the shop for upgrades, and use crystals to open boxes.",
+          "gameURL": "https://playgama.com/export/game/talking-veggies-meme-merge?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/talking-veggies-meme-merge",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "skill",
+            "funny",
+            "food",
+            "merge"
+          ],
+          "tags": [
+            "casual-games",
+            "meme-games",
+            "addictive-games",
+            "cute-games",
+            "collecting-games",
+            "1-player-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/talking-veggies-meme-merge/big_preview/50230c208d374ae6a96176f536e19260?width=448",
+            "https://static.playgama.com/p-img/pg/talking-veggies-meme-merge/icon/3f8a41ef20ac453f8d9f2f16a9e43317?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "id-ID",
+            "it-IT",
+            "pl-PL",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/talking-veggies-meme-merge?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124381",
+          "slug": "mech-frontline-last-stand",
+          "title": "Mech Frontline: Last Stand",
+          "description": "This is a roguelike turret game featuring gacha mechanics and base building. It contains abundant game content, along with a huge variety of turrets and sets with unique effects.",
+          "howToPlayText": "Instructions Use mouse or touch controls to navigate menus, create your character, choose upgrades, and enter battle. Build your strategy by improving your mech, selecting equipment, and responding to enemy pressure during each run. Play in landscape mode for the best experience.",
+          "gameURL": "https://playgama.com/export/game/mech-frontline-last-stand?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/mech-frontline-last-stand",
+          "genres": [
+            "action",
+            "arcade",
+            "strategy",
+            "robot",
+            "tower-defense"
+          ],
+          "tags": [
+            "defense-games",
+            "1-player-games",
+            "building-games",
+            "alien-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/mech-frontline-last-stand/big_preview/2e4d0d6e5bf14324a172f2a5fe8ad64c?width=448",
+            "https://static.playgama.com/p-img/pg/mech-frontline-last-stand/icon/c318c19d4d4f4bb8979b6644066e47d6?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "ja-JP",
+            "ko-KR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/mech-frontline-last-stand?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124380",
+          "slug": "pixel-paint-sort",
+          "title": "Pixel Paint Sort",
+          "description": "Pixel Paint Sort is a captivating puzzle game that blends pixel coloring and tile sorting in one relaxing, satisfying experience. Rearrange colorful tiles, match them with the correct pegs, and gradually reveal beautiful pixel art. Watch the picture come to life with every move, turning a jumbled-up board into a stunning masterpiece!",
+          "howToPlayText": " Tap a tile to select its connected group of the same color.\n Move the selected tiles onto matching free pegs.\n Use the tray to temporarily store tiles and plan your next moves.\n Complete every color, and reveal the full pixel picture.\n Finish the level of this sort puzzle by placing every tile on its matching peg.",
+          "gameURL": "https://playgama.com/export/game/pixel-paint-sort?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/pixel-paint-sort",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "matching",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "addictive-games",
+            "creativity-games",
+            "sorting-games",
+            "art-games",
+            "mind-games",
+            "color-matching-games",
+            "1-player-games",
+            "pixel-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/pixel-paint-sort/big_preview/7a9e52feb0804d00ad6f268be1c01284?width=448",
+            "https://static.playgama.com/p-img/pg/pixel-paint-sort/icon/bf325376091d4bf88b2c0a8a1f22da7b?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/pixel-paint-sort?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124379",
+          "slug": "capybarahexasort",
+          "title": "Capybara-HexaSort",
+          "description": "Capybara Hexa Sort is a relaxing color-sorting puzzle game with a cheerful capybara theme. Place stacks of colorful hexagonal tiles on the board and watch matching top colors merge automatically. Plan every move, complete increasingly challenging level goals, collect rewards, and enjoy a satisfying blend of strategy and cozy visuals.",
+          "howToPlayText": "Place a hex tile stack from the bottom tray onto an empty cell on the board. Stacks with matching top colors that touch each other will automatically sort and merge. Keep combining colors to clear tiles and reach the level goal before the board runs out of free cells. Complete the goal to win; if there is no room for another stack, the level is lost.\n\nMobile: Tap or drag a stack, then release it over an empty board cell.\n\nDesktop: Click and drag with the left mouse button, then release over an empty board cell.\n\nUse the in-game buttons for boosters, pause/settings, sound, music, and haptics.",
+          "gameURL": "https://playgama.com/export/game/capybarahexasort?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/capybarahexasort",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "match-3",
+            "cozy",
+            "matching"
+          ],
+          "tags": [
+            "capybara-games",
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "sorting-games",
+            "cute-games",
+            "mind-games",
+            "color-matching-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/capybarahexasort/big_preview/2e119d50bc354305a9c86b7b0c88adaf?width=448",
+            "https://static.playgama.com/p-img/pg/capybarahexasort/icon/02f9c211a1784fd4934dc438c864c160?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/capybarahexasort?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124378",
+          "slug": "monster-tile-party",
+          "title": "Monster Tile Party",
+          "description": "Monster Tile Party is a bright, family-friendly triple-tile puzzle game. Pick tiles from a layered board, collect three matching monster tiles, and clear every level before your tray fills up. Cheerful original characters, satisfying match effects, helpful boosters, daily rewards, and a growing level map make every quick round feel like a tiny party.\n",
+          "howToPlayText": "Select an uncovered tile to move it into the tray. When three identical tiles enter the tray, they are removed automatically. Clear all tiles from the board to win the level. If the tray fills before the board is cleared, the level ends. Use Undo, Shuffle, and Extra Slot boosters when you need help.\n\n- Desktop: move the pointer and use the left mouse button to select tiles and UI buttons.\n- Mobile: tap tiles and UI buttons with one finger.\n- No keyboard controls are required.\n",
+          "gameURL": "https://playgama.com/export/game/monster-tile-party?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/monster-tile-party",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "match-3",
+            "monster",
+            "matching"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "brain-training-games",
+            "color-matching-games",
+            "1-player-games",
+            "tiles-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/monster-tile-party/big_preview/f766dda399974f359b9f00a9a608c397?width=448",
+            "https://static.playgama.com/p-img/pg/monster-tile-party/icon/8920d11dafba4a338ec44899168627a3?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/monster-tile-party?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124376",
+          "slug": "coffe-merge-house",
+          "title": "Coffe Merge House",
+          "description": "Coffee Merge House is a cozy merge game where you combine ingredients, prepare increasingly valuable treats, and serve customers their requested orders. Earn coins, upgrade your café, unlock new generators, and expand your collection of delicious creations. Plan your merges carefully, manage the limited board space, and keep your customers happy as your coffee house continues to grow!",
+          "howToPlayText": "How to Play Coffee Merge House\nThe objective of Coffee Merge House is to prepare delicious products, complete customer orders, earn coins, and grow generating and merging items on the board.\nClick a generator to create a new product. Each generated item occupies an empty space on the board, so make sure you manage your available slots carefully. If the board becomes crowded, look for matching products that can be combined. Discover more valuable drinks, snacks, and café treats. The further you progress through a merge chain, the more advanced products you will be able to prepare.\nEach customer displays the product they would like to order and the number of coins they will pay for it. Once you have created the requested item, drag it from the board directly onto the customer. The order will be completed, you\nKeep generating, merging, and serving customers to develop your Coffee Merge House into a thriving café!\nControls\n- Left-click or tap a generator to create an item.\n- Drag one matching item onto another to merge them.\n- Drag a requested product onto a customer to complete their order.\n- Click the upgrade button to purchase available improvements.",
+          "gameURL": "https://playgama.com/export/game/coffe-merge-house?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/coffe-merge-house",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "food",
+            "merge",
+            "cozy",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "shop-games",
+            "collecting-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/coffe-merge-house/big_preview/b3cffee008da414eafb676a2183646b8?width=448",
+            "https://static.playgama.com/p-img/pg/coffe-merge-house/icon/9cda8039487f48f2b81afa513a6f942f?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "nl-NL",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "pl-PL",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR",
+            "uk-UA",
+            "uz-UZ"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/coffe-merge-house?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124370",
+          "slug": "solitaire-8-collection",
+          "title": "Solitaire 8 Collection",
+          "description": "Eight solitaire classics in one collection: Klondike, Spider, FreeCell, TriPeaks, Pyramid, Golf, Yukon and Scorpion. No download, no sign-up — the table is dealt before the page finishes loading.\n\nWhat makes it different: every deal is checked before you see it. Most solitaire games shuffle and hope. This one runs a real solver in the background and deals from verified hands, so the deal you get has a proven way through — and the table tells you when it's guaranteed. Lose anyway? Surrender and watch the winning line play itself out.\n\nAnd it keeps the deepest record of your play in the genre: win rate with real confidence intervals, your first 50 games against your last 50, a six-month calendar of every session, best times, longest streaks, and your efficiency measured against the computer's own solution.\n\nNo ads in the middle of a game. Ever. Unlimited undo, hints that explain why, a daily challenge with streaks and a weekly one across all eight. Card backs and table themes unlocked by playing — never sold. Your progress follows you between devices.",
+          "howToPlayText": "The goal — Each solitaire has its own, and the game explains it the first time you open one. In Klondike, FreeCell, Spider, Yukon and Scorpion you build the four foundations from Ace to King. In TriPeaks and Golf you clear the table by chaining cards one rank up or down. In Pyramid you remove pairs that add up to thirteen.\n\nMouse — Click a card and the game sends it where it belongs. Or drag it exactly where you want it. Click the stock pile to deal.\n\nTouch — Tap a card to play it, or drag to place it yourself. Tap the stock to deal.\n\nKeyboard — The whole game is playable without a mouse:\nArrow keys move between cards and piles · Enter or Space picks up, drops or plays the focused card · Z undo · P hint · N new deal · M game menu · Esc closes any panel.",
+          "gameURL": "https://playgama.com/export/game/solitaire-8-collection?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/solitaire-8-collection",
+          "genres": [
+            "puzzle",
+            "cards",
+            "solitaire",
+            "classic",
+            "logic"
+          ],
+          "tags": [
+            "klondike-solitaire-games",
+            "spider-solitaire-games",
+            "brain-training-games",
+            "pyramid-solitaire-games",
+            "mind-games",
+            "1-player-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/solitaire-8-collection/big_preview/88bb5146249e479182cd1c6ad8576f79?width=448",
+            "https://static.playgama.com/p-img/pg/solitaire-8-collection/icon/536b8fe58f7e42ce93ade5fde84e2229?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "pt-PT"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/solitaire-8-collection?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124368",
+          "slug": "fish-factory",
+          "title": "FISH FACTORY",
+          "description": "FISH FACTORY is a cozy 3D fishing and production tycoon set in a polished voxel world. Explore a large living island and unlock five distinct fishing areas. Complete a collection of 100 fish species: every catch depends on the location, time of day, rod and tackle.\n\nChoose the exact casting point, hit the moving target and carry your catch to the receiving station. Build conveyors, upgrade workshops and open your own fresh-fish shop. Visitors arrive to buy fish, net manipulators gather catches, and a fishing parrot can occasionally bring an extra fish.\n\nDay turns into night, lanterns light up, nocturnal creatures appear in the water, and voxel animals roam the island. Grow at your own pace and turn a small pier into a profitable fishing village.",
+          "howToPlayText": "On desktop, move with WASD. Zoom the camera with the mouse wheel or the + and − buttons. Walk to the water, press SPACE, aim at an available spot and confirm the cast. While reeling, click when the moving bar enters the highlighted zone. Land several accurate hits to place the fish in your keepnet.\n\nOn mobile, move the fisher with the round joystick, tap the fishing button and choose the casting point with your finger. Use + and − to adjust the camera.\n\nCarry the catch into the bright circle by the receiving station. Fish are automatically placed on an available conveyor, and coins are paid after processing. Use the shop to buy rods, tackle, clothing, workshops, new fishing areas, lanterns and other upgrades. Follow the tutorial to learn the full route from casting to your first rod upgrade. Ads are optional and only provide extra bonuses.",
+          "gameURL": "https://playgama.com/export/game/fish-factory?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/fish-factory",
+          "genres": [
+            "simulation",
+            "3d",
+            "tycoon",
+            "cozy",
+            "fishing"
+          ],
+          "tags": [
+            "casual-games",
+            "cute-games",
+            "collecting-games",
+            "1-player-games",
+            "incremental-games",
+            "resource-management-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/fish-factory/big_preview/4ef76488c1e04dadaffa12b68968fc24?width=448",
+            "https://static.playgama.com/p-img/pg/fish-factory/icon/de97ad83eb264b8bb71a928768ec2374?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/fish-factory?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124365",
+          "slug": "aquarium-of-surprises",
+          "title": "Aquarium of Surprises",
+          "description": "Aquarium of Surprises is a calm idle game about a small tank. Fish swim on their own and earn coins while you decide what to add next: 10 kinds of fish, 7 plants, 7 decorations and 11 upgrades, each with a clear effect.\n\nEvents arrive quietly — coin bubbles, a drifting chest, glass to clean, or one of 6 rare visitors that joins a collection of 16 creatures. Pearls unlock special decorations and 4 aquarium themes.\n\nNo timers, no pressure, no forced ads. All graphics are vector, the sound is synthesised in the browser, and the whole game is under 150 KB.",
+          "howToPlayText": "Watch the tank: every fish earns coins by itself, there is nothing to click. The top bar shows your coins, income per second, pearls and aquarium level.\n\nOpen the Shop to spend coins. Tabs: Fish, Plants, Decor, Upgrades, Themes. Each extra fish of the same kind costs a little more; plants and decorations are bought once. Upgrades raise income, extend the offline reserve and make events more frequent — every card shows the current effect and the next level.\n\nCatch events when they appear: tap coin bubbles, spots on the glass and the drifting chest. A rare visitor must be touched before it swims away to join your collection.\n\nTasks give three calm goals at a time and pay coins, sometimes a pearl.\n\nControls: mouse or touch, no keyboard needed. Tapping the water nudges nearby fish aside, Esc closes dialogs. Progress saves automatically and keeps building while you are away.",
+          "gameURL": "https://playgama.com/export/game/aquarium-of-surprises?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/aquarium-of-surprises",
+          "genres": [
+            "decoration",
+            "cozy",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "fish-aquarium-games",
+            "collecting-games",
+            "1-player-games",
+            "incremental-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/aquarium-of-surprises/big_preview/fe173de791cf4612ad5c5f535ca8daf4?width=448",
+            "https://static.playgama.com/p-img/pg/aquarium-of-surprises/icon/fa1187b2296d476ea65a54d679cad013?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/aquarium-of-surprises?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124355",
           "slug": "flower-merge--triple-puzzle",
@@ -7846,7 +8308,13 @@
             "https://static.playgama.com/p-img/pg/crazy-flying-car/big_preview/f7ed5462da5e42a19e17ab99ff43369f?width=448",
             "https://static.playgama.com/p-img/pg/crazy-flying-car/icon/47bc9b63a40d4c6280ed8cae393362c1?width=448"
           ],
-          "videos": [],
+          "videos": [
+            {
+              "playgama_id": "26c95411312a4f70b228376e74df0d5a",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
           "mobileReady": [
             "For Android",
             "For IOS",
@@ -32071,8 +32539,8 @@
             "action-adventure"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/scary-rooms-idle-horror/big-preview/a1a9cbea4a164fc7b055b33e8e80621b?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-120657/icon/3c8266f3be3ca4ad35920c8fc8570def0b84c31d368526ecc0da172c4c61cd07?width=448"
+            "https://static.playgama.com/p-img/pg/scary-rooms-idle-horror/big_preview/1a4791b44d8f475b8e4bde2deda24fc1?width=448",
+            "https://static.playgama.com/p-img/pg/scary-rooms-idle-horror/icon/e9148b7a28824b839801364ba222f741?width=448"
           ],
           "videos": [
             {
@@ -43636,7 +44104,7 @@
           ],
           "screenOrientation": {
             "horizontal": true,
-            "vertical": false
+            "vertical": true
           },
           "embed": "<iframe src='https://playgama.com/export/game/build-an-aquapark?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
         },
@@ -50921,8 +51389,8 @@
             "gam-supported-games"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/build-a-rollercoaster-simulator/big-preview/fe6271a414f8450ba3cbe344291e4f4d?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-116615/icon/665e2d67dd02f77692967cd0ce9cf3800612a553e1ab8d36766722599473c820?width=448"
+            "https://static.playgama.com/p-img/pg/build-a-rollercoaster-simulator/big_preview/383751970d0b4cdd8c832ebd4ab0eb93?width=448",
+            "https://static.playgama.com/p-img/pg/build-a-rollercoaster-simulator/icon/79948cba106643f1ba571ffb5d6efc6f?width=448"
           ],
           "videos": [
             {
@@ -79881,8 +80349,8 @@
             "vampires-games"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/find-the-vampire/big-preview/71b9527c8411426eb7a108637e684165?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-109032/icon/08a2de3a338cfdbe0de59e6ca15bce57d47ce2df14e5ad80721b6a7e8a1d8839?width=448"
+            "https://static.playgama.com/p-img/pg/find-the-vampire/big_preview/e648c547d27347b7bf8126027148cc25?width=448",
+            "https://static.playgama.com/p-img/pg/find-the-vampire/icon/81a09a4b1790467f80ad170aeedd6521?width=448"
           ],
           "videos": [
             {
@@ -79902,7 +80370,8 @@
           ],
           "inGamePurchases": "No",
           "supportedLanguages": [
-            "en-US"
+            "en-US",
+            "ru-RU"
           ],
           "screenOrientation": {
             "horizontal": true,
