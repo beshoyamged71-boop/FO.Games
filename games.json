@@ -14,8 +14,756 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 1964,
+      "count": 1978,
       "hits": [
+        {
+          "id": "124410",
+          "slug": "2248-merge-slash",
+          "title": "2248: Merge & Slash",
+          "description": "2248: Merge & Slash combines the classic 2248 puzzle mechanics with exciting battles.\n\nBuild chains, unleash powerful attacks, defeat monsters, collect coins, and unlock new upgrades. The longer the chain, the stronger your attack. Can you make it to the end and defeat every monster?",
+          "howToPlayText": "Build chains following the 2248 rules: the first two tiles must match, and each following tile must be one level higher. For example: 2, 2, 3, 3, 3, 4, 5.\n\nAfter merging the chain, a new Level 6 tile will appear, and you'll receive an Attack Card. The longer the chain and the higher the tile levels, the more powerful the attack.\n\nThe last tile in the chain determines the attack's element. Fire, Ice, Lightning, and other elements add bonus elemental damage.\n\nChains longer than five tiles have a chance to trigger a special effect, such as a Critical Hit, Stun, Life Steal, or other powerful bonuses.\n\nDefeat enemies to earn experience and collect coins. Spend your coins on upgrades to increase your Health, boost elemental damage, improve the chance of triggering special effects, and become even stronger.\n\nFight your way through increasingly dangerous enemies and see how far you can go!",
+          "gameURL": "https://playgama.com/export/game/2248-merge-slash?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/2248-merge-slash",
+          "genres": [
+            "puzzle",
+            "number",
+            "merge"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "addictive-games",
+            "challenge-games",
+            "1-player-games",
+            "action-rpg"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/2248-merge-slash/big_preview/3a66a4df7764402aa71497a42ae060d2?width=448",
+            "https://static.playgama.com/p-img/pg/2248-merge-slash/icon/39c0ee8920e740d7ba12f832fc6af904?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "149e8da8dc3a43a8aac3fdbc1883129e",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/2248-merge-slash?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124408",
+          "slug": "chaos-arena",
+          "title": "Chaos Arena",
+          "description": "Pull. Launch. CHAOS.\n\nFling your spinner into the arena with one simple swipe and watch the mayhem unfold! Smash into enemies, bounce off walls, and knock out every opponent to claim victory. Earn skins, beat tricky bosses, adjust your build to destroy everything.\n\nEasy to pick up, impossible to put down. Jump in, start flinging, and let the chaos begin.\n",
+          "howToPlayText": "Drag back, aim, and let go — that's it. One finger is all you need. Every launch sends your spinner flying across the\narena in explosive turn-based battles powered by real physics.\n",
+          "gameURL": "https://playgama.com/export/game/chaos-arena?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/chaos-arena",
+          "genres": [
+            "action",
+            "arcade",
+            "skill",
+            "fighting",
+            "physics"
+          ],
+          "tags": [
+            "casual-games",
+            "smash-games",
+            "arena-games",
+            "1-player-games",
+            "action-fighting",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/chaos-arena/big_preview/acc68caaaba247af910cd12185676c2e?width=448",
+            "https://static.playgama.com/p-img/pg/chaos-arena/icon/bde9f4ebde074bc7b7e9864f17a76f0d?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "d06b30447f73421c99f99b6cb06db844",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "ja-JP",
+            "ko-KR",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/chaos-arena?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124407",
+          "slug": "mochi-mochi-tower",
+          "title": "Mochi Mochi Tower",
+          "description": "Stack cute kawaii mochi sweets as high as you can in this addictive hyper-casual tower builder! Time your drops perfectly, balance wobbling towers, unlock charming anime mascot outfits, and collect sweet mochi packs. Easy to play, hard to master!",
+          "howToPlayText": "Tap the screen or click anywhere to drop the moving mochi onto the tower. Land drops perfectly to build the highest tower and avoid letting mochi slide off the edges. Collect coins to unlock new mochi packs and cute anime mascots!",
+          "gameURL": "https://playgama.com/export/game/mochi-mochi-tower?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/mochi-mochi-tower",
+          "genres": [
+            "arcade",
+            "skill",
+            "girls",
+            "anime",
+            "physics"
+          ],
+          "tags": [
+            "casual-games",
+            "hyper-casual-games",
+            "addictive-games",
+            "cute-games",
+            "1-player-games",
+            "timing-games",
+            "stacking-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/mochi-mochi-tower/big_preview/3c991bb30af0454894bba73e302714ef?width=448",
+            "https://static.playgama.com/p-img/pg/mochi-mochi-tower/icon/908dd7b4ff9a41c8a7a8effd9e81db6b?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "e2af0a31b3174721ac891fc9e6505b0f",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ar-EG",
+            "zh-CN",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "hi-IN",
+            "id-ID",
+            "it-IT",
+            "ja-JP",
+            "ko-KR",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/mochi-mochi-tower?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124406",
+          "slug": "thousand-suns",
+          "title": "Thousand Suns",
+          "description": "Thousand Suns is a 5-minute galactic conquest battle where you and four AI rivals race from a single home planet to control an entire galaxy. Build up your production, out-tech your rivals, and send your fleets across the stars: every match compresses an empire-building war into the time it takes to grab a coffee.\nHow to Play Thousand Suns\n\nYou start with one planet and one goal: expand before someone else does. Your homeworld constantly builds ships on its own, and you send that growing fleet outward to claim neutral worlds or crush enemy territory. Every planet you take adds more production, more options, and more pressure on the four bots also racing to dominate the galaxy.",
+          "howToPlayText": "Left Click a planet or starbase you control = select it\nLeft Click another planet or starbase while one is selected = deploy your fleet there — attack if it's enemy or neutral, reinforce if it's your own\nLeft Click your selected planet again = deselect it\nClick and Drag from one of your planets to another = connect a ferry lane, so newly produced ships automatically flow to the destination\nLeft Click an existing ferry lane = disconnect it\nLeft Click the pulsing arrow above a leveled-up planet = choose your next upgrade (Industry / Agriculture / Research)\nTAB = quit to the main menu",
+          "gameURL": "https://playgama.com/export/game/thousand-suns?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/thousand-suns",
+          "genres": [
+            "strategy",
+            "pve",
+            "space",
+            "war"
+          ],
+          "tags": [
+            "webgl-games",
+            "1-player-games",
+            "tactical-games",
+            "space-waves"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/thousand-suns/big_preview/b4f853f9fdc54a18bd33ecb24cd4ab96?width=448",
+            "https://static.playgama.com/p-img/pg/thousand-suns/icon/7e77afa425d24810ba8c63c3359ee868?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/thousand-suns?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124405",
+          "slug": "stormhawk",
+          "title": "STORMHAWK",
+          "description": "STORMHAWK is a vertical arcade shooter — a shmup — built to be played with one hand. Fly 32 hand-built missions over the Pacific, dodge with a barrel roll, and chain kills to multiply your score.\n\nWhat makes it different from other plane shooters: everything you earn goes somewhere. Land after a mission and spend it in the hangar, unlock twelve planes that each fly differently, and pick roguelite cards mid-run so no two campaigns stack the same way. Six modes, including a Daily mission everyone plays identically and a Boss Rush against all 32 bosses back to back.",
+          "howToPlayText": "Goal: survive each mission, beat its boss, and land to bank what you collected. Chain kills without missing to raise the multiplier — the score is what puts you on the leaderboard.\n\nTouch: drag anywhere to fly; the plane follows your finger. Firing is automatic. Tap with a second finger to barrel roll — you are invincible for a moment and nearby bullets turn into points. Hold that second finger to slow down and tighten your shot.\n\nKeyboard: arrows or WASD to fly, Z to fire, X to barrel roll, C for the special attack, P or Esc to pause. All keys can be remapped in Settings.",
+          "gameURL": "https://playgama.com/export/game/stormhawk?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/stormhawk",
+          "genres": [
+            "action",
+            "arcade",
+            "skill",
+            "shooting",
+            "airplane"
+          ],
+          "tags": [
+            "2d-games",
+            "plane-games",
+            "mission-games",
+            "dodge-games",
+            "fighter-jet-games",
+            "flight-games",
+            "1-player-games",
+            "shoot-em-up-games",
+            "aviation-games",
+            "arcade-shooter",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/stormhawk/big_preview/35317edfadaa478d82265cd2be538a2d?width=448",
+            "https://static.playgama.com/p-img/pg/stormhawk/icon/249e5c1cb3ef4625a497962d7d35b52e?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "pt-PT",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/stormhawk?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124402",
+          "slug": "crashdown-voxel-destruction",
+          "title": "CrashDown Voxel Destruction",
+          "description": "Crash Down - Smash Everything is a voxel-based sandbox game. The player is given complete freedom of action. There are various locations at your disposal, filled to capacity with structures. The key feature is the possibility of their complete destruction. Using various methods, you can destroy everything you see. Have you ever dreamed of leveling a multi-storey house with your own hands? Now you have such an opportunity! The physics of destruction is close to reality. Use a variety of arsenal to destroy objects, from a hammer to a powerful bazooka.",
+          "howToPlayText": "Choose any available location, take everything possible from the arsenal and start destroying everything you see, it is possible to destroy literally anything, have fun.\n\nControl of the game:\n\nWASD - Movement.\nSpace - Jump.\nEsc - Pause.\nMouse - Overview.\nLeft Shift - Running.\nLeft mouse button - Shot, throw.\nI - Inventory.\nM - Map.",
+          "gameURL": "https://playgama.com/export/game/crashdown-voxel-destruction?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/crashdown-voxel-destruction",
+          "genres": [
+            "action",
+            "simulation",
+            "3d",
+            "physics",
+            "crazy-games"
+          ],
+          "tags": [
+            "casual-games",
+            "voxel-games",
+            "destruction-games",
+            "destroy-games",
+            "smash-games",
+            "1-player-games",
+            "demolition-games",
+            "sandbox-games",
+            "building-games",
+            "crush-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/crashdown-voxel-destruction/big_preview/86314e56a72e4befa84a35f27400484d?width=448",
+            "https://static.playgama.com/p-img/pg/crashdown-voxel-destruction/icon/fc55e013872e46a1b57db9f7538e0e12?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "c3fba7f5be1047f69adacc8fa1de68e1",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/crashdown-voxel-destruction?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124401",
+          "slug": "bloxorz-color-block-roll",
+          "title": "Bloxorz: Color Block Roll",
+          "description": "A rolling-cube puzzle where color is everything. Roll a painted cube to the exit, landing only on tiles that match the face touching the ground. Solve 60 levels of color-matching paths — with platforms that rotate, move, and teleport — in a satisfying test of spatial thinking.\nFans of classics like Bloxorz will feel right at home.",
+          "howToPlayText": "Move — WASD or Arrow keys\nMove (mouse) — hold the left button and drag in a direction, then release\nMove (touch) — swipe in a direction\n\nMove one step at a time. Choose up, down, left, or right to reach the goal.",
+          "gameURL": "https://playgama.com/export/game/bloxorz-color-block-roll?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/bloxorz-color-block-roll",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "3d",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "cube-games",
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "mind-games",
+            "color-matching-games",
+            "desktop-games",
+            "rolling-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/bloxorz-color-block-roll/big_preview/887ba7bbf0344c2398692ed1282b28c7?width=448",
+            "https://static.playgama.com/p-img/pg/bloxorz-color-block-roll/icon/20318dc062b14b9a8d3828699ea60cfd?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "4d724b4a176c458aa63760b9ddab9920",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/bloxorz-color-block-roll?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124400",
+          "slug": "obby-car-keyboard-parkour",
+          "title": "Obby Car Keyboard Parkour",
+          "description": "Jump behind the wheel and take on a unique keyboard-themed obstacle course! Speed through challenging parkour tracks, dodge dangerous obstacles, and reach the finish line to unlock exciting new areas.\n\nEvery new car increases your speed, helping you conquer even tougher levels. Earn rewards, collect powerful boosts, unlock rare supercars, and keep improving your performance. Rebirth to gain permanent bonuses and become even faster with every run.\n\nEnjoy simple controls, colorful graphics, a wide variety of vehicles, and endless progression. Challenge yourself, master every obstacle, and prove you have what it takes to become the ultimate keyboard parkour champion!",
+          "howToPlayText": "On PC: \nWASD - control the car \nHold RMB and move the mouse - control the camera \nSpace - jump \nTAB - pause \nR - back to the start\n\nOn mobile: \non-screen controls",
+          "gameURL": "https://playgama.com/export/game/obby-car-keyboard-parkour?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/obby-car-keyboard-parkour",
+          "genres": [
+            "racing",
+            "arcade",
+            "skill",
+            "car",
+            "multiplayer",
+            "obby",
+            "driving",
+            "parkour"
+          ],
+          "tags": [
+            "reaction-games",
+            "customization-games",
+            "casual-games",
+            "obstacles-games",
+            "jumping-games",
+            "speed-games",
+            "collecting-games",
+            "1-player-games",
+            "arcade-car",
+            "67-obby"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/obby-car-keyboard-parkour/big_preview/d3a0c6bb99cb4121a6a175601bb1c791?width=448",
+            "https://static.playgama.com/p-img/pg/obby-car-keyboard-parkour/icon/735d09e41df64ee0a28546229d7f1fa0?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "51aade2b13084ee08f3e4cb1b561aee9",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/obby-car-keyboard-parkour?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124399",
+          "slug": "round-rush-jam",
+          "title": "Round Rush Jam",
+          "description": "Round Rush Jam is a bright casual puzzle game where every piece can move only in the direction of its arrows. Plan the order of your moves, open escape routes, and clear each hexagonal board before you run out of moves. New obstacles, linked pieces, rotating paths, and useful boosters keep every level fresh and satisfying.",
+          "howToPlayText": "Tap or left-click a colored piece to send it along the direction shown by its white arrows. A piece leaves the board only when its path is clear, so move blocking pieces in the right order and use boosters when a puzzle gets tricky. Remove every colored piece before the move counter reaches zero to win the level.\n\nControls: left mouse button on desktop; tap on mobile and tablet. No keyboard controls are required.",
+          "gameURL": "https://playgama.com/export/game/round-rush-jam?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/round-rush-jam",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "arrows-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/round-rush-jam/big_preview/798e4405218d4f38800f20ba8735ced1?width=448",
+            "https://static.playgama.com/p-img/pg/round-rush-jam/icon/31ad240227ca4bd6a8601e7cc506f6ba?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/round-rush-jam?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124394",
+          "slug": "pop-the-ball",
+          "title": "Pop The Ball",
+          "description": "Pop balloons into smaller ones and guide them through the matching holes. Make sure every balloon fits through and lands in the basket below. Think ahead and choose which balloons to pop to solve each level. Fill the basket to complete the puzzle!",
+          "howToPlayText": "Pop balloons by clicking on them. Fill the basket with balloons to complete the level. Roll balls through the multiplier windows to increase their amount!",
+          "gameURL": "https://playgama.com/export/game/pop-the-ball?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/pop-the-ball",
+          "genres": [
+            "puzzle",
+            "3d",
+            "ball",
+            "physics"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "collecting-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/pop-the-ball/big_preview/49fa222f97c14611ba1f2fe5adeae64f?width=448",
+            "https://static.playgama.com/p-img/pg/pop-the-ball/icon/2695ffcdcc0c47ebb2a4d5b4f3134931?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/pop-the-ball?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124393",
+          "slug": "tall-grass",
+          "title": "Tall Grass",
+          "description": "Every blade of tall grass hides something: a shard, a heart or a monster. Trample it and find out. Cleared tiles reveal how many monsters lurk in the eight tiles around them, so every step is a read as much as a gamble. \nThe gate opens before the field is cleared: leave with what you have or push deeper for the shards and upgrades you'll need when the Pumpking wakes. One thumb, one verb, fully turn-based, nothing happens until you move, so there are no reflexes to fail.",
+          "howToPlayText": "Tap or swipe to step one tile or use the arrow keys / WASD or mouse click.\nTall grass hides shards, hearts and monsters. Stepping on it cuts it down.\nA number on a cleared tile counts the hidden monsters in the eight tiles around it.\nStep into a woken monster to strike it. It strikes back if it survives.\nEvery 4 shards, choose a boon.\nFill the shard bar to open the gate then decide whether to leave or keep going.",
+          "gameURL": "https://playgama.com/export/game/tall-grass?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/tall-grass",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "strategy",
+            "fighting",
+            "monster",
+            "logic"
+          ],
+          "tags": [
+            "turnbased-games",
+            "2d-games",
+            "casual-games",
+            "brain-training-games",
+            "1-player-games",
+            "roguelike-games",
+            "dungeon-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/tall-grass/big_preview/4e8b2da1c3d14636b6cd47257c71c913?width=448",
+            "https://static.playgama.com/p-img/pg/tall-grass/icon/1cdd904ae7554f90b673bc0072858a96?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "ja-JP",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/tall-grass?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124389",
+          "slug": "dancing-road",
+          "title": "Dancing Road",
+          "description": "Dancing Road is a fast-paced rhythm runner where you guide a glowing ball along a neon track and match balls of the same color to the beat. Dodge mismatched colors, react to color-changing gates, collect rewards, and master multiple music tracks. Simple one-touch controls, vivid cosmic roads, and music-synced challenges make every run easy to start and hard to perfect.",
+          "howToPlayText": "Hold the left mouse button and drag left or right on desktop, or touch and drag on mobile. Guide your ball into balls of the same color and avoid balls of other colors. Color gates change your ball, so look ahead and move to the matching lane. Reach the end of the track, collect rewards, and improve your score to unlock more balls, roads, and songs.\n\nPrimary controls: left mouse button and horizontal mouse drag on desktop; touch and horizontal drag on mobile. No keyboard controls are required.",
+          "gameURL": "https://playgama.com/export/game/dancing-road?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/dancing-road",
+          "genres": [
+            "arcade",
+            "skill",
+            "running",
+            "ball",
+            "music"
+          ],
+          "tags": [
+            "reaction-games",
+            "fast-paced-games",
+            "casual-games",
+            "dodge-games",
+            "addictive-games",
+            "avoid-games",
+            "speed-games",
+            "color-matching-games",
+            "agility-games",
+            "1-player-games",
+            "rhythm-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/dancing-road/big_preview/6c7688b907574ca99836b611f5c12719?width=448",
+            "https://static.playgama.com/p-img/pg/dancing-road/icon/8f108d30340a4a2593294f00fbe5ca85?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/dancing-road?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124388",
+          "slug": "cardivo-adventure",
+          "title": "Cardivo Adventure",
+          "description": "Cardivo Adventure is a relaxing card-sorting puzzle game where every card belongs to a themed collection. Move cards between stacks, uncover hidden matches, and organize colorful sets before you run out of moves. Thoughtful level layouts, satisfying animations, useful boosters, and steadily increasing challenges make every round a fresh little adventure.\n",
+          "howToPlayText": "Goal: Sort every card into its matching themed stack to complete the level before you run out of moves.\n\nHow to play:\n- On desktop, use the left mouse button to select and move cards.\n- On mobile and tablet, tap or drag cards with one finger.\n- Match cards with the correct category and clear all required cards from the board.\n- Use boosters when you need help with a difficult layout.\n- Complete the level to unlock the next challenge. If you run out of moves, retry the level and plan a different sequence.\n",
+          "gameURL": "https://playgama.com/export/game/cardivo-adventure?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/cardivo-adventure",
+          "genres": [
+            "puzzle",
+            "matching",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "connect-games",
+            "sorting-games",
+            "mind-games",
+            "color-matching-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/cardivo-adventure/big_preview/28fd65ed76514a689b5c1a5ec713578c?width=448",
+            "https://static.playgama.com/p-img/pg/cardivo-adventure/icon/8094d746a22f43b88d2502afb65d8abe?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/cardivo-adventure?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124387",
+          "slug": "goods-master",
+          "title": "Goods Master",
+          "description": "Tidy up an overflowing closet! Simple, satisfying mechanics paired with cute 3D graphics and hundreds of levels, ranging from easy sorts to tricky combo challenges with boosters.",
+          "howToPlayText": "Match identical items in sets of three to clear the shelves in this relaxing match-3 puzzle. Use boosters to get through tough levels.",
+          "gameURL": "https://playgama.com/export/game/goods-master?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/goods-master",
+          "genres": [
+            "puzzle",
+            "matching",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "addictive-games",
+            "sorting-games",
+            "cute-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/goods-master/big_preview/357958d8777f4a7581b11c0968c56b47?width=448",
+            "https://static.playgama.com/p-img/pg/goods-master/icon/24a2d06c9a2747bca76c89287d03805d?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/goods-master?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124385",
           "slug": "talking-veggies-meme-merge",
@@ -1696,10 +2444,15 @@
             "https://static.playgama.com/p-img/pg/rustlings-online/big_preview/df8a4a1fd0974f03b2e224ddadc8bef4?width=448",
             "https://static.playgama.com/p-img/pg/rustlings-online/icon/c550e61fe29f4474850560f635118d7c?width=448"
           ],
-          "videos": [],
+          "videos": [
+            {
+              "playgama_id": "583b1790c702489e8cf9484f0be10821",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
           "mobileReady": [
             "For Android",
-            "For IOS",
             "For Desktop"
           ],
           "gender": [
@@ -3728,8 +4481,8 @@
         {
           "id": "124211",
           "slug": "starweave-make-constellations",
-          "title": "Starweave Make Constellations",
-          "description": "Starweave is a breathtaking, meditative puzzle game where you restore balance to the universe one strand of light at a time. Guided by ancient celestial dust, your journey begins with a single spark. Draw glowing pathways between pulsing star nodes to weave intricate constellations. Whether you are looking to sharpen your mind with elegant geometric puzzles or simply wash away stress of the day with soothing ambient soundscapes.",
+          "title": "Starweave: Creative Constellation",
+          "description": "Starweave is a cosmic puzzle game. A relaxing yet challenging journey bring the night sky to life!\n\nIn Starweave you control a glowing beam of starlight traveling through the deep cosmos.\nYour goal is to guide this light from star to star, connecting them together to weave beautiful, glowing constellations. As you glide through space, you will need to dodge floating obstacles and navigate clever pathways to complete each celestial pattern.\n\n\nWhy you'll love it (What makes it unique)\n\nSoothing and Relaxing: With soft, colorful cosmic backgrounds and peaceful, ambient sounds, it is the perfect game to play when you want to decompress and unwind.\n\nSatisfyingly Smooth Controls: Controlling your light thread feels incredibly natural and responsive. It is as simple as drawing directly on your screen with your finger.\n\nBeautiful Neon Visuals: Watch the dark, quiet sky explode with brilliant neon lines, glittering starbursts and magical effects the moment you complete a constellation.\n\nDelightful Brain-Teasers: Each level challenges you to find the perfect path to connect all the stars. It is easy to pick up, but offers just the right amount of playful challenge as you progress.",
           "howToPlayText": "Use mouse to click and drag to connect the stars and make constellations in the sky, use hints for the correct connection",
           "gameURL": "https://playgama.com/export/game/starweave-make-constellations?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
           "playgamaGameUrl": "https://playgama.com/game/starweave-make-constellations",
@@ -3769,7 +4522,7 @@
             "en-US"
           ],
           "screenOrientation": {
-            "horizontal": true,
+            "horizontal": false,
             "vertical": true
           },
           "embed": "<iframe src='https://playgama.com/export/game/starweave-make-constellations?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
@@ -23052,8 +23805,8 @@
             "sandbox-games"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/car-crash-sandbox/big-preview/468d2a03c50044d397bf7dc6eea4f2c7?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-122402/icon/d4bcea5c92bb125d2a9fedd57a17982a761e5c21f33ddb6a9d2075dbad046062?width=448"
+            "https://static.playgama.com/p-img/pg/car-crash-sandbox/big_preview/27cc6ed862204c288a8e0460ac7d5e09?width=448",
+            "https://static.playgama.com/p-img/pg/car-crash-sandbox/icon/4b11607e9678495dabc5f5861e7ece0e?width=448"
           ],
           "videos": [
             {
@@ -37442,8 +38195,8 @@
             "multiplayer-horror"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/ragdoll-racing-extreme-downhill/big-preview/accff41407864b37b123fe00dc7fa65f?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-119972/icon/93be7d7ffc3a841197be9f6af922dfb09355771fa22790bb85b6df1d67b97000?width=448"
+            "https://static.playgama.com/p-img/pg/ragdoll-racing-extreme-downhill/big_preview/8f4406e66d22496ab01d67381bc6dfe3?width=448",
+            "https://static.playgama.com/p-img/pg/ragdoll-racing-extreme-downhill/icon/b62c32492a7b42299225c0273ca47299?width=448"
           ],
           "videos": [
             {
@@ -54117,8 +54870,8 @@
             "fast-paced-action"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/stickman-kombat-2d/big-preview/1d1f4e0234d74b76a316a3f1465449d3?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-115751/icon/5d3697c63f063da6a5494f8c8cd832a270366ce7efd6cf84ebf23c0cf8ce0704?width=448"
+            "https://static.playgama.com/p-img/pg/stickman-kombat-2d/big_preview/4b027b6071e2495aad3ac02403e35a1a?width=448",
+            "https://static.playgama.com/p-img/pg/stickman-kombat-2d/icon/5524d8055e054f909166c935c620afb3?width=448"
           ],
           "videos": [
             {
