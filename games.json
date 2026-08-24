@@ -14,8 +14,387 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 2015,
+      "count": 2023,
       "hits": [
+        {
+          "id": "124565",
+          "slug": "hungry-cars",
+          "title": "Hungry Cars",
+          "description": "You are a car that gets stronger by eating other cars! Get stronger and unlock customization options every run!",
+          "howToPlayText": "Go to cars with a lower power level to eat them and get stronger. Avoid stronger cars or get damaged.\nDesktop Controls:\n↑ (Up Arrow): Move upward.\n↓ (Down Arrow): Move downward.\n← (Left Arrow): Move left.\n→ (Right Arrow): Move right.\nMobile Controls:\nOn-Screen Joystick: Move in all directions by dragging the joystick.",
+          "gameURL": "https://playgama.com/export/game/hungry-cars?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/hungry-cars",
+          "genres": [
+            "action",
+            "racing",
+            "arcade",
+            "3d",
+            "car",
+            "car-racing",
+            "number"
+          ],
+          "tags": [
+            "reaction-games",
+            "customization-games",
+            "destroy-games",
+            "addictive-games",
+            "vehicles-games",
+            "car-crash-games",
+            "1-player-games",
+            "arcade-car"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/hungry-cars/big_preview/cd501767a7ea46ff8e3c9e45363fcc95?width=448",
+            "https://static.playgama.com/p-img/pg/hungry-cars/icon/e454f36c3388407584607ca724803ec3?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/hungry-cars?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124564",
+          "slug": "jewel-gem-puzzle",
+          "title": "Jewel Gem Puzzle",
+          "description": "Jewel Gem Puzzle & Create with Pixel Art Puzzles\nEnter a vibrant world of glowing jewels where creativity and puzzle-solving come together in perfect harmony! Designed for easy, relaxing fun, this one-of-a-kind experience combines color sorting, pixel art creation, and satisfying casual gameplay all in one. With smooth, user-friendly controls and levels that gently grow more engaging, it’s the perfect way to unwind while keeping your mind active.",
+          "howToPlayText": "How to Play: Color, Sort, & Craft Beautiful Pixel Art\n- Sort Jewels by Color with Ease: Just tap and arrange sparkling jewels into their matching color groups. No confusing rules or complicated steps—just simple, enjoyable sorting action.\n- Plan & Organize Your Workspace: Keep your jewel shelf neatly arranged and think ahead to clear each puzzle efficiently. Every small choice helps you complete the picture smoothly.\n- Uncover Stunning Pixel Art Masterpieces: As you sort and place each jewel, watch as hidden pixel art designs slowly come to life. Every level reveals a brand-new, dazzling image to enjoy.\n- Enjoy Endless Creative Satisfaction: There’s no pressure—just calm, rewarding gameplay that turns every moment into a peaceful artistic break.",
+          "gameURL": "https://playgama.com/export/game/jewel-gem-puzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/jewel-gem-puzzle",
+          "genres": [
+            "puzzle",
+            "cozy",
+            "matching",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "jewel-games",
+            "relaxing-games",
+            "creativity-games",
+            "mind-games",
+            "color-matching-games",
+            "pixel-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/jewel-gem-puzzle/big_preview/458d799a17284a40b3fc9223866c5b62?width=448",
+            "https://static.playgama.com/p-img/pg/jewel-gem-puzzle/icon/fc93263f7a5d41fd9cc284c8502f2a56?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/jewel-gem-puzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124562",
+          "slug": "ashfall-industries",
+          "title": "Ashfall Industries",
+          "description": "Ashfall Industries is a comic atompunk idle management game about turning a battered wasteland into a thriving industrial frontier.\nStart with a humble Rustwater Pump, collect Scrap, and build a network of increasingly ambitious operations: greenhouses, salvage yards, radio stations, caravan routes, drone workshops, refineries, and more.\nEvery operation can be upgraded for bigger payouts and faster cycles. Hire distinctive Crew Chiefs to automate production, then invest in Retrofits that improve output, speed, costs, and Lucky Find rewards. When your industry is ready for a fresh start, trigger Reclamation to earn Reactor Cores and unlock permanent Recovery Protocols that make every rebuild stronger.\n\nCore Features\n- Build 15 original wasteland operations, from clean-water pumps to the Horizon Reactor.\n- Collect Scrap, level up production, and hit new Benchmarks for bigger rewards.\n- Hire Crew Chiefs to automate your best operations while you expand the business.\n- Buy Retrofits to improve output, cycle speed, salvage efficiency, and Lucky Finds.\n- Catch Lucky Finds for boosted payouts and satisfying bursts of progress.\n- Use Reclamation to reset strategically, earn Reactor Cores, and purchase permanent upgrades.\n- Grow a colorful rust-and-turquoise industrial empire at your own pace.\n\n",
+          "howToPlayText": "How to Play\n1. Buy an operation and click its Run button to begin producing Scrap.\n2. Spend Scrap to level up operations, unlock more businesses, and improve your income.\n3. Hire Crew Chiefs to automate production cycles.\n4. Purchase Retrofits and collect Lucky Finds to accelerate your growth.\n5. Use Reclamation when you are ready to earn Reactor Cores and rebuild faster.\n\nMouse\n- Left-click buttons to run operations, collect rewards, make purchases, and navigate menus.\n\nTouchscreen\n- Tap to use the same controls.",
+          "gameURL": "https://playgama.com/export/game/ashfall-industries?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/ashfall-industries",
+          "genres": [
+            "arcade",
+            "strategy",
+            "simulation",
+            "tycoon",
+            "clicker",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "addictive-games",
+            "1-player-games",
+            "sci-fi-games",
+            "incremental-games",
+            "resource-management-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/ashfall-industries/big_preview/84acdbe18fb84737a55afa71f3cde65b?width=448",
+            "https://static.playgama.com/p-img/pg/ashfall-industries/icon/abdcc7600e464d189b33a3d1a605cab2?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "a8c9f455c9c345c5882602ec100cf18d",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "id-ID",
+            "it-IT",
+            "pl-PL",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR",
+            "uk-UA",
+            "vi-VN"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/ashfall-industries?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124561",
+          "slug": "harvest-haulers",
+          "title": "Harvest Haulers",
+          "description": "Harvest is an idle tap game about running a fruit farm. Tap the hopper to shake loose fruit, dumping it onto trucks on the belt. Full trucks drive off and pay gold. Spend gold on upgrades: more fruit per tap, bigger trucks, a faster belt, extra lanes.",
+          "howToPlayText": "- Tap / click the hopper — releases a burst of fruit into the funnel below it.\n- Tap a truck on the belt to dispatch it early if you don't want to wait for a full load.\n- Tap an upgrade card in the shop rail to spend gold and boost your production.",
+          "gameURL": "https://playgama.com/export/game/harvest-haulers?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/harvest-haulers",
+          "genres": [
+            "arcade",
+            "clicker",
+            "management",
+            "farm",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "addictive-games",
+            "collecting-games",
+            "1-player-games",
+            "incremental-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/harvest-haulers/big_preview/957c38c5628d40d18e83551da990c906?width=448",
+            "https://static.playgama.com/p-img/pg/harvest-haulers/icon/906fec19c46046e0a05db818e025b47b?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "b3e2981393c648b4bddeff84ff2e0d88",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/harvest-haulers?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124560",
+          "slug": "car-parking-driving-game",
+          "title": "Car Parking Driving Game",
+          "description": "Car Parking Driving Game is a realistic 3D driving game that puts your parking skills to the ultimate test. Drive through challenging parking courses, avoid obstacles, navigate tight spaces, and complete exciting missions using smooth, realistic vehicle controls.\nExplore detailed environments while improving your precision and driving techniques. Every level introduces new parking challenges that require careful steering, braking, and timing. Earn rewards by completing missions, unlock new vehicles, and become a true parking expert.\nWhether you enjoy casual driving games or realistic car simulators, this game offers hours of fun with satisfying gameplay and progressive difficulty.\nFeatures\n🚗 Realistic car driving and parking physics\n🅿️ Challenging parking missions\n🌆 Detailed 3D environments\n🎮 Smooth keyboard and mobile controls\n🚘 Multiple vehicles to unlock\n⭐ Progressive difficulty across many levels\n⚡ Responsive handling and realistic driving mechanics\n🌐 Play instantly in your browser",
+          "howToPlayText": "W / up arrow key = accelerate\nA / left arrow key = turn left\nD / right arrow key = turn right\nS / down arrow key = brake\nC = change camera view\nMouse Click To Interact",
+          "gameURL": "https://playgama.com/export/game/car-parking-driving-game?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/car-parking-driving-game",
+          "genres": [
+            "arcade",
+            "simulation",
+            "skill",
+            "3d",
+            "car",
+            "driving",
+            "physics",
+            "parking"
+          ],
+          "tags": [
+            "casual-games",
+            "brain-training-games",
+            "avoid-games",
+            "desktop-games",
+            "1-player-games",
+            "arcade-car"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/car-parking-driving-game/big_preview/22b1fbbe248d4ea09a72daabbb25e0ef?width=448",
+            "https://static.playgama.com/p-img/pg/car-parking-driving-game/icon/ed0c47a0e9c247ca80692ae25af922ea?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/car-parking-driving-game?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124556",
+          "slug": "wobble-run",
+          "title": "Wobble Run",
+          "description": "Wobble Run is a 13+ arcade balance runner. You auto-run a leaning stack of wet-ink cans across Sky Docks, Slice Street, and Hive Yard. Catch more to grow taller. Tip is the only fail.\n\n• Three worlds, 16 levels each\n• Touch or mouse to steer into the lean\n• Cosmetics unlock from play — no accounts, no IAP\n• Stack wet. Don’t tip.\n\nHeight is easy. Balance is the game.",
+          "howToPlayText": "Touch / drag or mouse to steer\nDesktop: A/D or arrows\nSteer into the lean to recover\nTip and you spill — catch every can and coin for a Perfect",
+          "gameURL": "https://playgama.com/export/game/wobble-run?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/wobble-run",
+          "genres": [
+            "arcade",
+            "skill",
+            "3d",
+            "running",
+            "physics",
+            "runner"
+          ],
+          "tags": [
+            "reaction-games",
+            "side-scrolling-games",
+            "fast-paced-games",
+            "casual-games",
+            "addictive-games",
+            "collecting-games",
+            "1-player-games",
+            "simple-games",
+            "stacking-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/wobble-run/big_preview/7add3f705d2b4ad582ce34ecf87e47c7?width=448",
+            "https://static.playgama.com/p-img/pg/wobble-run/icon/d50bc2819f904c17b3a56849accc3e28?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "0ba77efb3b9743cabdcc115d19d7d620",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/wobble-run?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124555",
+          "slug": "fat-hedgehog-boris",
+          "title": "Fat Hedgehog Boris",
+          "description": "Fat Hedgehog Boris is a funny platformer where every hit makes Boris fatter and changes how he moves. Run, jump, defeat enemies, collect coins, avoid dangerous traps, fight bosses, and reach the finish while trying to keep Boris in good shape.",
+          "howToPlayText": "Move left and right using the arrow keys or the on-screen controls. Press Space to jump. Press Space again while in the air to perform a downward attack. Defeat enemies from above, break certain blocks, collect coins, avoid traps, and reach the end of each level. Taking damage makes Boris fatter and harder to control.",
+          "gameURL": "https://playgama.com/export/game/fat-hedgehog-boris?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/fat-hedgehog-boris",
+          "genres": [
+            "arcade",
+            "adventure",
+            "funny",
+            "running",
+            "platform"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "cute-games",
+            "jumping-games",
+            "collecting-games",
+            "1-player-games",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/fat-hedgehog-boris/big_preview/efa037a5239a4823a78ff0cccef25724?width=448",
+            "https://static.playgama.com/p-img/pg/fat-hedgehog-boris/icon/74b39cb8b91641658f09bac95b14656e?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/fat-hedgehog-boris?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124548",
           "slug": "brainrot-crusher-idle",
@@ -131,6 +510,53 @@
           "embed": "<iframe src='https://playgama.com/export/game/sniper-for-brainrots?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
         },
         {
+          "id": "124540",
+          "slug": "1-speed-keyboard-escape",
+          "title": "+1 Speed Keyboard Escape",
+          "description": "+1 SPEED KEYBOARD ESCAPE is a fast-paced arcade game where every key press makes you faster!\n\nPress keys, build your speed, overcome challenging stages, and survive as long as possible. The faster you become, the harder the obstacles get.\n\nCan you reach the ultimate speed and last stage?\n",
+          "howToPlayText": "HOW TO PLAY\n\n⚡ Press keys to gain speed!\n\n⌨️ Use your keyboard to increase your speed and escape the obstacles.\n\nThe faster you go, the harder the stages become.\n\nReach new speed levels, survive longer, and complete all stages!\n\nControls\n\nPC\n\n- Press keyboard keys to accelerate\n- WASD /  Move\n- Mouse: Look around\n\nMobile\n\n- Use the joystick to move\n- Tap controls to interact\n\nGood luck and reach maximum speed!",
+          "gameURL": "https://playgama.com/export/game/1-speed-keyboard-escape?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/1-speed-keyboard-escape",
+          "genres": [
+            "arcade",
+            "running",
+            "keyboard"
+          ],
+          "tags": [
+            "fast-paced-games",
+            "dodge-games",
+            "addictive-games",
+            "obstacles-games",
+            "speed-games",
+            "challenge-games",
+            "agility-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/1-speed-keyboard-escape/big_preview/e6f4f82b509d4fe190920398a2bfce6f?width=448",
+            "https://static.playgama.com/p-img/pg/1-speed-keyboard-escape/icon/e1252c457c224cf29de79fc72b59b414?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/1-speed-keyboard-escape?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
           "id": "124538",
           "slug": "exitblocks-color-match-puzzle",
           "title": "ExitBlocks: Color Match Puzzle",
@@ -197,7 +623,13 @@
             "https://static.playgama.com/p-img/pg/hole-eats-all-eat-them-all/big_preview/a21ea52cf71d4c9386ce7f1704635865?width=448",
             "https://static.playgama.com/p-img/pg/hole-eats-all-eat-them-all/icon/a6b97910da2e48b29807dfe13b0c17ce?width=448"
           ],
-          "videos": [],
+          "videos": [
+            {
+              "playgama_id": "159c2d6a3a564ba19bcb7ad7cf90071a",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
           "mobileReady": [
             "For Android",
             "For IOS",
@@ -3183,8 +3615,6 @@
           ],
           "videos": [],
           "mobileReady": [
-            "For Android",
-            "For IOS",
             "For Desktop"
           ],
           "gender": [
@@ -17291,7 +17721,7 @@
         {
           "id": "123376",
           "slug": "last-knight-kings-throne",
-          "title": "Last Knight:kings throne",
+          "title": "Last Knight: kings throne",
           "description": "This is a casual dodge arcade escape game. Play as a cute little character and keep escaping from chasing monsters on the random map. It perfectly combines fast-paced evasion gameplay, random buff items and fresh cartoon art style, bringing you relaxing and thrilling spare-time fun!\n\nGame Highlights\nFlexible free movement: Drag to control your character freely and change directions anytime to avoid incoming monsters.Random pickup buff system: Collect randomly spawned props including speed boost and monster freeze to get away from dangerous encirclement.Progressive difficulty curve: More monsters spawn and their moving speed rises continuously as your survival time extends.\n\nGame Advantages\nEasy risk avoidance tactics: Use terrain space to circle monsters and prolong your survival time for higher scores.No complicated rules: Pure casual design without tedious tutorials, instantly jump into matches after opening the game.Unlimited endless mode: Keep challenging your personal best score repeatedly for higher leaderboard rankings.\n\nGame Features\nSimple intuitive operation: Support drag control on mobile and mouse control on PC, all players can master in seconds.Compact random maps: Every round generates slightly different monster spawn positions to enrich replay experience.Lightweight instant play: Run smoothly in all browsers with zero download and installation required.",
           "howToPlayText": "Drag to control your character freely and change directions anytime to avoid incoming monsters.Random pickup buff system: Collect randomly spawned props including speed boost and monster freeze to get away from dangerous encirclement.Progressive difficulty curve: More monsters spawn and their moving speed rises continuously as your survival time extends.",
           "gameURL": "https://playgama.com/export/game/last-knight-kings-throne?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
