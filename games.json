@@ -14,8 +14,581 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 2023,
+      "count": 2033,
       "hits": [
+        {
+          "id": "124588",
+          "slug": "soccer-jump",
+          "title": "Soccer Jump",
+          "description": "Enter the playground where children are recreating the World Cup and imagining superpowers; watch out for the final, which will be a more complex match than the others!!",
+          "howToPlayText": "Hold Spacebar / Click to sway . Release to jump and kick! (Press P to pause the Game)\nThat's it have fun.",
+          "gameURL": "https://playgama.com/export/game/soccer-jump?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/soccer-jump",
+          "genres": [
+            "arcade",
+            "sports",
+            "funny",
+            "world-cup",
+            "ball",
+            "physics",
+            "soccer"
+          ],
+          "tags": [
+            "2d-games",
+            "addictive-games",
+            "jumping-games",
+            "1-player-games",
+            "2-player-soccer",
+            "2-player-sports",
+            "fast-paced-action",
+            "2-player-arcade"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/soccer-jump/big_preview/6765fd79d26d482ebdbfcbfb97a15050?width=448",
+            "https://static.playgama.com/p-img/pg/soccer-jump/icon/284881cfd2314d718b4641ffb4764b77?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "fr-FR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/soccer-jump?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124587",
+          "slug": "fruit-mahjong",
+          "title": "Fruit Mahjong",
+          "description": "Fruit Mahjong is mahjong solitaire with a twist you can see from every angle. Juicy fruit tiles are stacked into layered arrangements in front of an ancient jungle temple — and the match you're hunting for might be sitting on the far side. Drag to orbit the board, spot the pair, clear the stack.\n\nOne six-minute clock runs across all 50 levels. Every board you clear buys you ten more seconds, so the deeper you go, the tighter it gets. Match fast to build a combo: each pair in a chain scores more than the last, and the match chime climbs in pitch as your streak grows — break the chain and the multiplier resets.\n\nBoxed in? Burn a hint to clear a pair for you, or shuffle the remaining tiles into a fresh layout. Run out and you can watch a short video to earn another. Your best score is saved, so every run is a chance to beat it.\nTags: mahjong, match, puzzle, solitaire, 3D, fruit, casual, timed, brain\nRules\n\nClear the board by matching two identical fruit tiles.\nA tile can only be taken if it has a clear side. Tiles hemmed in on both left and right, or both front and back, are locked until you clear around them.\nPick a tile, then pick its match. A wrong pair makes both tiles wobble and stay put.\nChain your matches. Land the next pair within about two seconds to keep the combo going — pair one scores 100, the next 200, then 300, and so on.\nWatch the clock. You start with 6:00 for the whole run, and each cleared level adds 10 seconds. Hit 0:00 and the run ends.\nHint reveals and clears a matching pair. Shuffle rearranges the tiles still on the board. You get one of each; a short video earns another.\nLost a run? Play Again drops you back on the level you lost, not at the start.",
+          "howToPlayText": "Controls\n\nSelect a tile — click or tap it. Your pick is shown at the top of the screen.\nRotate the board — drag with the mouse or one finger. It spins a full 360°.\nZoom — mouse wheel, or pinch with two fingers.",
+          "gameURL": "https://playgama.com/export/game/fruit-mahjong?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/fruit-mahjong",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "3d",
+            "matching",
+            "mahjong",
+            "brain"
+          ],
+          "tags": [
+            "fruits-games",
+            "casual-games",
+            "brain-training-games",
+            "desktop-games",
+            "1-player-games",
+            "3d-mahjong"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/fruit-mahjong/big_preview/637a52f9bd864ad88b732e63b9864be8?width=448",
+            "https://static.playgama.com/p-img/pg/fruit-mahjong/icon/46c1d375ecbc4229ba664ba153cafcff?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "e048abe4a0b14b37af89e7b27a01492c",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/fruit-mahjong?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124585",
+          "slug": "cockroach-tower-defense",
+          "title": "Cockroach Tower Defense",
+          "description": "Cockroach Tower Defense is a top-down survival game where you defend your base against relentless roach swarms using auto-firing weapons. Exterminate bugs to buy mid-run upgrades, and spend your earned \"Public Support\" between runs on permanent stat boosts to survive increasingly difficult enemy variants and boss waves.",
+          "howToPlayText": "PC\nLeft Mouse Click: Interact with the in-game buttons.\n\nMobile\nTap: Interact with the in-game buttons.",
+          "gameURL": "https://playgama.com/export/game/cockroach-tower-defense?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/cockroach-tower-defense",
+          "genres": [
+            "action",
+            "arcade",
+            "strategy",
+            "survival",
+            "monster",
+            "tower-defense",
+            "idle"
+          ],
+          "tags": [
+            "mission-games",
+            "fast-paced-games",
+            "addictive-games",
+            "arena-games",
+            "defense-games",
+            "1-player-games",
+            "incremental-games",
+            "horde-survival-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/cockroach-tower-defense/big_preview/e8098a52f68c4d15a135098f5846c3aa?width=448",
+            "https://static.playgama.com/p-img/pg/cockroach-tower-defense/icon/c12fb1a18368400a81f043f671ec334b?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/cockroach-tower-defense?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124584",
+          "slug": "ice-slide",
+          "title": "Ice Slide",
+          "description": "Ice Slide is a simple, casual, and addictive sliding puzzle game! \n\nYour goal is easy: slide the block to fill all empty tiles on the board.\n\n🌟 FEATURES:\n- 1000 fun and challenging levels.\n- Simple one-finger swipe controls.\n- Beautiful custom skins to unlock.\n- Daily rewards and lucky spin.\n- Play offline anytime!\n\nRelax your brain and start sliding now!\n",
+          "howToPlayText": "HOW TO PLAY:\n- Swipe in any direction (Up, Down, Left, Right) to slide.\n- The block slides in a straight line until it hits a wall or obstacle.\n- Cover every tile on the grid to solve the puzzle.\n- Reach the target tile to win and unlock the next level.\n",
+          "gameURL": "https://playgama.com/export/game/ice-slide?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/ice-slide",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "addictive-games",
+            "sliding-games",
+            "mind-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/ice-slide/big_preview/15868662ca374091b7a9944d02e2ffa1?width=448",
+            "https://static.playgama.com/p-img/pg/ice-slide/icon/44a9dea9d7864c0db571bc5a41c347e1?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "75dc089157054b55bc95ef6604854404",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/ice-slide?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124581",
+          "slug": "obby-prison-craft-escape",
+          "title": "Obby Prison Craft Escape",
+          "description": "Obby Prison: Craft Escape is an exciting survival adventure in which you need to escape from a prison full of dangers. Once behind bars, you find yourself surrounded by vigilant police, other prisoners, and countless traps in the world. \n\nUse your skills to navigate through the complex layout of the prison. Avoid police guards, disable security systems to plan your ultimate escape.\n\nThe block environment provides endless opportunities for research and strategy development, offering new challenges at every turn. Will you be able to outsmart the police and survive, or will you remain a prisoner forever?\n\nFight your way to freedom in Obby Prison: Craft Escape, the ultimate test of your survival instincts and creativity. Will you be able to escape from the indestructible prison?",
+          "howToPlayText": "Obby Prison: Craft Escape - escape from prison, show your skills and skills, show what you are capable of, go through all the traps and become free.\n\nControl of the game:\n\nWASD - Movement.\nP - Pause.\nMouse - Overview.\nSPACE - Jump.",
+          "gameURL": "https://playgama.com/export/game/obby-prison-craft-escape?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/obby-prison-craft-escape",
+          "genres": [
+            "arcade",
+            "adventure",
+            "3d",
+            "platform",
+            "obby",
+            "zombie",
+            "escape",
+            "parkour"
+          ],
+          "tags": [
+            "prison-games",
+            "addictive-games",
+            "avoid-games",
+            "obstacles-games",
+            "jumping-games",
+            "trap-games",
+            "desktop-games",
+            "1-player-games",
+            "parkour-minecraft",
+            "minecraft-adventure",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/obby-prison-craft-escape/big_preview/ec2a683317004a8c921c025a53123e2a?width=448",
+            "https://static.playgama.com/p-img/pg/obby-prison-craft-escape/icon/5952ea0cafdc41bfa886267360b12337?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/obby-prison-craft-escape?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124580",
+          "slug": "zombie-defence",
+          "title": "Zombie defence",
+          "description": "Waiting for you:\nIntense Battles: Kick zombies out of the way of your car in thrilling and bloody battles. Use a wide arsenal of weapons, including machine guns, grenade launchers, shotguns and sniper rifles!\nUnique levels and locations: Go through a variety of terrain, destroying your enemies and unlocking new missions.\nEarn currency by completing quests and killing zombies to improve your arsenal and unlock new fighting skills.\nCompete with other players in the duration of survival in different areas, will you be able to last longer than your friends and other players?\nHigh-quality graphics and sound: Enjoy stunning 3D graphics and realistic sound that will add atmosphere and raise the adrenaline during the game.\nPlunge into an exciting adventure in the world of zombies, which will drag both beginners and experienced players. Be ready for battle, defend your car and become the survivor who will return this world to its former form, become a real hero of the apocalypse!",
+          "howToPlayText": "The goal of the game is to survive and protect your transport from hordes of zombies attacking from all sides and wanting to deprive you of a chance to escape by killing you or destroying your last hope of salvation.\nWASD - movement\nLeft mouse button - shooting\nRight mouse button - aiming\n1-6 (depending on the number of weapons available) and the mouse wheel - weapon selection\nR - reloading\nG - grenade\nTab - menu / pause\nShift - running\nSpace - jump / explosive jump\nE - push away opponents\n\nAfter each level, you can buy new or improve existing weapons, increase the strength of the machine, buy grenades, as well as buy super-powers: Repelling opponents and explosive jump.",
+          "gameURL": "https://playgama.com/export/game/zombie-defence?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/zombie-defence",
+          "genres": [
+            "action",
+            "3d",
+            "shooting",
+            "zombie",
+            "survival",
+            "first-person-shooter"
+          ],
+          "tags": [
+            "mission-games",
+            "apocalypse-games",
+            "defense-games",
+            "combat-games",
+            "desktop-games",
+            "1-player-games",
+            "horde-survival-games",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/zombie-defence/big_preview/b4cef83630d844a4a05faea7fdffefe4?width=448",
+            "https://static.playgama.com/p-img/pg/zombie-defence/icon/0ef1e6ed439a4b488c7d0f73b891474f?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/zombie-defence?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124574",
+          "slug": "jelly-drop-merge--sell",
+          "title": "Jelly Drop: Merge & Sell",
+          "description": "Jelly Drop: Merge & Sell is a bright and addictive merge game where every jelly earns you points!\n\nMerge identical jellies, fill the jar to the brim, and sell the result to earn more and more. The higher the jelly level, the more points you get. Simple controls, satisfying physics, and a constant sense of progress make the game perfect for short sessions and relaxing gameplay.\n\nWatch the jar fill up as jellies merge into more valuable forms and your score grows with every sale. Upgrade your stats, increase capacity, and turn ordinary jellies into a true record-breaking machine!",
+          "howToPlayText": "🎮 How to Play\n\nJellies fall into the jar\nNew jellies appear from the top and drop into the container.\n\nMerge identical jellies\nWhen identical jellies touch, they merge into a more advanced and valuable version.\n\nFill the jar\nKeep an eye on the fill level — the more jellies inside, the closer you are to selling.\n\nSell the contents\nWhen the jar is nearly full or completely filled, sell the jellies to turn them into money.\n\nUpgrade your progress\nImprove key parameters:\n— jelly level\n— sale income\n— jar capacity\n— progress speed\n\nEarn even more\nEach upgrade boosts your profits and unlocks new jelly tiers.",
+          "gameURL": "https://playgama.com/export/game/jelly-drop-merge--sell?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/jelly-drop-merge--sell",
+          "genres": [
+            "clicker",
+            "merge",
+            "management",
+            "physics",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "addictive-games",
+            "jelly-games",
+            "collecting-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/jelly-drop-merge--sell/big_preview/7e5290306993475088fe28e521df0cae?width=448",
+            "https://static.playgama.com/p-img/pg/jelly-drop-merge--sell/icon/2731717ff4c0438ab7a29f1c028656c3?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "0dfee653da8749fa98d5d1a32060931a",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/jelly-drop-merge--sell?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124573",
+          "slug": "merge-elementals-castle-defense",
+          "title": "Merge Elementals: Castle Defense",
+          "description": "🏰 The horde is marching on your castle. All that stands in its way is a wall and a handful of elementals.\n\n🔥💧🌍 Merge identical fighters to push them up the tiers. Fire, water and earth cross into wind, lava and nature, which cross again into ice, energy, spirit and sandstorm. Twelve elements: some burn an area, some slow the horde, some delete a single target.\n\n✨ Between waves, level up magic and take three spells into battle: fireball, frost storm, chain lightning, meteor shower, dragon call.\n\n🌋 The campaign never ends: swamp, snow peaks, desert tombs, fungus forest, lava inferno, void and meadows. Ten waves per world, the last a boss 👹. Your army and gold carry over between worlds, so progress is never lost.\n\n🎁 Chests, keys, scrolls, castle upgrades, daily rewards. ☁️ Cloud saves: start on your phone, continue on desktop.\n\n🎮 Merge, tower defense and strategy in one. Free to play, no download, no sign-up.",
+          "howToPlayText": "🖐 Drag identical elementals onto each other: two fighters of the same type and tier fuse into the next tier. Gold only buys tier one — everything above comes from merging, and grid space is tight, so think about what you combine.\n\n▶️ Once your line-up is ready, hit Start Wave. Merging locks during combat: your fighters aim and shoot on their own, while your job is to cast spells on time and keep the wall standing. 💰 Every kill drops gold.\n\n🔁 Wave over — back to the prep phase: buy, rearrange, upgrade. The last wave of each world is a boss, and beyond it lies the next biome.\n\n💎 If the wall does go down, you can revive on the spot for gems and carry on.",
+          "gameURL": "https://playgama.com/export/game/merge-elementals-castle-defense?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/merge-elementals-castle-defense",
+          "genres": [
+            "strategy",
+            "merge",
+            "tower-defense",
+            "magic"
+          ],
+          "tags": [
+            "mission-games",
+            "fantasy-games",
+            "casual-games",
+            "addictive-games",
+            "medieval-games",
+            "heroes-games",
+            "arena-games",
+            "webgl-games",
+            "defense-games",
+            "challenge-games",
+            "1-player-games",
+            "castle-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/merge-elementals-castle-defense/big_preview/caf4fb608c6448c19877176155051879?width=448",
+            "https://static.playgama.com/p-img/pg/merge-elementals-castle-defense/icon/2fde403bc598436ea89579c6eb02b56a?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "ab2fc8b6475b4a3d9b06bd9afca8bfdc",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/merge-elementals-castle-defense?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124572",
+          "slug": "slap-battle-arena-online",
+          "title": " Slap Battle: Arena Online",
+          "description": "\nMultiplayer slap battle. 🖐️ Collect slaps by defeating players. Modes: Arena, Ring, and 67. Inspired by Slap Battles!",
+          "howToPlayText": "Welcome to the chaotic world of slaps 🖐️ — a fast-paced multiplayer slap battle inspired by Slap Battles!\n\nYour main goal is to collect as many slaps as possible. Slaps are the main currency in the game — the more players you hit, the more slaps you earn.\n\nUse your slaps to unlock stronger gloves and become more powerful in battle.\n\nGame modes:\n⚔️ Arena — free-for-all chaos\n🥊 Ring — stay on the platform and don’t fall\n🏃 67 — reach the end while avoiding dangerous heads\n\nEvery match is full of action, chaos, and competition 😂\nCan you become the player with the most slaps?",
+          "gameURL": "https://playgama.com/export/game/slap-battle-arena-online?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/slap-battle-arena-online",
+          "genres": [
+            "action",
+            "3d",
+            "multiplayer",
+            "platform",
+            "fighting",
+            "obby",
+            "pve",
+            "pvp"
+          ],
+          "tags": [
+            "addictive-games",
+            "competitive-games",
+            "arena-games",
+            "webgl-games",
+            "combat-games",
+            "agility-games",
+            "1-player-games",
+            "action-fighting",
+            "67-obby"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/slap-battle-arena-online/big_preview/4210488446714420bef91150d9925f63?width=448",
+            "https://static.playgama.com/p-img/pg/slap-battle-arena-online/icon/5df67c97b5944e77bf037567101057d1?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "35858df235854122b1cd030192e868fc",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/slap-battle-arena-online?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124571",
+          "slug": "the-biggest-number",
+          "title": "The Biggest Number",
+          "description": "🔢 The Biggest Number is a fast-paced 3D number runner and casual math game where every choice can make you stronger—or end your run!\n\nCollect numbers equal to or smaller than yours and grow as large as possible. Dodge bigger red numbers, spinning saws, gaps, and traps. Choose the best math gates: add and multiply to boost your value, but watch out for subtraction and division! ➕ ✖️ ➖ ➗\n\n✨ What awaits you:\n• Fast arcade runner gameplay\n• Shield and magnet boosters\n• Starting-number and income upgrades\n• Colorful levels, achievements, and leaderboards\n• A satisfying finish where you smash through walls\n\n🏁 Love number games, math runners, and quick arcade challenges? Build the biggest number, break every wall, and set a new record! 🚀",
+          "howToPlayText": "🎯 Goal\nReach the finish with the biggest number possible and smash through as many walls as you can!\n\n🎮 Controls\nOn desktop, use A/D or the Left/Right arrow keys. You can also hold the left mouse button and drag.\nOn mobile, swipe left or right. 📱\n\n🔵 Grow your number\nCollect numbers equal to or smaller than yours. Avoid larger red numbers—they will stop your run.\n\n➕ Choose the best gates\nAddition and multiplication make you stronger. Subtraction and division reduce your number, so pick your route carefully! ✖️\n\n🛡️ Use boosters\nA shield protects you from danger, while a magnet pulls useful numbers toward you.\n\n🪙 Upgrade\nEarn coins and improve your starting number and income to progress faster.\n\n🏁 Ready to become the Number Master? Start running, build The Biggest Number, and smash every wall! 🚀",
+          "gameURL": "https://playgama.com/export/game/the-biggest-number?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/the-biggest-number",
+          "genres": [
+            "arcade",
+            "3d",
+            "running",
+            "number",
+            "math",
+            "runner"
+          ],
+          "tags": [
+            "reaction-games",
+            "fast-paced-games",
+            "casual-games",
+            "fullscreen-games",
+            "brain-training-games",
+            "dodge-games",
+            "hyper-casual-games",
+            "addictive-games",
+            "exciting-games",
+            "avoid-games",
+            "endless-games",
+            "obstacles-games",
+            "challenging-games",
+            "webgl-games",
+            "challenge-games",
+            "agility-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/the-biggest-number/big_preview/1a139e67a19d4897891bac7a0ab8966b?width=448",
+            "https://static.playgama.com/p-img/pg/the-biggest-number/icon/869b55d6e2a84986b154d3b068885ffe?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "b1409510d37b4cbc9774d6eb3ed4783f",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "id-ID",
+            "it-IT",
+            "ja-JP",
+            "ko-KR",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/the-biggest-number?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124565",
           "slug": "hungry-cars",
@@ -6188,7 +6761,8 @@
             "addictive-games",
             "mind-games",
             "collecting-games",
-            "1-player-games"
+            "1-player-games",
+            "pixel-games"
           ],
           "images": [
             "https://static.playgama.com/p-img/pg/microgic-89/big_preview/031b132b0f444c43949608237a6cfe9a?width=448",
@@ -17084,8 +17658,8 @@
             "arcade-car"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/stick-roll-arena/big-preview/c0ac772769214bc5a2b9c78ec347f549?width=448",
-            "https://static.playgama.com/p-img/pg/icon/8df632d362e5490cb617ed02861abcef?width=448"
+            "https://static.playgama.com/p-img/pg/stick-roll-arena/big_preview/6dd23e7f4b3e4ba89ac7c68f68d996c3?width=448",
+            "https://static.playgama.com/p-img/pg/stick-roll-arena/icon/b2a9cdcfc0464ee08b82c87cfd5b2c8a?width=448"
           ],
           "videos": [],
           "mobileReady": [
@@ -76307,7 +76881,7 @@
           "slug": "buggy-simulator-sandbox-3d",
           "title": " Buggy Simulator Sandbox 3D",
           "description": "This is a buggy physics simulator, ride on various maps and observe the behavior of cars and their wheels. There are several cars to choose from - you can switch between them at any time and control any one. Explore the map with the city and the bridge, jump over the hills, drive off the bridge. On the test zone, you can destroy the pyramids, evaluate the work of the suspension and more.",
-          "howToPlayText": "Controls:\n\"WASD\" - driving/steering\n\"SPACE\" - handbrake\n\"C\" - change camera\n\"Shift\" - nitro\n\"R\" - reset car\n\"N\" - next car\n\"Tab\" - menu\nThe rest is through the game interface.\n\nFor mobile devices, use the game interface.\n\nThe goal of the game: just ride as you like ;)",
+          "howToPlayText": "Controls:\n\"WASD\" - driving/steering\n\"SPACE\" - handbrake\n\"C\" - change camera\n\"Shift\" - nitro\n\"R\" - reset car\n\"N\" - next car\n\"Tab\" - menu\nThe rest is through the game interface.\n\nFor mobile devices, use the game interface.\n\nThe goal of the game: just ride as you like",
           "gameURL": "https://playgama.com/export/game/buggy-simulator-sandbox-3d?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
           "playgamaGameUrl": "https://playgama.com/game/buggy-simulator-sandbox-3d",
           "genres": [
@@ -76354,12 +76928,15 @@
             "de-DE",
             "es-ES",
             "fr-FR",
+            "it-IT",
+            "ja-JP",
+            "pt-PT",
             "ru-RU",
             "tr-TR"
           ],
           "screenOrientation": {
             "horizontal": true,
-            "vertical": false
+            "vertical": true
           },
           "embed": "<iframe src='https://playgama.com/export/game/buggy-simulator-sandbox-3d?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
         },
