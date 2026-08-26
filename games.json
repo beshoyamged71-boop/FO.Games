@@ -14,8 +14,627 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 2033,
+      "count": 2045,
       "hits": [
+        {
+          "id": "124617",
+          "slug": "knight-bolts--merge-edition",
+          "title": "Knight Bolts : Merge Edition",
+          "description": "The kingdom is under attack by evil orcs! Gather your knights, merge them to create stronger warriors, and fight back against the darkness.",
+          "howToPlayText": "Drag and release your finger or mouse over the position where you want to drop the knight. When you have enough power.. unleash the knights by clicking the lock on the left side of the screen",
+          "gameURL": "https://playgama.com/export/game/knight-bolts--merge-edition?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/knight-bolts--merge-edition",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "merge",
+            "rpg"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "heroes-games",
+            "defense-games",
+            "1-player-games",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/knight-bolts--merge-edition/big_preview/e07b983f6bbb4cae92d362062556834d?width=448",
+            "https://static.playgama.com/p-img/pg/knight-bolts--merge-edition/icon/98984c1ab38a494e80e9eb9803e786c5?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/knight-bolts--merge-edition?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124613",
+          "slug": "ultimate-billiard-3d-game",
+          "title": "Ultimate Billiard 3D Game",
+          "description": "Step into the world of Ultimate Billiard 3D Games: Snooker Pool Game, the ultimate 3D billiards simulator that brings realistic pool physics, smooth cue controls, and exciting snooker challenges to your mobile device. Whether you are a beginner learning the basics or a professional aiming for perfect shots, this pool game offers an immersive experience with beautiful graphics, realistic ball movement, and addictive gameplay. Enjoy classic 8 Ball Pool, strategic 9 Ball Pool, professional Snooker Mode, and exciting billiards tournaments that test your cue skills in every match.\n\nExperience authentic billiards gameplay with advanced physics that make every shot feel natural and satisfying. Aim carefully, control your cue power, apply spin, and pocket every ball with precision. Every table is designed with stunning 3D environments, smooth animations, and realistic sound effects that create the feeling of playing in a real pool club. Challenge yourself with increasingly difficult levels while mastering trick shots, bank shots, combo shots, and accurate cue control.",
+          "howToPlayText": "- To click any button use mouse\n                                          \n                                                        \n                                 ",
+          "gameURL": "https://playgama.com/export/game/ultimate-billiard-3d-game?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/ultimate-billiard-3d-game",
+          "genres": [
+            "arcade",
+            "sports",
+            "skill",
+            "ball",
+            "physics",
+            "pool"
+          ],
+          "tags": [
+            "casual-games",
+            "addictive-games",
+            "1-player-games",
+            "billiards-games",
+            "8-ball-pool-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/ultimate-billiard-3d-game/big_preview/37fcee89a23c4347abbda4501007b9d8?width=448",
+            "https://static.playgama.com/p-img/pg/ultimate-billiard-3d-game/icon/727c4e73914645bfb58ca644d02a244e?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/ultimate-billiard-3d-game?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124611",
+          "slug": "slide-the-blocks-build-the-pictures",
+          "title": "Slide the Blocks: Build the Pictures!",
+          "description": "«Slide the Block: Build the Pictures!» —  an exciting logic puzzle that will test your spatial thinking and ingenuity!\n\nMove the shapes across the game board to assemble a complete picture. But be careful: blocks cannot pass through each other! Plan each move, find the correct sequence of movements, and unlock new images with cute animals and other characters.\n\nPerfect for brain training, developing logic, and simply a pleasant way to pass the time. Can you complete all the pictures?",
+          "howToPlayText": "- Tap and drag a shape to move it into empty cells.\n- Shapes cannot pass through each other.\n- Complete the whole picture to clear the level.\n- Play through endless levels.",
+          "gameURL": "https://playgama.com/export/game/slide-the-blocks-build-the-pictures?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/slide-the-blocks-build-the-pictures",
+          "genres": [
+            "puzzle",
+            "animals",
+            "cozy",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "brain-training-games",
+            "cute-games",
+            "sliding-games",
+            "mind-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/slide-the-blocks-build-the-pictures/big_preview/aa8f0f2b8cc64436a4380fbd87f7cb4f?width=448",
+            "https://static.playgama.com/p-img/pg/slide-the-blocks-build-the-pictures/icon/f11b585008a74f2c8c26f074642de734?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/slide-the-blocks-build-the-pictures?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124609",
+          "slug": "wheelchair-parkour-no-limits",
+          "title": "Wheelchair parkour: No limits",
+          "description": "Race across the city rooftops in a wheelchair, build up speed, jump across huge gaps, and overcome dangerous obstacles. Perform tricks in the air, collect coins, and try to travel as far as possible to set a new record.\n\nThe farther you go, the more challenging the obstacles become. One wrong move — and the run is over.\n\nCollect coins, unlock new looks for your character, and head back out to conquer the rooftops again.",
+          "howToPlayText": "Desktop Controls:\n← / → (Arrow Keys) or A / D: Move backward and forward.\nSpacebar: Jump.\nHold Spacebar while in the air: Perform a frontflip.\n\nMobile Controls:\nOn-Screen Joystick: Move backward and forward by dragging the joystick.\nJump Button: Tap to jump.\nHold the Jump Button while in the air: Perform a frontflip.",
+          "gameURL": "https://playgama.com/export/game/wheelchair-parkour-no-limits?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/wheelchair-parkour-no-limits",
+          "genres": [
+            "arcade",
+            "skill",
+            "platform",
+            "physics",
+            "parkour",
+            "runner"
+          ],
+          "tags": [
+            "2d-games",
+            "fast-paced-games",
+            "avoid-games",
+            "obstacles-games",
+            "jumping-games",
+            "collecting-games",
+            "agility-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/wheelchair-parkour-no-limits/big_preview/0a6c5622bfee424790aa466438bb80e3?width=448",
+            "https://static.playgama.com/p-img/pg/wheelchair-parkour-no-limits/icon/d3dc4b0d5fcf4209a249e9b84ee6512d?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/wheelchair-parkour-no-limits?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124604",
+          "slug": "city-chase-escape-police",
+          "title": "City Chase: Escape Police",
+          "description": "Race through the city and survive the police chase for as long as you can! Dodge cops, collect coins, grab HP boosts, and pick up the Ram Bar to smash police cars and send them flying. Unlock new cars with unique traits, survive rising Wanted Levels, and keep beating your best time before the cops finally bust you.",
+          "howToPlayText": "Dodge the police cars and survive as long as you can to achieve the highest score. Collect coins to fill the garage with cars.\n\nMobile Controls:\nHold Left Side of Screen: Steer left.\nHold Right Side of Screen: Steer right.\nHold Both Sides: Reverse.\nRelease: Straighten up — the car keeps accelerating on its own.\nButton Mode: Switch to on-screen arrows with GO and REVERSE pedals at any time; your choice is saved.\nCamera Button: Tap to drop the view in behind the car.\nReset Button: Tap to free your car if it gets stuck.\n\nDesktop Controls:\n← (Left Arrow) or A: Steer left.\n→ (Right Arrow) or D: Steer right.\n↓ (Down Arrow) or S: Reverse.\n↑ (Up Arrow), W or Spacebar: Accelerate (in button mode — by default the car accelerates on its own).\nMouse: Hold the left button on the left or right side of the screen to steer that way.\nR: Reset your car if it gets stuck, without ending the run.\nEsc or the on-screen pause button: Pause.",
+          "gameURL": "https://playgama.com/export/game/city-chase-escape-police?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/city-chase-escape-police",
+          "genres": [
+            "racing",
+            "arcade",
+            "car",
+            "driving",
+            "police"
+          ],
+          "tags": [
+            "race-games",
+            "fast-paced-games",
+            "avoid-games",
+            "endless-games",
+            "car-crash-games",
+            "collecting-games",
+            "1-player-games",
+            "arcade-car"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/city-chase-escape-police/big_preview/3298d05682104c4e84df5edceede99f1?width=448",
+            "https://static.playgama.com/p-img/pg/city-chase-escape-police/icon/20b9d117ae584398a975780d73ac49ed?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "de-DE",
+            "nl-NL",
+            "es-ES",
+            "fr-FR",
+            "hi-IN",
+            "it-IT",
+            "ja-JP",
+            "ko-KR",
+            "pl-PL",
+            "pt-PT",
+            "tr-TR",
+            "uk-UA"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/city-chase-escape-police?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124602",
+          "slug": "spellbound-orbs",
+          "title": "Spellbound Orbs",
+          "description": "Unleash arcane magic and master the art of the orb shooter! Spellbound Orbs is a spellbinding, arcade bubble-shooter puzzle game filled with vibrant visual effects, dynamic bouncing mechanics, and mystical challenges. Aim, match colors, and cast explosive spells to clear enchanted boards across hundreds of progressively tricky levels. Easy to pick up, endlessly engaging, and perfectly optimized for both mobile and desktop browser play!",
+          "howToPlayText": "Aim Your Wand/Cannon: Drag your mouse or finger across the screen to target the descending clusters of magical orbs.\n\nMatch 3 or More: Launch your charged orb into matching color clusters to burst them and clear the magical board.\n\nBank Wall Shots: Ricochet orbs off side boundaries to reach tucked-away bubbles and clear difficult angles.\n\nTrigger Spells & Boosters: Clear large clusters or chain consecutive pops to activate explosive fireball runes, color bombs, and lightning spells.\n\nPrevent Board Overflow: Keep bursting orbs before the descending ceiling breaches the bottom boundary line!",
+          "gameURL": "https://playgama.com/export/game/spellbound-orbs?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/spellbound-orbs",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "bubble-shooter",
+            "magic",
+            "mobile"
+          ],
+          "tags": [
+            "iphone-games",
+            "casual-games",
+            "addictive-games",
+            "webgl-games",
+            "color-matching-games",
+            "desktop-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/spellbound-orbs/big_preview/0bd285874b224391b2c3380fdeecbf43?width=448",
+            "https://static.playgama.com/p-img/pg/spellbound-orbs/icon/61212e0feba141c9bf7e9734a88bc515?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/spellbound-orbs?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124601",
+          "slug": "dream-home-merge-story",
+          "title": "Dream Home: Merge Story",
+          "description": "Dream Home: Merge Story is a cozy game about merging items and renovating a home. Combine identical items on the board, unlock higher-level items, and complete orders.\n\nCompleting tasks rewards you with stars. Spend them on renovations, furniture, and new interior elements as you gradually turn an old house into a beautiful and cozy home.\n\nKeep an eye on your energy, plan your moves, and make sure there is enough free space on the board. Crystals can help you restore energy faster, while additional rewards let you keep playing.\n\nComplete tasks, discover new items, and watch your new home transform room by room.\n",
+          "howToPlayText": "Merge two identical items on the board to create a higher-level item. Keep combining items to produce the objects needed for your current orders.\n\n1. Find two identical items and merge them.\n2. Create higher-level items.\n3. Complete the orders shown at the top of the screen.\n4. Earn stars for completed tasks.\n5. Return to the room and spend stars on renovations and upgrades.\n6. If you run out of energy, wait for it to recover or refill it using an available option.\n\nTry not to fill the entire board: free cells are needed for new items and future merges.\n",
+          "gameURL": "https://playgama.com/export/game/dream-home-merge-story?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/dream-home-merge-story",
+          "genres": [
+            "puzzle",
+            "merge",
+            "decoration",
+            "cozy"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "house-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/dream-home-merge-story/big_preview/31192e9651ce4dd38fec892b0b251166?width=448",
+            "https://static.playgama.com/p-img/pg/dream-home-merge-story/icon/08491609e80d41e8ad10c19aa7910a4f?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/dream-home-merge-story?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124598",
+          "slug": "jewel-coloring-crystal-sorting",
+          "title": "Jewel Coloring: Crystal Sorting",
+          "description": "Welcome to Jewel Coloring: Crystal Sorting — a relaxing puzzle game where colorful crystals gradually transform into beautiful sparkling pictures.\nSort the gems by color and place them into the matching cells. With every correct move, the image becomes brighter and more complete. Simple controls, satisfying gameplay, and a calm atmosphere make each level enjoyable and easy to play.\n\n- Select a crystal and identify its color.\n- Move it to a matching cell on the board.\n- Use the storage area when the required cell is blocked.\n- Plan your moves to avoid filling the storage slots.\n- Use hints or boosters when you need help.\n- Place all crystals correctly to complete the picture!",
+          "howToPlayText": "1. Pick sparkling diamonds and sort them by color.\n2. Move each diamond into the matching cell on the board.\n3. If the right spot is temporarily unavailable, use the storage area.\n4. Plan your move order to avoid cluttering the board.\n5. Use hints and boosters whenever you need a quick breakthrough.\n6. Fill all cells correctly — and watch the picture shine in full beauty!",
+          "gameURL": "https://playgama.com/export/game/jewel-coloring-crystal-sorting?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/jewel-coloring-crystal-sorting",
+          "genres": [
+            "puzzle",
+            "matching",
+            "logic",
+            "color"
+          ],
+          "tags": [
+            "casual-games",
+            "jewel-games",
+            "relaxing-games",
+            "brain-training-games",
+            "addictive-games",
+            "sorting-games",
+            "cute-games",
+            "mind-games",
+            "color-matching-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/jewel-coloring-crystal-sorting/big_preview/bf22034afe414740869228e392e118b5?width=448",
+            "https://static.playgama.com/p-img/pg/jewel-coloring-crystal-sorting/icon/49af654214c6403b8a3fbee4f0e58dd4?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/jewel-coloring-crystal-sorting?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124595",
+          "slug": "escape-the-monster",
+          "title": "Escape the Monster",
+          "description": "You wake up at the bottom of a monster's lair. Fifty floors of maze stand between you and the way out.\n\nEach floor has one exit. Find it before the monster finds you, and don't take too long, because the longer you stay the faster it moves.\n\nFour different monsters live down here and each one hunts a different way. Some chase you, some wait for you, and one walks straight through walls. On the dark floors you can't see any of them coming. You just hear the music change.\n\nGrab gems on your way out. Some doors stay locked until you find the crown. If you're carrying a mask, the next monster to touch you is stunned instead of taking a life.\n\nClear all fifty floors to escape. Then try Endless mode, where the floors keep going and all that matters is how deep you get.\n\nGems buy new cloaks, lanterns and masks. Nine of them can't be bought at all, and must be earned.",
+          "howToPlayText": "Reach the green door on each floor before the monster catches you. You have three hearts. Every floor you clear takes you one closer to the surface, and every ten floors is a safe floor with no monster on it.\n\nThe monster speeds up the longer you stay, so keep moving. Gems you collect buy hearts on the safe floors and unlock new looks between runs. Some floors lock the exit until you find the crown. Some give you a mask that will stun the next monster that touches you instead of costing you a heart.\n\nClear all fifty floors to escape into the garden. Endless mode unlocks after floor nine and runs forever. Can you climb the leaderboard?\n\nCONTROLS\nArrow keys or WASD to move. ZQSD also works on AZERTY keyboards.\nOn mobile, swipe anywhere on the maze, or use the on-screen pad when playing upright.\nP pauses. M mutes.",
+          "gameURL": "https://playgama.com/export/game/escape-the-monster?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/escape-the-monster",
+          "genres": [
+            "maze",
+            "monster",
+            "escape"
+          ],
+          "tags": [
+            "2d-games",
+            "addictive-games",
+            "avoid-games",
+            "collecting-games",
+            "challenge-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/escape-the-monster/big_preview/be7c421e9817447dbf8a1f95a7b28ad7?width=448",
+            "https://static.playgama.com/p-img/pg/escape-the-monster/icon/f8bd66055f17404ab176e5083f12f42c?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "e5db6a9bd7f442fea7013c93c1fd985a",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/escape-the-monster?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124594",
+          "slug": "up-up-and-oops",
+          "title": "Up, Up, and Oops!",
+          "description": "Climb an endless tower of floating tiles in this fast-paced 3D arcade action game. Read the path, choose the correct direction, and move before time runs out. Aim for a high score in Endless mode, race to step 200 in Score Sprint, or compete against up to six players in Online Race. Unlock new characters, tiles, and titles as you climb, and challenge the weekly leaderboards.",
+          "howToPlayText": "Climb the floating path by choosing the correct action for the next tile. If the path continues straight ahead, jump forward. If it turns, press the direction in which the path continues. Make your choice before the gauge runs out.\n\nIn Endless mode, climb as high as possible. In Score Sprint, reach step 200 as quickly as possible. These modes give you three lives, and losing all three ends the run unless you use your one available revive.\n\nIn Online Race, compete for two minutes and reach a higher step than the other racers. Falling returns you to the latest checkpoint, placed every 20 steps.\n\nDesktop Controls:\nW or ↑: Move upward.\nS or ↓: Move downward.\nA or ←: Move left.\nD or →: Move right.\nSpacebar: Jump forward.\n\nMobile Controls:\nUP, DOWN, LEFT, and RIGHT Buttons: Move in the selected screen direction.\nJUMP Button: Jump forward in the direction your character is facing.",
+          "gameURL": "https://playgama.com/export/game/up-up-and-oops?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/up-up-and-oops",
+          "genres": [
+            "arcade",
+            "3d",
+            "funny",
+            "running",
+            "multiplayer",
+            "platform",
+            "animals",
+            "runner"
+          ],
+          "tags": [
+            "reaction-games",
+            "fast-paced-games",
+            "casual-games",
+            "endless-games",
+            "competitive-games",
+            "jumping-games",
+            "1-player-games",
+            "tiles-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/up-up-and-oops/big_preview/ef6804e7d8624df8a0a269521229a055?width=448",
+            "https://static.playgama.com/p-img/pg/up-up-and-oops/icon/68a231b3032d47dab866bd85b9dc1fb5?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "b91b52e513364415a435d35dff846e20",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "es-ES",
+            "ja-JP",
+            "pt-PT",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/up-up-and-oops?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124593",
+          "slug": "minimarket-677-store-tycoon",
+          "title": "Minimarket 67/7: Store Tycoon",
+          "description": "Become the manager of your own minimarket and turn a small store into a profitable retail business! Stock your shelves, hire employees, upgrade equipment, and expand your store. Serve customers, improve service speed, and make sure your visitors stay happy.\n\nAutomate your workflows, develop your store, and increase your profits. Every upgrade helps you serve more customers, earn more money, and unlock new opportunities to grow your business.\n\nGame Features:\n• Manage your minimarket and staff\n• Stock products and develop your store\n• Upgrade employees and equipment\n• Increase service speed and profits\n• Gradually expand your store\n• Simple and intuitive management\n• Unlock new opportunities as you progress\n• No complicated rules — perfect for relaxing\n\nCan you turn a small minimarket into a successful retail empire and become a true store tycoon?",
+          "howToPlayText": "Controls:\n• On mobile devices, move the joystick at the bottom of the screen to control your character.\n• On PC, use the WASD keys or the arrow keys to move.",
+          "gameURL": "https://playgama.com/export/game/minimarket-677-store-tycoon?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/minimarket-677-store-tycoon",
+          "genres": [
+            "arcade",
+            "simulation",
+            "3d",
+            "tycoon",
+            "management",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "business-games",
+            "relaxing-games",
+            "shop-games",
+            "time-management-games",
+            "1-player-games",
+            "resource-management-games",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/minimarket-677-store-tycoon/big_preview/b7d9ab9ae0a54282addfe6a4ae405b75?width=448",
+            "https://static.playgama.com/p-img/pg/minimarket-677-store-tycoon/icon/0c3ebf989795450c8861a36c8007f2c4?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "e9accc0a12a7421a8e4c134c1df63a44",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/minimarket-677-store-tycoon?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124591",
+          "slug": "numorapuzzle",
+          "title": "NumoraPuzzle",
+          "description": "Numora Puzzle is a colorful number-merging puzzle game that blends quick, satisfying matches with thoughtful board strategy. Tap groups of matching tiles to combine them into higher numbers, complete each level's goals, and keep your chain going all the way to 13. Handcrafted challenges, an endless mode, bright space-themed artwork, collectible rewards, and helpful boosters make every short session feel fresh.\n",
+          "howToPlayText": "Objective\nCreate the numbered tiles shown in the GOALS panel before you run out of moves. Complete every goal to win the level.\n\nControls\n- Mouse: left-click any group of two or more connected tiles with the same number.\n- Touchscreen: tap any group of two or more connected tiles with the same number.\n\nMatching tiles merge into one tile with a higher value, and new tiles fall into the open spaces. Plan each move to build larger groups and reach the target numbers. Use the hammer or +3-moves booster when you need help. In Endless mode, keep merging for the highest score you can reach.\n",
+          "gameURL": "https://playgama.com/export/game/numorapuzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/numorapuzzle",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "number",
+            "merge",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "addictive-games",
+            "connect-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/numorapuzzle/big_preview/ade6e8b636134c42818872092cd277c4?width=448",
+            "https://static.playgama.com/p-img/pg/numorapuzzle/icon/fe4ff77db36c48019b97cce3726782d1?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/numorapuzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124588",
           "slug": "soccer-jump",
@@ -588,6 +1207,62 @@
             "vertical": true
           },
           "embed": "<iframe src='https://playgama.com/export/game/the-biggest-number?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124568",
+          "slug": "island-survival",
+          "title": "Island Survival",
+          "description": "🏝️ \"Island Survival\" is a unique blend of match-3, survival, and strategic crafting in a vibrant pixel art style.\n\n🎯 Your goal — complete 6 stages, build a raft, and escape the deserted island. Start with primitive tools, build a house, furnish the interior, smelt ore, create workbenches, and prepare for your sea getaway.\n\n🔄 The key twist: raw resources (stone, wood, food, water, leaves, fire, ore) reset between stages — you can't hoard indefinitely. But everything you craft (ropes, planks, ingots, nails, tools, raft parts) carries over to later stages. This forces you to plan every move: what to craft now, and what to save for later? Your foresight is the key to success!\n\n⚙️ Progression stages: from a campfire and stone knife — to a furnace, workbench, iron tools, and finally raft assembly. Each stage brings new challenges and new recipes.\n\n🚢 Ready to test if you can survive, build a raft, and escape?",
+          "howToPlayText": "🎯 Goal — complete 6 stages, build a raft, and escape the deserted island.\n\n🎮 Core mechanic — an 8×8 board with 6 types of tiles: stone, wood, food, water, leaves, fire. Match 3+ tiles in a row to collect the corresponding resource into your inventory. Combos of 4 give a bonus resource. Combos of 5 give a \"wild\" tile (replaces any material).\n\n🔨 Crafting — open the menu to see recipes. To craft an item, you need the required amount of resources. All crafted items (ropes, planks, ingots, nails, tools, raft parts) are permanent and carry over between stages.\n\n🔄 Resource reset — raw resources (stone, wood, food, water, leaves, fire, ore) reset at the end of each stage.",
+          "gameURL": "https://playgama.com/export/game/island-survival?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/island-survival",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "adventure",
+            "match-3",
+            "strategy",
+            "survival",
+            "management",
+            "crafting"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "collecting-games",
+            "1-player-games",
+            "building-games",
+            "resource-management-games",
+            "pixel-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/island-survival/big_preview/a202625c7b474cc091530b46bbbb65e0?width=448",
+            "https://static.playgama.com/p-img/pg/island-survival/icon/10bc8299a6cb4f389d2be415abedd54e?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "55267d20d63b4de8b4e016e7b4ce0887",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/island-survival?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
         },
         {
           "id": "124565",
@@ -51677,7 +52352,7 @@
           "id": "117433",
           "slug": "heroes-of-the-dungeons-match3-rpg",
           "title": "Heroes of the Dungeons: Match-3 RPG",
-          "description": "Collect legendary heroes, defeat invading monsters, and rebuild a fallen kingdom — one match at a time!\nA mysterious gate has unleashed evil creatures across the land, cutting the realm off from the outside world. As the Master of Hunters, you’re the last hope. Match gems to unleash powerful attacks, trigger epic combos, and use hero skills at the perfect moment. Loot treasures from battles, upgrade shops in your castle, and bring prosperity back to the kingdom!\nCore: A unique match-3 RPG experience where players strategically match colored gems to trigger distinct in-game actions, such as performing an attack on an enemy or healing the party.\nLoop: Player progression centers around extensive character development. Players must clear stages, defeat powerful bosses, and unlock chests to earn tokens, which are then used to upgrade character attributes like maximum health, attack power, and healing efficiency.\nStart: The game features a streamlined onboarding tutorial, ensuring high accessibility and a low barrier to entry, providing players with an immediately engaging and enjoyable experience from the outset.\nPlaygama Fact: The game is fully integrated with Playgama SDK: instant login and cross-device saves between PC and mobile. HTML5. Stable performance regardless of internet quality.\nVisual: Features a high-quality Stylized / Cartoon art direction.\nKey Feature: A narrative-driven experience offering deep complexity, a rich cast of characters, and highly varied gameplay mechanics, focusing on the core gem-matching combat system where different colored gems trigger diverse tactical outcomes like attacks, ensuring deep replayability.",
+          "description": "Collect legendary heroes, defeat invading monsters, and rebuild a fallen kingdom — one match at a time!\nA mysterious gate has unleashed evil creatures across the land, cutting the realm off from the outside world. As the Master of Hunters, you’re the last hope. Match gems to unleash powerful attacks, trigger epic combos, and use hero skills at the perfect moment. Loot treasures from battles, upgrade shops in your castle, and bring prosperity back to the kingdom!",
           "howToPlayText": "- Match 3+ tiles to attack enemies and charge your team’s skills.\n- Swap adjacent tiles to create combos and special blocks for massive damage.\n- Use hero abilities when they’re ready to target enemy weaknesses and turn the battle around.\n- Win the fight to earn loot and materials.\n- Upgrade castle shops with your rewards to boost income and strengthen your heroes for the next stages.",
           "gameURL": "https://playgama.com/export/game/heroes-of-the-dungeons-match3-rpg?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
           "playgamaGameUrl": "https://playgama.com/game/heroes-of-the-dungeons-match3-rpg",
@@ -57202,7 +57877,6 @@
           "genres": [
             "puzzle",
             "animals",
-            "hidden-object",
             "cats",
             "brain",
             "logic"
@@ -69039,72 +69713,6 @@
             "vertical": true
           },
           "embed": "<iframe src='https://playgama.com/export/game/puzzle-match-kit?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
-        },
-        {
-          "id": "113108",
-          "slug": "cooking-empire",
-          "title": "Cooking Empire",
-          "description": "🍔 Cooking Empire is not just a cooking game, it’s a real explosion of flavors and speed! 🍟 Start frying, boiling, baking and serving dishes from all over the world with one click! Are you ready to become a chef the whole world will remember? 🍳\n\n👨‍🍳 Turn an ordinary kitchen into the epicenter of culinary fever! Cook tom yum, serve juicy burgers, cook foie gras and surprise guests with exotic recipes. The goal is simple: create your own culinary empire, where every visitor is a happy gourmet! 🔥\n\n✈️ Travel through the flavors of the planet!\nDiscover the aromas of Paris, the fire of Beijing, the warmth of Rome and the taste of Moscow. Dozens of cities, hundreds of restaurants and thousands of recipes are waiting for you - from classics to hidden delicacies! Want to bake, fry, boil and experiment? Welcome to Cooking Empire!",
-          "howToPlayText": "🍰 Cook anywhere, anytime!\n\n-Free, fun, and always at hand\n\n-Turn any break into a culinary adventure!\n\n🌍Many cities and dream restaurants!\n\n-From pizzerias to sushi bars\n\n-More than 100 dishes: from ice cream to seafood\n\n-Master the world's cuisines and become a culinary legend!\n\n🎯1000+ levels of challenge and fun!\n\n-Each level is a new culinary battle\n\n-Mini-games, events, festivals and seasonal restaurants\n\n-Participate in monthly events and get cool prizes\n\n-Create combos and earn super bonuses!\n\n🍴 Manage your culinary universe\n\n-Serve dishes that gourmets have never dreamed of\n\n-Improve products, speed up cooking, expand the kitchen\n\n-Decorate restaurants and attract even more customers!",
-          "gameURL": "https://playgama.com/export/game/cooking-empire?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
-          "playgamaGameUrl": "https://playgama.com/game/cooking-empire",
-          "genres": [
-            "simulation",
-            "mouse",
-            "cool-games",
-            "food",
-            "management",
-            "restaurant",
-            "cooking",
-            "mobile"
-          ],
-          "tags": [
-            "casual-games",
-            "business-games",
-            "addictive-games",
-            "time-management-games",
-            "touchscreen-games",
-            "challenge-games",
-            "desktop-games",
-            "resource-management-games",
-            "gam-supported-games"
-          ],
-          "images": [
-            "https://static.playgama.com/p-img/pg/cooking-empire/big-preview/5c57e794d60440f5bd8f0ac7a89fe35f?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-113108/icon/8649c1ffc0c6f24d4eca544beb69d98c72a55a0e3b806b8c750df2a8fd43d711?width=448"
-          ],
-          "videos": [
-            {
-              "playgama_id": "5cb7fcdceda8eacef2355c3d2e4805eb",
-              "external_url": "",
-              "type": "gameplay"
-            }
-          ],
-          "mobileReady": [
-            "For Android",
-            "For IOS",
-            "For Desktop"
-          ],
-          "gender": [
-            "Male",
-            "Female"
-          ],
-          "inGamePurchases": "Yes",
-          "supportedLanguages": [
-            "en-US",
-            "de-DE",
-            "es-ES",
-            "fr-FR",
-            "id-ID",
-            "it-IT",
-            "ru-RU",
-            "vi-VN"
-          ],
-          "screenOrientation": {
-            "horizontal": true,
-            "vertical": false
-          },
-          "embed": "<iframe src='https://playgama.com/export/game/cooking-empire?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
         },
         {
           "id": "113064",
@@ -101509,8 +102117,8 @@
             "unity-games-online"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/ragdoll-soccer/big-preview/109bd57054424072b141fb2a05af721f?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-86412/icon/37607046a537f61cb863cf2ed2acc04ebf3c5c5acf02f85d5df962f6d8be7398?width=448"
+            "https://static.playgama.com/p-img/pg/ragdoll-soccer/big_preview/89eea6260df6439e81dac76423b04309?width=448",
+            "https://static.playgama.com/p-img/pg/ragdoll-soccer/icon/b3c338f47f094d108dfd189f0ec87d9a?width=448"
           ],
           "videos": [
             {
