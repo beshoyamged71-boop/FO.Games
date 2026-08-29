@@ -14,8 +14,329 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 2068,
+      "count": 2074,
       "hits": [
+        {
+          "id": "124674",
+          "slug": "3d-triple-match",
+          "title": "3D Triple Match",
+          "description": "Dive into 3D Triple Match, an addictive and relaxing 3D puzzle matching game designed to test your observation and sorting skills. Find, match, and clear vibrant 3D objects from a messy pile before the timer runs out. Featuring smooth animations, satisfying physics, and hundreds of challenging levels, it is the perfect brain trainer for players of all ages.\nKey Features\n- Stunning 3D Visuals: High-quality 3D items ranging from toys, food, and animals to everyday household objects.\n- Brain-Training Gameplay: Sharpen your memory, focus, and visual recognition with every puzzle.\n- Play Anytime, Anywhere: Enjoy seamless offline gameplay whenever you need a quick mental break.",
+          "howToPlayText": "- Spot & Tap: Tap on three identical 3D items from the pile to collect them into the bottom tray.\n- Match to Clear: Once three identical items are placed in the tray, they merge and disappear automatically.\n- Complete the Objective: Clear all target items listed at the top of the screen before the countdown timer hits zero.\n- Watch the Tray Limit: Avoid filling up all slots in the bottom collector bar with mismatched items, or the game ends.",
+          "gameURL": "https://playgama.com/export/game/3d-triple-match?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/3d-triple-match",
+          "genres": [
+            "puzzle",
+            "3d",
+            "matching",
+            "brain"
+          ],
+          "tags": [
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "sorting-games",
+            "mind-games",
+            "color-matching-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/3d-triple-match/big_preview/45e4d377c8334f3ea917f063b51fa896?width=448",
+            "https://static.playgama.com/p-img/pg/3d-triple-match/icon/f6c621ab794046c0b9783e264e54c135?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/3d-triple-match?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124671",
+          "slug": "draw-save",
+          "title": "Draw & Save",
+          "description": "🚤 You're the last boat on the beach.\n\nSomeone's gone under past the buoys — and the fins are already circling. 🦈\n\nYou get one shot. Trace a route across the water with your finger, let go, and watch it happen. No steering. No brakes. No takebacks. ⚡\n\n🦈 Sharks patrol in loops that do not wait for you.\n🪨 Rocks don't move. They also don't forgive.\n💥 Clip either one and the entire run is gone.\n\nEasy to draw. Brutal to plan.",
+          "howToPlayText": "Five steps, then four rules that actually decide runs — and those rules are the part most listings get wrong. I pulled them from the code rather than guessing:\n\nEveryone, or nobody — leave one swimmer and the level fails\nAll the clocks run at once from release, so a half-empty bar means that swimmer goes first\nOne touch and you're done — rocks and sharks both sink you and reset the count to zero\nSharks move while you do — draw for where they'll be, not where they are",
+          "gameURL": "https://playgama.com/export/game/draw-save?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/draw-save",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "boat",
+            "drawing",
+            "logic"
+          ],
+          "tags": [
+            "reaction-games",
+            "casual-games",
+            "brain-training-games",
+            "hyper-casual-games",
+            "obstacles-games",
+            "challenging-games",
+            "1-player-games",
+            "timing-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/draw-save/big_preview/a093d6884e574964bf0d032c4d63c7bc?width=448",
+            "https://static.playgama.com/p-img/pg/draw-save/icon/73d1d6fa38f6429a87f42c23bb295a4b?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "0ba2a034b3844a79912057c1bca5cf59",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/draw-save?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124668",
+          "slug": "candy-pop-mania",
+          "title": "Candy Pop Mania",
+          "description": "Dive into Candy Pop Mania - the colorful match 3 game! \nPop, blast, and match colorful candies as you journey through hundreds of levels!\n\nKey features:\n\n- Match 3 gameplay: link 3 or more sweets to clear boards and complete level objectives.\n\n- Sweet combos & boosters: create striped candies, wrapped candies, and color bombs.\n\n- New challenges: unique levels each with new goals and obstacles\n\n- Daily rewards: spin the bonus wheel each day for free boosters, coins, and special items.\n\n\nReady for a sweet challenge? ",
+          "howToPlayText": "Swipe tiles horizontally or vertically to create a line of three or more matching items. \nMatches of four or more create special tiles with unique abilities. \nUse power-ups to help clear difficult parts of the board. \nComplete levels to earn rewards.",
+          "gameURL": "https://playgama.com/export/game/candy-pop-mania?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/candy-pop-mania",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "match-3"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "color-matching-games",
+            "1-player-games",
+            "crush-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/candy-pop-mania/big_preview/1833e48e68be4b7bb2e58f505aad89e7?width=448",
+            "https://static.playgama.com/p-img/pg/candy-pop-mania/icon/6b14a3cff5ff45fb878404f8dd52235e?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "8482e261869e459a8bef3d829041ae26",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "pt-PT",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/candy-pop-mania?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124666",
+          "slug": "roll-rush",
+          "title": "Roll Rush",
+          "description": "A fast-paced ball run game where you evade obstacles and collect coins to further upgrade your ball, try to roll as far as possible!",
+          "howToPlayText": "Take control of a rolling ball and race through a track filled with platforms, obstacles, gaps, and dangerous traps. Stay on course, react quickly, and keep your momentum as you push your run as far as possible.\n\nCollect coins along the way, discover new ball skins, and chase your highest score. The further you go, the faster and more challenging the course becomes.\n\nKeep rolling. Don't fall. How far can you go?\n\nControls\n\nMobile:\nDrag left or right to steer the ball.\n\nDesktop:\nMove the mouse left or right to control the ball.\n\nGoal:\nStay on the course, avoid obstacles, collect coins, and survive for as long as possible.",
+          "gameURL": "https://playgama.com/export/game/roll-rush?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/roll-rush",
+          "genres": [
+            "action",
+            "arcade",
+            "skill",
+            "3d",
+            "running",
+            "ball",
+            "runner"
+          ],
+          "tags": [
+            "fast-paced-games",
+            "addictive-games",
+            "avoid-games",
+            "endless-games",
+            "obstacles-games",
+            "speed-games",
+            "collecting-games",
+            "rolling-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/roll-rush/big_preview/1c39c6fba114437c9bc891b524eb9cd0?width=448",
+            "https://static.playgama.com/p-img/pg/roll-rush/icon/a899e004f1a948c1ad410779a4f56ff9?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "5979f5df05dc45a08af78eacfd41049f",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/roll-rush?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124665",
+          "slug": "draw-the-road",
+          "title": "Draw The Road",
+          "description": "Draw The Road: The Ultimate Physics Puzzle Game\nGet ready for a unique blend of creative drawing and challenging physics puzzles! In Draw The Road, your finger acts as architect, engineer, and driver. Your mission is simple: draw the road, set up the layout, and get your vehicle safely to the finish line.",
+          "howToPlayText": "🎨 Draw Your Way to Victory\nYour creativity is the heart of the game! Use simple drawing mechanics to sketch the perfect path. Draw a ramp, a bridge, or a loop—every line you draw instantly transforms into a real, drivable road. But be careful: the realistic physics engine demands precision! A shaky curve or a steep climb could cause your vehicle to crash.",
+          "gameURL": "https://playgama.com/export/game/draw-the-road?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/draw-the-road",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "boys",
+            "bicycle",
+            "physics",
+            "brain",
+            "drawing"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "creativity-games",
+            "webgl-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/draw-the-road/big_preview/ab3596453a964481bc18c155e03ee360?width=448",
+            "https://static.playgama.com/p-img/pg/draw-the-road/icon/04cc3c6c22c14062a0c1315f90a2e30b?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/draw-the-road?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124664",
+          "slug": "strike-bullet",
+          "title": "Strike Bullet",
+          "description": "Strike Bullet is a ricochet puzzle shooter. Aim carefully, bounce your shot off metal walls, and take out every enemy. Plan your angle, watch the trajectory, and clear 20 levels packed with challenge!\n",
+          "howToPlayText": "In Strike Bullet, every shot counts. Fire and ricochet your bullets to eliminate all enemies. Use glass panels, explosive barrels, and portals to set up the perfect path.\nDesktop Controls:\n\nMouse: Aim by moving the cursor.\nLeft Click: Fire your bullet.\nR: Restart the current level.\n\nMobile Controls:\n\nTouch & Drag: Aim by dragging on the screen.\nRelease / Tap: Fire your bullet.\nRestart Button: Restart the current level from the in-game UI.",
+          "gameURL": "https://playgama.com/export/game/strike-bullet?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/strike-bullet",
+          "genres": [
+            "action",
+            "puzzle",
+            "arcade",
+            "shooting",
+            "gun",
+            "physics",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "bullet-games",
+            "1-player-games",
+            "arcade-shooter",
+            "2d-shooter"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/strike-bullet/big_preview/628751d5c43c4f799f20a9a05ac479b8?width=448",
+            "https://static.playgama.com/p-img/pg/strike-bullet/icon/4a936ab1d55c4f78ac7fb2889a61b25f?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "bf6581e109114eb7a80ee455fe90747f",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/strike-bullet?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124661",
           "slug": "catch-the-cat",
