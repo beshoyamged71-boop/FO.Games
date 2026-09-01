@@ -14,8 +14,766 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 2074,
+      "count": 2088,
       "hits": [
+        {
+          "id": "124713",
+          "slug": "acox",
+          "title": "Acox",
+          "description": "Acox is a simple platformer game that challenges players to complete 30 levels by controlling a character through various obstacles to reach the goal in each level.",
+          "howToPlayText": "Complete all 30 levels by reaching the goal and avoiding obstacles. Use the WASD or Arrow Keys to move your character. On mobile devices, use the on-screen touch controls. Complete each level to unlock the next one and progress through the game.",
+          "gameURL": "https://playgama.com/export/game/acox?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/acox",
+          "genres": [
+            "arcade",
+            "platform"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "obstacles-games",
+            "jumping-games",
+            "challenge-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/acox/big_preview/0df6ee8e2a614dd0af1ef1b98c6b7cae?width=448",
+            "https://static.playgama.com/p-img/pg/acox/icon/2813cc6d01224e4e951658dcccc3a194?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/acox?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124712",
+          "slug": "swap-the-pictures",
+          "title": "Swap The Pictures",
+          "description": "Looks like a crossword. Feels like a brain workout.\nIn Swap The Pictures, you don’t spell words you connect ideas.\nMatch images to categories, solve overlaps, and watch the grid come together.",
+          "howToPlayText": "Study the row and column categories\nTap two tiles to swap their positions\nMatch each image to the correct row and column\nSolve overlapping tiles with dual associations\nComplete the grid before your moves run out!\n",
+          "gameURL": "https://playgama.com/export/game/swap-the-pictures?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/swap-the-pictures",
+          "genres": [
+            "puzzle",
+            "matching",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "brain-training-games",
+            "mind-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/swap-the-pictures/big_preview/e3818b89c603461d87cd07192887a313?width=448",
+            "https://static.playgama.com/p-img/pg/swap-the-pictures/icon/ea68067884d84b6ea5d26b0207833321?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/swap-the-pictures?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124710",
+          "slug": "cartoon-traffic-racing-paper-derby",
+          "title": "Cartoon Traffic Racing Paper Derby",
+          "description": "Race through paper cartoon chaos!\n\nImmerse yourself in dynamic traffic racing in a unique world of paper and cardboard, where tiny cardboard cars compete on busy roads. Maneuver between cars, avoid collisions, overcome obstacles, and utilize the environment!\nEvery race is a battle for first place. Huge stationery items, ramps, obstacles, cars, and other interactive elements transform each map into a veritable playground where you can find new ways to overtake, collide, and defeat opponents.\nUnlock new cars with unique designs and powerful performance, customize them to suit your playstyle, and navigate increasingly challenging maps with intense traffic. Race through colorful arenas, weave through dense traffic, cause massive collisions, and prove that your cardboard car is the fastest on the road!\n\nKey Features\nDynamic traffic racing – maneuver between cars, avoid collisions, and find the fastest way to victory.\nUnique paper and cardboard world – a vibrant universe with oversized stationery and unusual locations.\nInteractive environment – ​​use ramps, obstacles, and various objects to gain an advantage.\nModern, colorful graphics – stylish visual design with a unique papercraft atmosphere.\n\nNew cars and bonuses – win races, earn rewards, and unlock new content.\nDestruction and chaos – crash into obstacles, cause accidents, and turn every race into a true road rage.",
+          "howToPlayText": "Controls:\nW / Up Arrow accelerate\nS / Down Arrow brake\nA / Left Arrow steer left\nD / Right Arrow steer right\nSpace handbrake\nF nitro/NOS\nC change camera\nB look back",
+          "gameURL": "https://playgama.com/export/game/cartoon-traffic-racing-paper-derby?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/cartoon-traffic-racing-paper-derby",
+          "genres": [
+            "action",
+            "racing",
+            "arcade",
+            "3d",
+            "car",
+            "running",
+            "car-racing",
+            "runner"
+          ],
+          "tags": [
+            "fast-paced-games",
+            "customization-games",
+            "casual-games",
+            "avoid-games",
+            "desktop-games",
+            "1-player-games",
+            "arcade-car"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/cartoon-traffic-racing-paper-derby/big_preview/4cc26db2ca2645e4b4a6630606a009fc?width=448",
+            "https://static.playgama.com/p-img/pg/cartoon-traffic-racing-paper-derby/icon/b5070d49012941488245b384ad778eac?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/cartoon-traffic-racing-paper-derby?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124709",
+          "slug": "swat-cats",
+          "title": "SWAT Cats",
+          "description": "SWAT Cats is an online shooter set in a world where every hero is a battle cat. Ready for purr-fect battle with wild action? Jump in, grab your helmet, and join the fight.\n\nYou can pick from 4 cat operatives for now. We have 4 battle cats, but we can add more!\n\nChoose Your Operative:\n- Private Nine-Lives\n- Corporal Strongpaw\n- Sergeant Silent-Purr\n- Captain Scratch\n\nYou start as a Private. In later online matches, you can switch to other fighters!\n\nSWAT Cats features several comfy, fast-paced maps that are great for action and shooting.\n\nThe best part of online games is playing with friends. We made this shooter multiplayer, so team up and hop into matches together.\n\nWant to chat with other players? The game has an in-game chat.\n\nSWAT Cats shooter is multiplatform! So you can enjoy the game both on mobile and PC!\n\nPick your cat, grab your gun, and dive into the fight!\n\nSee you on the battlefield, meow. Combat \"meow\"!",
+          "howToPlayText": "Controls\nW = move forward\nA = move left\nS = move backward\nD = move right\nLctrl = fire\nR = recharge\nRight mouse = aim mode\nLeft mouse = fire\n1 = switch to general gun\n2 = switch to pistol\n3 = switch knife\n4 = switch to bomb\n5 = switch to heal\nT = chat\nC = sit down\nSpace = jump\nM = maps\nTab = pause\nF = pick up weapon",
+          "gameURL": "https://playgama.com/export/game/swat-cats?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/swat-cats",
+          "genres": [
+            "action",
+            "3d",
+            "multiplayer",
+            "shooting",
+            "gun",
+            "pvp",
+            "cats"
+          ],
+          "tags": [
+            "3-player-games",
+            "fast-paced-games",
+            "competitive-games",
+            "combat-games",
+            "desktop-games",
+            "1-player-games",
+            "teams-games",
+            "2-player-gun",
+            "military-shooter",
+            "action-fighting"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/swat-cats/big_preview/20165369bf274278ad3a4875dd4bc409?width=448",
+            "https://static.playgama.com/p-img/pg/swat-cats/icon/767c9cd4e95b4dda83c9940bc3c981b9?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "358608e1f36e4aa59287d4b32b8b42d8",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "pt-PT",
+            "ru-RU",
+            "th-TH"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/swat-cats?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124708",
+          "slug": "bridge-dash",
+          "title": "Bridge Dash",
+          "description": "Draw it. Drive it. Don’t fall!  Bridge Dash is a fun and challenging physics puzzle game where you need to draw a bridge and help your car safely reach the finish line. Every level is a new challenge – avoid obstacles and use your creativity to find the perfect path! Draw the Bridge – draw your way to victory!",
+          "howToPlayText": "bridge dash and help your car safely reach the finish line.\n****Controls****\nUse Mouse PC, Laptop, Desktop\nUse Touch Mobile",
+          "gameURL": "https://playgama.com/export/game/bridge-dash?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/bridge-dash",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "car",
+            "physics",
+            "drawing",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "creativity-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/bridge-dash/big_preview/102cffd2bdb9464b94a2a6b891fc9619?width=448",
+            "https://static.playgama.com/p-img/pg/bridge-dash/icon/63cda840446c4566999a6598ef757ac7?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/bridge-dash?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124706",
+          "slug": "fantasy-soccer-manager",
+          "title": "Fantasy Soccer Manager",
+          "description": "Fantasy Soccer Manager is a lightweight 7-a-side football management game set in a night league where four peoples — Humans, Orcs, Elves and the Undead — settled an ancient war with a fixture list instead of a battlefield. Pick a club from four divisions, build a squad of 13–20 players, and climb from the bottom to the top over a 3-, 5- or 10-season career.\n\nYou never control the players directly. Each match plays out as live highlights, and whenever play stops — a corner, a free kick, a goal — the touchline opens: pick which flank to attack, how to build up, change formation or make a substitution. Every people plays differently: Orcs rage when behind, Elves see passes nobody else can, the Undead feel no pain and never age, Humans adapt to any position. Between matches you manage energy, injuries, suspensions, finances, stadium upgrades and four transfer windows a season, while players grow, decline and retire around you.\n\nWin promotion, lift the cups, do the double, and post your career points to the manager leaderboard. 22 achievements, cloud saves and three career slots.",
+          "howToPlayText": "GOAL — Finish the campaign you chose (3, 5 or 10 seasons) with the best record you can: promotions, league titles and cup wins. Your career points go to the global leaderboard after every league match.\n\nSTART — Skip or read the arrival diary, choose a campaign length, then pick a club from Division 1–4. Lower divisions are harder but climb higher.\n\nBEFORE A MATCH — Check the opponent report, set your starting seven and up to two player orders (Finisher, Playmaker, Run in Behind, Focus Play), then kick off.\n\nDURING A MATCH — Watch the highlights. When play stops, a touchline card appears: \n- Pick a side (LEFT / CENTER / RIGHT) — the whole team shifts that way. Attack where the defence is thin or tired.\n- Pick a build-up (Wide, Central, Direct, Balanced) — the top option fits the current situation.\n- Use Subs (3 per match), Formation and Squads from the top row when needed.\nSpeed buttons (1× / 2× / 3×) and Highlights / Full view are on the match screen.\n\nBETWEEN MATCHES — Rest tired players, manage injuries and yellow cards, spend prize and gate money on facilities, and sign or release players in the transfer window (to bring one in, send one out first). Save from the league screen; progress also syncs to the cloud.\n\nCONTROLS — Mouse or touch only. Tap or click every button; no keyboard required. Drag to scroll lists.",
+          "gameURL": "https://playgama.com/export/game/fantasy-soccer-manager?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/fantasy-soccer-manager",
+          "genres": [
+            "sports",
+            "strategy",
+            "simulation",
+            "management",
+            "soccer"
+          ],
+          "tags": [
+            "2d-games",
+            "fantasy-games",
+            "business-games",
+            "brain-training-games",
+            "time-management-games",
+            "1-player-games",
+            "resource-management-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/fantasy-soccer-manager/big_preview/475ee1771dce424ebf965234eec1e6ed?width=448",
+            "https://static.playgama.com/p-img/pg/fantasy-soccer-manager/icon/188c9cbf79a54cc59a58a6134f8f283d?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ko-KR"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/fantasy-soccer-manager?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124700",
+          "slug": "color-sorting",
+          "title": "Color Sorting",
+          "description": "Color Sort is a puzzle made entirely of colour — not a water sort, and nothing is poured. Each board is one continuous gradient cut into tiles and shuffled. The pinned tiles never move and the corners are what fix the gradient, so every other tile has exactly one place it belongs — you are reading the board, not guessing at it.\n\nDrag a tile onto another to trade them, or tap one tile and then a second. Par is the fewest swaps that can finish the board, and it is computed rather than estimated, so it is a target you can actually beat instead of a grade. Choose Easy, Medium, or Hard for 5×4, 7×5, and 9×6 boards, take a hint that is always an optimal swap, and keep personal best and average times for every difficulty.\n\nColours are generated in OKLab, so an equal step in the gradient looks like an equal step. No board is ever shown unless it stays readable with red and green removed, and a colour-blind palette option in Settings raises that floor further.",
+          "howToPlayText": "Desktop and mobile: drag a tile onto another to trade the two, or tap (click) a tile and then a second one.\nPinned tiles never move — they are what fix the gradient.\nUndo takes back one swap, Reset returns to the shuffle, Hint plays an optimal swap, New puzzle deals a fresh board.\nGoal: put the shuffled gradient back in order until colour flows evenly across the whole board. Par is the fewest swaps that can finish it, and there is no time limit.",
+          "gameURL": "https://playgama.com/export/game/color-sorting?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/color-sorting",
+          "genres": [
+            "puzzle",
+            "skill",
+            "brain",
+            "logic",
+            "color",
+            "easy"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "sorting-games",
+            "mind-games",
+            "color-matching-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/color-sorting/big_preview/21b1b34fd0ad4f4db2ea6ba77cd0080f?width=448",
+            "https://static.playgama.com/p-img/pg/color-sorting/icon/9272be08f1bd4356884158abe2d94764?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/color-sorting?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124696",
+          "slug": "target-shooter-arena",
+          "title": "Target Shooter Arena",
+          "description": "Target Shooter Arena is a 3D first-person precision shooting game that combines target-range challenges, hunting missions, and sniper duels. Read the wind, adjust for distance, and make every bullet count before your time or ammunition runs out. Earn stars and coins, unlock new stages, and customize your loadout with guns, red-dot sights, and different bullet types.",
+          "howToPlayText": "Choose a mode and prepare your loadout in the Arsenal. In target-range levels, score enough points by hitting the center rings before you run out of ammunition or time. Hunting missions challenge you to eliminate the required targets, while Sniper Duel lets you take turns against an opponent and compete for the higher score.\n\nWatch the wind indicator and adjust your aim to compensate for the bullet’s trajectory. Accurate shots earn better scores, more stars, and coins that help you unlock new levels and equipment.\n\nDesktop controls:\n• Hold the right mouse button and move the mouse to aim.\n• Press the left mouse button to shoot.\n• You can also drag with the left mouse button to look around before aiming.\n\nMobile controls:\n• Drag across the aiming area to move your view.\n• Tap the Aim button to use the sight.\n• Tap the Fire button to shoot.",
+          "gameURL": "https://playgama.com/export/game/target-shooter-arena?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/target-shooter-arena",
+          "genres": [
+            "action",
+            "arcade",
+            "skill",
+            "3d",
+            "shooting",
+            "animals",
+            "first-person-shooter",
+            "sniper"
+          ],
+          "tags": [
+            "mission-games",
+            "bullet-games",
+            "customization-games",
+            "desktop-games",
+            "1-player-games",
+            "target-games",
+            "sniper-shooter",
+            "arcade-shooter"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/target-shooter-arena/big_preview/02656597ab9446819f85ee7c4cb8cfa4?width=448",
+            "https://static.playgama.com/p-img/pg/target-shooter-arena/icon/701fa03b27e7496db481562390672a45?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "af990f34d7744dd68b25cdf61722b6ad",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "pt-PT",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/target-shooter-arena?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124692",
+          "slug": "crush-hour",
+          "title": "Crush Hour",
+          "description": "Crush Hour is an endless arcade runner set in a zombie rush hour. Your truck drives itself — swipe to change lanes, hop the sidewalk, and smash the undead for combos and score. Weave through traffic, ram cars and trucks for extra points, grab fuel before the tank runs dry, and snag Rampage pickups for a smash frenzy. Near-misses reward clean driving. Survive the jam, beat your best, and own the highway.",
+          "howToPlayText": "Rush hour belongs to the dead — and you are the truck. Your rig drives itself down an endless highway. Smash zombies for score and combos, weave past cars, and hop onto the sidewalk when the lanes get ugly. Cars nick your HP for a few points; trucks hurt more and pay more. Near-misses reward clean driving. Grab fuel cans before the tank runs dry, and snag the orange Rampage pickup for a smash frenzy. Survive as long as you can, beat your best score, and climb the leaderboard. There is no finish line — the wreck is the end, the high score is the win.\n\nDesktop Controls: ← (Left Arrow) or A: Change lane left / hop onto the left sidewalk. → (Right Arrow) or D: Change lane right / hop onto the right sidewalk. Spacebar: Retry after a wreck.\n\nMobile Controls: Swipe left: Change lane left / hop onto the left sidewalk. Swipe right: Change lane right / hop onto the right sidewalk.",
+          "gameURL": "https://playgama.com/export/game/crush-hour?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/crush-hour",
+          "genres": [
+            "action",
+            "arcade",
+            "car",
+            "running",
+            "zombie"
+          ],
+          "tags": [
+            "fast-paced-games",
+            "smash-games",
+            "endless-games",
+            "1-player-games",
+            "traffic-games",
+            "crush-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/crush-hour/big_preview/8191786ec1744da6bc40e580af3751c6?width=448",
+            "https://static.playgama.com/p-img/pg/crush-hour/icon/0bb133976fe84566b7d99e43240307ee?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "ja-JP",
+            "ko-KR",
+            "pl-PL",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/crush-hour?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124690",
+          "slug": "fight-club-simulator",
+          "title": "Fight Club Simulator",
+          "description": "Train, fight, and dominate in Fight Club Simulator! Step into the neon-lit future and become the ultimate cyber boxing champion.\nFight Club Simulator is a futuristic boxing game that blends high-tech upgrades with old-school fists. Begin your journey as a rookie fighter and climb the ranks of cybernetic combat sports. Set in a neon-drenched future, this simulator challenges you to upgrade your punches, unlock powerful combat abilities, and take on a wide range of tough opponents across visually stunning sci-fi arenas.\nFeatures\nCustomize your boxer's appearance.\nComplete action-packed quests.\nFace unique enemies that test your reflexes, tactics, and timing.\nUnleash devastating combo moves.\nLearn new punch techniques.\nProgress through deep character upgrades.\nBattle across visually stunning sci-fi arenas.\nWith immersive visuals, deep character progression, and pulse-pounding action, Fight Club Simulator offers a thrilling mix of simulation, strategy, and futuristic boxing brawls. Enter the arena and prove you're more than a fighter, you're a legend.",
+          "howToPlayText": "W: Move upward.\nS: Move downward.\nA: Move left.\nD: Move right.\nSpace: Fight/Use/Buy.\n\nMobile Controls:\nOn-Screen Joystick: Move in all directions by dragging the joystick.",
+          "gameURL": "https://playgama.com/export/game/fight-club-simulator?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/fight-club-simulator",
+          "genres": [
+            "action",
+            "arcade",
+            "simulation",
+            "skill",
+            "3d",
+            "fighting",
+            "boxing"
+          ],
+          "tags": [
+            "customization-games",
+            "addictive-games",
+            "competitive-games",
+            "arena-games",
+            "combat-games",
+            "1-player-games",
+            "action-fighting"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/fight-club-simulator/big_preview/939aedffae32454e9d49b9a8f89198b2?width=448",
+            "https://static.playgama.com/p-img/pg/fight-club-simulator/icon/7e039227615b46c89ff792d1ee457a0b?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "0c2b8ece7f0249f5ba55dc69437a474b",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/fight-club-simulator?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124688",
+          "slug": "pool-blast-merge-balls",
+          "title": "Pool Blast: Merge Balls",
+          "description": "Welcome to Pool Blast: Merge Balls — the ultimate 3D billiards puzzle experience!\nCombine pool balls, trigger massive chain reactions, and clear the table in this fast-paced casual puzzle. Use cushion bounces for master trick shots, deploy game-saving boosters like the Bomb and Magnet, and climb your way to the top score!",
+          "howToPlayText": "Aim: Click/tap and drag to direct the aiming line.\nShoot: Release to launch the cue ball across the table.\nMerge: Collide two balls of the same number/tier to merge them into the next bigger ball.\nSurvive & Score: Keep making successful merges before you run out of moves!",
+          "gameURL": "https://playgama.com/export/game/pool-blast-merge-balls?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/pool-blast-merge-balls",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "3d",
+            "ball",
+            "merge",
+            "cozy",
+            "physics"
+          ],
+          "tags": [
+            "casual-games",
+            "hyper-casual-games",
+            "desktop-games",
+            "1-player-games",
+            "bomb-games",
+            "billiards-games",
+            "8-ball-pool-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/pool-blast-merge-balls/big_preview/771056403bdb4e768afc96ed9c4ab6d4?width=448",
+            "https://static.playgama.com/p-img/pg/pool-blast-merge-balls/icon/6a47031c12e7426993c8e1bb1730d021?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ar-EG",
+            "az-AZ",
+            "zh-CN",
+            "de-DE",
+            "nl-NL",
+            "es-ES",
+            "fr-FR",
+            "hi-IN",
+            "id-ID",
+            "it-IT",
+            "ja-JP",
+            "ko-KR",
+            "kk-KZ",
+            "pl-PL",
+            "pt-PT",
+            "ru-RU",
+            "th-TH",
+            "tr-TR",
+            "uk-UA",
+            "uz-UZ",
+            "vi-VN"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/pool-blast-merge-balls?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124687",
+          "slug": "crossy-rails",
+          "title": "Crossy Rails",
+          "description": "Build the perfect railway and guide the train safely to its destination! Move and arrange the rail blocks in the correct direction to create a complete track. Think ahead, solve each puzzle, and make sure every rail piece connects properly. Once the track is complete, the train will automatically travel across it and complete the level.\n\nWith simple controls and increasingly challenging puzzles, Crossy Rails is a fun and relaxing logic game that tests your planning and problem-solving skills.",
+          "howToPlayText": "Move the rail blocks left, right, up, or down.\nArrange the pieces to create a continuous railway track.\nMake sure all rail sections connect correctly.\nComplete the track from the starting point to the destination.\nOnce the track is ready, the train will automatically cross it.\nSuccessfully guide the train to complete the level.",
+          "gameURL": "https://playgama.com/export/game/crossy-rails?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/crossy-rails",
+          "genres": [
+            "puzzle",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "brain-training-games",
+            "challenging-games",
+            "mind-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/crossy-rails/big_preview/2e9f552475bd4a71bcd5785a48240f87?width=448",
+            "https://static.playgama.com/p-img/pg/crossy-rails/icon/ba1df9b752a340e896c4d0e025ceb69f?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/crossy-rails?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124683",
+          "slug": "jelly-color-sort-3d",
+          "title": "Jelly Color Sort 3D",
+          "description": "Put your sorting skills to the test in Jelly Sort 3D: Color Puzzle! Move colorful jelly pieces and place jellies of the same color into the correct sections before time runs out.\n\nThink carefully, plan your moves, and complete each puzzle as quickly as possible. When you get stuck or need extra help, use useful power-ups by watching a short rewarded ad. Freeze Time can pause the countdown, Destroy Jelly can remove a troublesome jelly, and Auto Shuffle can rearrange the puzzle to give you a fresh chance.\n\nWith simple tap controls, colorful 3D jelly pieces, challenging levels, and helpful power-ups, this color sorting puzzle game is easy to learn but challenging to master.",
+          "howToPlayText": "Tap a jelly to select and move it.\nPlace jellies into the correct sections.\nMatch jellies of the same color in the same section.\nSort all the jellies before the timer reaches zero.\nPlan your moves carefully to avoid getting stuck.\nUse Freeze Time to temporarily stop the countdown.\nUse Destroy Jelly to remove a difficult jelly.\nUse Auto Shuffle to rearrange the jellies and create new possibilities.\nWatch a rewarded ad to activate a power-up when needed.\nComplete the puzzle before time runs out to advance to the next level.",
+          "gameURL": "https://playgama.com/export/game/jelly-color-sort-3d?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/jelly-color-sort-3d",
+          "genres": [
+            "puzzle",
+            "brain",
+            "logic",
+            "color"
+          ],
+          "tags": [
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "jelly-games",
+            "sorting-games",
+            "mind-games",
+            "color-matching-games",
+            "challenge-games",
+            "1-player-games",
+            "timing-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/jelly-color-sort-3d/big_preview/f1fa3f0fbcc040caa9cb133f74125b9a?width=448",
+            "https://static.playgama.com/p-img/pg/jelly-color-sort-3d/icon/7bfedeb6e828491882f9ccfc55ad80c2?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/jelly-color-sort-3d?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124680",
+          "slug": "block-blast-master-puzzle",
+          "title": "Block Blast Master: Puzzle",
+          "description": "Block Blast Master is a colorful and satisfying block puzzle that combines relaxing gameplay with strategic challenges. Drag shapes onto the board, complete horizontal and vertical lines, and chain consecutive clears to build combos and increase your score. Chase a new high score in endless Classic Mode or progress through 150 handcrafted Adventure levels featuring score targets, collectible objectives, unique layouts, and increasing difficulty. With smooth controls, polished visuals, and satisfying block-clearing effects, Block Blast Master is easy to learn, challenging to master, and perfect for both quick breaks and longer puzzle sessions.",
+          "howToPlayText": "Drag and place block shapes on empty spaces on the board. Complete a full horizontal row or vertical column to clear the blocks and earn points. Clear multiple lines at once or keep completing lines with consecutive moves to build combos and increase your score.\nIn Classic Mode, keep the board open and try to beat your high score. The game ends when none of the available shapes can fit on the board.\nIn Adventure Mode, complete each level by reaching the target score or collecting the required items.\nDesktop Controls:\nLeft Mouse Button: Hold and drag a block onto the board.\nRelease Left Mouse Button: Place the block.\nMobile & Tablet Controls:\nTouch and Drag: Move a block onto the board.\nRelease: Place the block.",
+          "gameURL": "https://playgama.com/export/game/block-blast-master-puzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/block-blast-master-puzzle",
+          "genres": [
+            "puzzle",
+            "classic",
+            "logic",
+            "blocks"
+          ],
+          "tags": [
+            "tetris-games",
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "addictive-games",
+            "endless-games",
+            "mind-games",
+            "challenge-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/block-blast-master-puzzle/big_preview/c9a32d7c49124200a14023f599595389?width=448",
+            "https://static.playgama.com/p-img/pg/block-blast-master-puzzle/icon/7b91cc038f334acf9e77843453b5a038?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "4c0cbdd0cacf4a94ae7947a45c41741c",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "pt-PT",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/block-blast-master-puzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124674",
           "slug": "3d-triple-match",
@@ -4033,7 +4791,7 @@
             "en-US"
           ],
           "screenOrientation": {
-            "horizontal": false,
+            "horizontal": true,
             "vertical": true
           },
           "embed": "<iframe src='https://playgama.com/export/game/scratch-raw-stone-gem-master?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
@@ -4111,8 +4869,8 @@
             "arcade-car"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/bucket-brigade/big_preview/0b22741364a74f32a64f3a3168929b62?width=448",
-            "https://static.playgama.com/p-img/pg/bucket-brigade/icon/69ca1e5a760746ea80b22a77aba987f5?width=448"
+            "https://static.playgama.com/p-img/pg/bucket-brigade/big_preview/79965eef582f47638c8bd5505c92f22f?width=448",
+            "https://static.playgama.com/p-img/pg/bucket-brigade/icon/da101834776a4edebfdab4c276da3ac1?width=448"
           ],
           "videos": [],
           "mobileReady": [
@@ -4397,7 +5155,7 @@
         {
           "id": "124481",
           "slug": "ten-link--number-games",
-          "title": "Ten Link - Number Games",
+          "title": "Ten Link: Number Games",
           "description": "Ten Link is a relaxing yet brain-teasing number puzzle. Clear the board by\nlinking pairs of numbers that are either the same or add up to 10 — connect\nthem across rows, columns, diagonals, or even from the end of one line to the\nstart of the next.\n\nColors do the thinking with you: every matching group shares one color, so you\ncan spot valid pairs at a glance. Out of moves? Add a new wave of numbers and\nkeep the chain going. Four difficulty modes, a fresh Daily Challenge every day\nwith monthly trophies, and a level system that grows your Calculation,\nObservation and Focus as you play.",
           "howToPlayText": "Tap (or click) two numbers to link them. A pair is valid when the two numbers\nare equal or add up to 10, and the path between them is clear — horizontally,\nvertically, diagonally, or wrapping from the end of a line to the start of the\nnext one.\n\nClear every number on the board to win the stage. Fill a whole row and it\ndisappears. If no moves are left, press ADD to copy the remaining numbers to\nthe end of the board, or use a HINT to reveal a pair.\n\nControls: mouse click or touch only — no keyboard required.",
           "gameURL": "https://playgama.com/export/game/ten-link--number-games?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
@@ -9746,7 +10504,7 @@
           "id": "124211",
           "slug": "starweave-make-constellations",
           "title": "Starweave: Creative Constellation",
-          "description": "Starweave is a cosmic puzzle game. A relaxing yet challenging journey bring the night sky to life!\n\nIn Starweave you control a glowing beam of starlight traveling through the deep cosmos.\nYour goal is to guide this light from star to star, connecting them together to weave beautiful, glowing constellations. As you glide through space, you will need to dodge floating obstacles and navigate clever pathways to complete each celestial pattern.\n\n\nWhy you'll love it (What makes it unique)\n\nSoothing and Relaxing: With soft, colorful cosmic backgrounds and peaceful, ambient sounds, it is the perfect game to play when you want to decompress and unwind.\n\nSatisfyingly Smooth Controls: Controlling your light thread feels incredibly natural and responsive. It is as simple as drawing directly on your screen with your finger.\n\nBeautiful Neon Visuals: Watch the dark, quiet sky explode with brilliant neon lines, glittering starbursts and magical effects the moment you complete a constellation.\n\nDelightful Brain-Teasers: Each level challenges you to find the perfect path to connect all the stars. It is easy to pick up, but offers just the right amount of playful challenge as you progress.",
+          "description": "Starweave is a space-themed puzzle game offers a relaxing yet challenging journey through the cosmos.\n\nThe universe has gone dark and it's your goal to reconnect hidden constellations to light up the night sky.\n\nEach level has a unique hidden constellation that you light up by linking stars together.\n\nSpace is not empty you have to be careful from stellar, orbits and cosmic friction.\n\nClick and drag to weave a glowing trail between the stars.\n\nAs you glide through space, you will need to crush floating obstacles and navigate clever pathways to complete each celestial pattern.\n\nDisconnect from stress of the day, connect stars and reveal ancient constellations in space sky.\n\nIf you're looking for satisfying stress relief games to help you unwind, Starweave offers a serene, meditative space.\n\nStarweave is not just another casual puzzle game it’s a calming mental escape.\nThere are no timers counting down, no lives to lose and no high-score pressure.\nJust you, the stars and quiet joy of creating something beautiful in space.\n\n\nHow to Play Starweave\n⭐ Connect stars in right order to make constellation\n💫 Crush floating obstacles before they block your path\n🧩 Plan every move - one wrong connection means rethinking your route\n🔓 Unlock new constellations and star patterns as you progress\n\n\nWhy You’ll Love Starweave!\n\nExplore 45+ unique, hand-crafted levels that feel like interactive works of art, progressing naturally without frustrating tutorials.\n\nEnjoy smooth, satisfying controls with tactile feedback designed for an effortless, mindful gaming experience.\n\nNever run out of puzzles, wake up every day to a new procedurally generated celestial challenge born from unique cosmic seeds.\n\nImmerse yourself in stars and glow, elegant particle trails and a soothing ambient soundtrack that encourages deep relaxation.\n\nIdeal for winding down before sleep, enjoying with a quiet coffee break or practicing daily mindfulness.",
           "howToPlayText": "Use mouse to click and drag to connect the stars and make constellations in the sky, use hints for the correct connection",
           "gameURL": "https://playgama.com/export/game/starweave-make-constellations?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
           "playgamaGameUrl": "https://playgama.com/game/starweave-make-constellations",
@@ -15918,6 +16676,8 @@
             }
           ],
           "mobileReady": [
+            "For Android",
+            "For IOS",
             "For Desktop"
           ],
           "gender": [
@@ -16837,7 +17597,7 @@
         {
           "id": "123587",
           "slug": "flying-robot-transform-car-games",
-          "title": "Flying Robot Transform Car Games",
+          "title": "Flying Robot Transform Car Games ",
           "description": "Transform into a powerful Wolf Robot and battle enemy machines in an open-world futuristic city. Switch between a robot, car, bike, helicopter, jet, and tank to complete action-packed missions, defeat enemies, and save the city from destruction.\n\nComplete exciting missions across the city to earn coins and unlock powerful upgrades for your robot hero. Use special attacks, missiles, and unique transformation abilities to overcome challenging enemies and bosses. Whether you prefer exploring freely, flying above the city, or jumping straight into intense battles, every mission offers new action and rewards to discover.\n\nGame Modes: \nChoose between exciting Mission Mode and Free Mode.\n\nMission Mode\nComplete challenging objectives, battle enemy robots, destroy targets, and protect the city from dangerous attacks. Test your combat skills, use powerful transformations, and overcome increasingly difficult missions to become the ultimate robot hero.\n\nFree Mode\nExplore the open world at your own pace and enjoy complete freedom across the futuristic city. Transform into different vehicles and robots, collect rewards, fly through the skies, and discover everything the city has to offer.",
           "howToPlayText": "Desktop\nWASD = Move\nMouse: UI and Actions\nESC = pause\nTAB = settings\nN = Skip Level\n\nMobile\nOn-Screen Joystick: Move in all directions by dragging the joystick.",
           "gameURL": "https://playgama.com/export/game/flying-robot-transform-car-games?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
@@ -80684,7 +81444,7 @@
           ],
           "screenOrientation": {
             "horizontal": true,
-            "vertical": false
+            "vertical": true
           },
           "embed": "<iframe src='https://playgama.com/export/game/police-chase-simulator?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
         },
@@ -90157,8 +90917,8 @@
             "construct-games-online"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/find-the-frog--hidden-objects/big-preview/93206655200441dc99cfaacf0e90161f?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-99734/icon/2762d20a1481ad42ce1fc9b0436f6172c0f761881f515afded13b46c46ceeaa6?width=448"
+            "https://static.playgama.com/p-img/pg/find-the-frog--hidden-objects/big_preview/541792f4c5354ef88be0646eb9be4b1b?width=448",
+            "https://static.playgama.com/p-img/pg/find-the-frog--hidden-objects/icon/96bb7ca516e7433783929a40085e136a?width=448"
           ],
           "videos": [
             {
@@ -91461,7 +92221,8 @@
           ],
           "inGamePurchases": "No",
           "supportedLanguages": [
-            "en-US"
+            "en-US",
+            "ru-RU"
           ],
           "screenOrientation": {
             "horizontal": true,
