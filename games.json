@@ -14,8 +14,570 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 2088,
+      "count": 2099,
       "hits": [
+        {
+          "id": "124758",
+          "slug": "zoo-elephant-simulator-city-attack",
+          "title": "Zoo Elephant Simulator City Attack",
+          "description": "Step into the world of a mighty wild elephant and experience an exciting wildlife adventure across forests and cities. Explore vast environments, raise your elephant family, battle dangerous predators, and complete action-packed missions in this realistic animal simulator. With Jungle, City, and Free Mode, there's always a new adventure waiting.\n\nIn Jungle Mode, survive in the wilderness by finding food, protecting your mate and calves, and fighting fierce predators like lions, tigers, wolves, and cheetahs. Build your elephant family, complete survival missions, and explore beautiful forests, rivers, and open landscapes.\n\nIn City Mode, unleash your elephant's strength as you roam through busy streets, smash vehicles, destroy objects, collect coins, and complete exciting city rampage challenges. Test your power and cause chaos while earning rewards to unlock new content.\n\nIn Free Mode, explore the world at your own pace without mission restrictions. Discover hidden locations, enjoy peaceful exploration, interact with wildlife, and experience the beauty of nature however you like.\n\nFeatures\n-3 exciting game modes: Jungle, City, and Free Mode.\n-Raise and protect your elephant family.\n-Fight dangerous wild animals in thrilling survival battles.\n-Large 3D open-world environments with forests and cities.\n-Customize your elephant with different skins and appearances.\n-Complete exciting missions, challenges, and city rampage objectives.\n-Collect coins and unlock new rewards.\n-Smooth controls, realistic animations, and immersive gameplay.\n\nBecome the leader of your elephant herd, conquer the jungle, dominate the city, or simply explore the open world in Zoo Elephant Simulator City Attacck. Every mode offers a unique adventure for animal simulation fans.",
+          "howToPlayText": "Desktop:\nAWSD: Player Movement\nMouse: Camera Movement / UI Actions\nP = Pause\nCtrl = Setting\nE = Attack\nShift = Sprint\nF = Actions\nMouse = Can be used for Actions/Sprint\n\nMobile\nUse Joystick to move player\nDrag the screen to rotate camera",
+          "gameURL": "https://playgama.com/export/game/zoo-elephant-simulator-city-attack?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/zoo-elephant-simulator-city-attack",
+          "genres": [
+            "action",
+            "adventure",
+            "simulation",
+            "3d",
+            "animals"
+          ],
+          "tags": [
+            "mission-games",
+            "destruction-games",
+            "destroy-games",
+            "life-simulation-games",
+            "1-player-games",
+            "open-world-games",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/zoo-elephant-simulator-city-attack/big_preview/5344a08367ae4ff2908ea64a827eaaa1?width=448",
+            "https://static.playgama.com/p-img/pg/zoo-elephant-simulator-city-attack/icon/7a2c0bd8419e4296b46a6579164aa26a?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "cba8f0eaee3646ffab452afca8f5cccc",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/zoo-elephant-simulator-city-attack?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124754",
+          "slug": "vacation-overload",
+          "title": "Vacation Overload",
+          "description": "Your summer vacation is finally here. The car is ready, the trunk is open, and your wife has decided that “packing light” means launching an endless parade of suitcases, beach bags, souvenirs, and suspiciously box-shaped travel essentials straight at you.\n\nIn Vacation Overload, your job is simple: fit everything into the trunk before the luggage pile turns into a total vacation disaster.\n\nRotate, stack, shuffle, and squeeze each piece into place across a 3D grid. Plan ahead, keep the queue under control, and prove that yes, somehow, all of this absolutely necessary vacation stuff can fit.\n\nCan you survive the packing chaos and still make it to summer break?\n\n",
+          "howToPlayText": "Click a piece to select it\nMove the mouse to position the selected piece\nLeft Click on the trunk grid to place it\nClick an empty buffer slot to store a selected piece\nClick a placed piece to pick it up again\nRotation\n\nW / Up Arrow: Tilt forward\nS / Down Arrow: Tilt backward\nA / Left Arrow: Rotate left\nD / Right Arrow: Rotate right",
+          "gameURL": "https://playgama.com/export/game/vacation-overload?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/vacation-overload",
+          "genres": [
+            "puzzle",
+            "3d",
+            "funny",
+            "cool-games",
+            "cozy",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "webgl-games",
+            "1-player-games",
+            "stacking-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/vacation-overload/big_preview/b92788ec4c5f4a9bb5d16ae5ade91477?width=448",
+            "https://static.playgama.com/p-img/pg/vacation-overload/icon/ca57bd4c4725415baf2d12bacd509c6a?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/vacation-overload?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124751",
+          "slug": "race-through-traffic",
+          "title": "Race Through Traffic",
+          "description": "A single-player arcade racing game where you drive along a busy road, overtake cars, and try to survive as long as possible. The farther you go and the riskier your maneuvers are, the higher your final score becomes.\n\nCollect coins, unlock new cars, and upgrade speed, handling, and other stats. Choose a mode, watch the road carefully, and set new records in each run.",
+          "howToPlayText": "Control the car with on-screen buttons or the keyboard. Press A or the left arrow to move left. Press D or the right arrow to move right. Use the up and down arrows to accelerate and brake when available in the current mode.\n\nDodge traffic, avoid crashes, collect coins, and try to drive as far as possible. After each run, upgrade your car and unlock new vehicles.",
+          "gameURL": "https://playgama.com/export/game/race-through-traffic?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/race-through-traffic",
+          "genres": [
+            "racing",
+            "arcade",
+            "3d",
+            "car",
+            "car-racing",
+            "driving"
+          ],
+          "tags": [
+            "race-games",
+            "customization-games",
+            "avoid-games",
+            "endless-games",
+            "collecting-games",
+            "1-player-games",
+            "traffic-games",
+            "arcade-car"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/race-through-traffic/big_preview/1cd579825a514e86b619b34d80dccc58?width=448",
+            "https://static.playgama.com/p-img/pg/race-through-traffic/icon/00932118043644af8cf517eb49f397eb?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "5f471b9357e4485186bd986a52722ee3",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/race-through-traffic?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124749",
+          "slug": "pocket-tile",
+          "title": "Pocket Tile",
+          "description": "Pocket Tile is a compact number-merging puzzle that is easy to learn and rewarding to master. Place tiles on a 5×5 board, connect exactly three adjacent tiles with the same number and color, and merge them into a higher-value tile. Choose where the merged tile remains and plan ahead to keep space available.\n\nPlay a shared Daily Puzzle, progress through 50 Adventure levels with increasingly challenging goals, or start from a blank board in Rank Game and compete for a leaderboard score. Break and Clone tiles add tactical twists, while optional special moves can rescue a difficult board. Earn shards through Adventure and rewarded ads, unlock achievements, and build your best chain of merges.",
+          "howToPlayText": "1. Place the current tile in any empty space on the 5×5 board. The Next tile preview shows what is coming.\n2. Connect exactly three orthogonally adjacent tiles with the same number and color. Diagonal tiles do not connect.\n3. Select the three matching tiles, then tap one of them again to choose where the upgraded tile will remain.\n4. Three 1 tiles merge into a 2, three 2 tiles merge into a 3, and so on. A normal merge scores the value of the new tile.\n5. Mint tiles are marked with a circle and violet tiles with a diamond. Both the number and color must match.\n6. Break tiles point toward a neighboring tile. They lower a matching-color number by one, or remove it if its value is 1. If no valid target is present, the Break tile waits until one arrives.\n7. Clone tiles copy the matching-color number in the space they point toward. They also wait if no valid number is present.\n8. Keep placing and merging until there are no legal placements or merges left. In Adventure, complete the displayed tile goal before the board runs out of moves.\n\nControls: tap or click tiles and buttons. No keyboard controls are required.",
+          "gameURL": "https://playgama.com/export/game/pocket-tile?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/pocket-tile",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "number",
+            "math",
+            "merge",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "connect-games",
+            "1-player-games",
+            "tiles-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/pocket-tile/big_preview/2bcbc616d880420f9f95ca7f0f5326af?width=448",
+            "https://static.playgama.com/p-img/pg/pocket-tile/icon/4207faedb0fb4925af3636d856fa65bc?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/pocket-tile?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124748",
+          "slug": "sort-the-beads",
+          "title": "Sort The Beads",
+          "description": "Enjoy a satisfying color-sorting puzzle where your goal is to move, collect, and organize colorful beads into the correct containers. Plan every move carefully, clear the board, and complete increasingly challenging levels.\n\nWith simple controls, relaxing visuals, and progressively harder puzzles, each level tests your timing, observation, and strategy.",
+          "howToPlayText": "Tap or interact with the available beads/objects.\nMove matching colors toward their correct container.\nSort and collect all colors correctly.\nAvoid blocking important paths or making the wrong move.\nClear all beads from the board to complete the level.\nNew levels introduce more colors, obstacles, and challenging layouts.",
+          "gameURL": "https://playgama.com/export/game/sort-the-beads?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/sort-the-beads",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "3d",
+            "matching",
+            "brain",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "addictive-games",
+            "sorting-games",
+            "mind-games",
+            "color-matching-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/sort-the-beads/big_preview/ac0f571cf6aa4a209d8f77dcb902cba9?width=448",
+            "https://static.playgama.com/p-img/pg/sort-the-beads/icon/501880fda2b946c78065f08f86b3a6f4?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/sort-the-beads?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124745",
+          "slug": "parkour-run--3d-runner",
+          "title": "Parkour Run - 3D Runner",
+          "description": "🏃‍♂️ Parkour Run — Runner 3D!\n\n⚡ A dynamic, minimalist 3D runner where every second counts. Test your reaction skills in hazardous challenges of the future!\n\n✨ Run, adapt, and find the perfect line.\n\nGame Features:\n🡺 Parkour Mastery: Combine wall-running, slides, jumps, and ledge grabs.\n\n🡺 Minimalist Style: Clean level geometry keeps you focused on what matters most — your speed and route.\n\n🡺 Exciting Mechanics & Traps: Gain momentum, dodge lasers, use dash pads, and launch off trampolines.\n\n🡺 High-Speed Tactics: Each level is a fast-paced puzzle requiring instant reactions and smart routing.\n\n🡺 Time-Attack: Complete levels with a 3-star rating, break time records, and unlock new runs.\n\n🏁 Ready to test your limits? Hit start and dash in!",
+          "howToPlayText": "Overcome obstacles and reach the finish line as fast as possible. Level 1 features a tutorial, and you will discover some gameplay mechanics as you progress. \n\nMaximum speed is achieved when moving straight forward. \n\n🖥️ PC Controls:\n• A / 🡸 — Move left / Wall-run (hold against the wall)\n• D / 🡺 — Move right / Wall-run (hold against the wall)\n• Space — Jump / Push off the wall\n• Shift — Slide (you can still steer left/right while sliding)\n• R — Restart \n\n📱 Mobile Controls:\nTap anywhere on the screen to bring up the virtual joystick. Move and hold your finger within the joystick area to perform actions:\n• Center — Idle (no action)\n• Top area — Jump\n• Left area — Move left / Wall-run (hold against the wall)\n• Right area — Move right / Wall-run (hold against the wall)\n• Bottom center — Slide\n• Bottom left — Slide + Move left\n• Bottom right — Slide + Move right \n\nYou can adjust the joystick size in the Options menu.",
+          "gameURL": "https://playgama.com/export/game/parkour-run--3d-runner?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/parkour-run--3d-runner",
+          "genres": [
+            "action",
+            "skill",
+            "3d",
+            "running",
+            "parkour",
+            "runner"
+          ],
+          "tags": [
+            "reaction-games",
+            "fast-paced-games",
+            "dodge-games",
+            "dash-games",
+            "avoid-games",
+            "endless-games",
+            "obstacles-games",
+            "jumping-games",
+            "speed-games",
+            "agility-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/parkour-run-3d-runner/big_preview/827d0977a2304f6e8110e07bffd8e412?width=448",
+            "https://static.playgama.com/p-img/pg/parkour-run-3d-runner/icon/d288dac09e114fa8ba91f744e7f48972?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/parkour-run--3d-runner?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124741",
+          "slug": "steal-memerot-zoo-tycoon",
+          "title": "Steal Memerot: Zoo Tycoon",
+          "description": "Create a bright zoo with rare brainrot animals: buy new creatures, place them on special spots, and earn more money as your collection grows.\n\nUnlock unusual pets, expand your territory, improve income, and turn a small base into a rich zoo where every new creature makes your progress feel bigger.\n\n• rare brainrot animals\n• zoo building and growth\n• unusual pet collection \n• income and base upgrades",
+          "howToPlayText": "Goal: collect a large brainrot animal collection, grow your zoo, unlock rare pets, and increase your income.\n\nControls: on computer, use WASD to walk, Space to jump, LMB to act, and RMB to rotate the camera. On mobile, use touch and swipe.\n\nBuy new creatures, place them on special spots, earn money, and gradually expand your base. The more rare pets you collect, the faster your income grows and the richer your zoo becomes.",
+          "gameURL": "https://playgama.com/export/game/steal-memerot-zoo-tycoon?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/steal-memerot-zoo-tycoon",
+          "genres": [
+            "simulation",
+            "3d",
+            "tycoon",
+            "animals",
+            "obby",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "meme-games",
+            "collecting-games",
+            "incremental-games",
+            "building-games",
+            "resource-management-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/steal-memerot-zoo-tycoon/big_preview/bbe66b2bd62643c794aaeb742b52834c?width=448",
+            "https://static.playgama.com/p-img/pg/steal-memerot-zoo-tycoon/icon/72ef50a9fca0434eb25fde7ee7047e3c?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/steal-memerot-zoo-tycoon?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124738",
+          "slug": "breakblock",
+          "title": "BreakBlock",
+          "description": "Break Block is a colorful arcade brick-breaker with satisfying multi-ball action. Aim each shot, smash numbered blocks before they reach the bottom, build huge combos, and unlock playful ball skins.\n",
+          "howToPlayText": "Destroy numbered blocks before they reach the bottom. Drag with the mouse or your finger to aim, then release to launch. Collect extra balls and use the charged rocket to survive longer and beat your best score.\n",
+          "gameURL": "https://playgama.com/export/game/breakblock?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/breakblock",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "skill",
+            "ball",
+            "physics"
+          ],
+          "tags": [
+            "casual-games",
+            "addictive-games",
+            "smash-games",
+            "bricks-games",
+            "1-player-games",
+            "crush-games",
+            "arcade-shooter"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/breakblock/big_preview/f104806284464fcc878a92347bfe8b1a?width=448",
+            "https://static.playgama.com/p-img/pg/breakblock/icon/6f0eacf061804d339511ca2164caff6a?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/breakblock?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124724",
+          "slug": "craft-the-war",
+          "title": "Craft the War",
+          "description": "Craft Theft War is a fast-paced online first-person shooter set across compact industrial battlefields. Join or create multiplayer rooms, choose your loadout, and outmaneuver rival soldiers in team and free-for-all combat. Responsive gunplay, multiple weapon types, vehicles, character selection, and varied match modes make every battle play differently.\n",
+          "howToPlayText": "Objective\nJoin or create a multiplayer room, defeat opponents, and help your team reach the match score or objective before the other side. In free-for-all modes, earn the highest score before time runs out.\n\nControls\nWASD — Move\nMouse — Look and aim\nLeft Mouse Button — Fire\nRight Mouse Button — Aim\nR — Reload\nSpace — Jump\nShift — Sprint\nCtrl or C — Crouch\nNumber keys / Mouse wheel — Switch weapons\nTab — Scoreboard\nEsc — Pause menu\n\nMobile devices use the on-screen movement, aim, fire, jump, reload, and weapon controls.\n",
+          "gameURL": "https://playgama.com/export/game/craft-the-war?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/craft-the-war",
+          "genres": [
+            "action",
+            "multiplayer",
+            "shooting",
+            "gun",
+            "pvp",
+            "war"
+          ],
+          "tags": [
+            "games-for-pc",
+            "3rd-person-shooter-games",
+            "competitive-games",
+            "military-games",
+            "arena-games",
+            "combat-games",
+            "1-player-games",
+            "third-person-shooter-games",
+            "action-fighting"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/craft-the-war/big_preview/9c03bfbf35a947589701578e5e516140?width=448",
+            "https://static.playgama.com/p-img/pg/craft-the-war/icon/97874901cd24422a8a86224fc166a28c?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/craft-the-war?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124722",
+          "slug": "create-youre-obby-skin",
+          "title": "Create youre Obby skin",
+          "description": "Become a pro with endless robux, Exclusive Codes Packs, Claim Exclusive Codes, Get Unlimited Skins, Robux Clicker, Avatar Creator, Wheel Spin",
+          "howToPlayText": "Recruit robux and unlock unique items for the skin editor, create your avatar in roblox, try your luck and get the best codes for roblox!",
+          "gameURL": "https://playgama.com/export/game/create-youre-obby-skin?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/create-youre-obby-skin",
+          "genres": [
+            "clicker",
+            "obby"
+          ],
+          "tags": [
+            "customization-games",
+            "roblox-games",
+            "incremental-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/create-youre-obby-skin/big_preview/7f25c55ceab1497b9c046b49506ea698?width=448",
+            "https://static.playgama.com/p-img/pg/create-youre-obby-skin/icon/f69945e91a184faf90250c2993b8cf89?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "id-ID",
+            "it-IT",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/create-youre-obby-skin?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124720",
+          "slug": "sell-lemons-idle",
+          "title": "Sell Lemons Idle",
+          "description": "Start with a single lemon and turn it into a massive lemonade empire.\n\nGrow lemons, harvest them, open new farms, purchase powerful upgrades, and watch your in-game lemon economy grow faster and faster.\n\nAutomate production, discover new development methods, and expand your empire to incredible scale.\n\nEach upgrade makes your farm even more efficient. Fill the world with huge piles of lemons, boost production with multipliers, collect rewards, and unlock secret upgrades.\n\n🍋 Grow Lemons\n🏗️ Expand your lemonade empire\n🚀 Purchase powerful upgrades\n🎁 Earn rare rewards and bonuses\n\nCan you create the biggest lemonade empire? 🍋👑",
+          "howToPlayText": "For PC:\n\nW A S D - Move\nSpace - Jump\nMouse movement - Move the camera\n\nFor phone:\n\nLeft side of the screen - Move\nRight side of the screen - Control the camera",
+          "gameURL": "https://playgama.com/export/game/sell-lemons-idle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/sell-lemons-idle",
+          "genres": [
+            "simulation",
+            "management",
+            "idle"
+          ],
+          "tags": [
+            "casual-games",
+            "business-games",
+            "addictive-games",
+            "collecting-games",
+            "1-player-games",
+            "incremental-games",
+            "resource-management-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/sell-lemons-idle/big_preview/cb43e40319a24ce5a25d6a5a1e764da8?width=448",
+            "https://static.playgama.com/p-img/pg/sell-lemons-idle/icon/fce1be2db8d04fe5a1837771ad013e64?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "bb2401edfba34341983b4a0af9b74a3d",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/sell-lemons-idle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124713",
           "slug": "acox",
@@ -399,8 +961,8 @@
             "arcade-shooter"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/target-shooter-arena/big_preview/02656597ab9446819f85ee7c4cb8cfa4?width=448",
-            "https://static.playgama.com/p-img/pg/target-shooter-arena/icon/701fa03b27e7496db481562390672a45?width=448"
+            "https://static.playgama.com/p-img/pg/target-shooter-arena/big_preview/8ed8d64a8ba54896ae4a8b61d7f79289?width=448",
+            "https://static.playgama.com/p-img/pg/target-shooter-arena/icon/b11ff169d008446e882aac406937e4e4?width=448"
           ],
           "videos": [
             {
@@ -6573,7 +7135,7 @@
           "slug": "tall-grass",
           "title": "Tall Grass",
           "description": "Every blade of tall grass hides something: a shard, a heart or a monster.\nTrample it and find out. Cleared tiles reveal how many monsters lurk in the\neight tiles around them, so every step is a read as much as a gamble.\n\nThe gate opens before the field is cleared: leave with what you have or push\ndeeper for the shards and upgrades you'll need when the Pumpking wakes.\n\nNo two days play the same. The weather turns over each morning — rain slows\nthe waking, mist shortens what you can read, frost slows the whole field,\ndusk cuts the light — and something is hiding in every field that only a\ncareful eye will find.\n\nOne thumb, one verb, fully turn-based: nothing happens until you move, so\nthere are no reflexes to fail.",
-          "howToPlayText": "Tap or swipe to step one tile, or use the arrow keys / WASD, or click.\nTall grass hides shards, hearts and monsters. Stepping on it cuts it down.\nA number on a cleared tile counts the hidden monsters in the eight tiles\naround it.\nStep into a woken monster to strike it. It strikes back if it survives.\nEvery 4 shards, choose a boon.\nShards light the rail along the top of the field. When the rail fills the\ngate opens — then decide whether to leave or keep going.\nToday's weather changes how the field behaves. Something is hiding in plain\nsight in every field; find it and see what has been visiting. Find one each\nday to build a streak.",
+          "howToPlayText": "Move: Arrow keys or WASD. On mobile, tap a direction or swipe.\n\nStep into tall grass to cut it.\nStep into a woken monster to strike it.\nA number counts the hidden monsters in the eight tiles around it.\n\nChoose a boon: 1 or 2, or Left and Right\nPause: P\nMute: M\nStart or restart: Enter or Space",
           "gameURL": "https://playgama.com/export/game/tall-grass?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
           "playgamaGameUrl": "https://playgama.com/game/tall-grass",
           "genres": [
