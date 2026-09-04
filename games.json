@@ -14,8 +14,1030 @@
   "segments": [
     {
       "title": "Specially for you",
-      "count": 2099,
+      "count": 2118,
       "hits": [
+        {
+          "id": "125027",
+          "slug": "baroho",
+          "title": "BAROHO",
+          "description": "Get your fingers ready — you'll need steel nerves and sharp reflexes for this one!\n\nThis isn't just an arcade game — it's a challenge on the edge of a breakdown! Your task is to move the platform with pinpoint precision, guiding the balls (obedient or not so much) straight into the right holes. But don't let your guard down: one wrong move, and the ball flies off course — and you're starting all over from the beginning!\n\nAn arcade game of skill and composure in full 3D.",
+          "howToPlayText": "Move the platform-manipulator with your keyboard or on-screen joystick (touchscreen only).\n\nControls: WASD or Arrow Keys.\n\nWith a gamepad connected, use both analog sticks — each controls one side of the platform.\n\nTilt the manipulator to roll the ball left or right across the board.\n\nAim for the holes with yellow rims and glowing arrows.\n\nWatch your ball count — you'll need every last one to win.\n\nCollect coins (just don't drop them in the hole!) to buy new ball skins.\n\nAnd when fans show up, get ready for an extra physics challenge!",
+          "gameURL": "https://playgama.com/export/game/baroho?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/baroho",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "skill",
+            "3d",
+            "physics"
+          ],
+          "tags": [
+            "reaction-games",
+            "fast-paced-games",
+            "avoid-games",
+            "challenging-games",
+            "webgl-games",
+            "agility-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/baroho/big_preview/5a752d2e53a943e1bb491f30bcbca2e4?width=448",
+            "https://static.playgama.com/p-img/pg/baroho/icon/9317636d11054c989eaf9cf1e187ead1?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/baroho?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125025",
+          "slug": "duck-family-simulator-animal-games",
+          "title": "Duck Family Simulator Animal Games",
+          "description": "Experience the exciting life of a wild duck in Duck Family Simulator Animal Games! Explore beautiful islands, peaceful lakes, and lush green forests while raising your duck family and surviving against dangerous predators. Hunt for food, protect your ducklings, complete thrilling missions, and discover the adventures of life in the wild.\nFly freely across the island, explore hidden locations, collect coins, and unlock new adventures as you progress through the game. Customize your duck, improve your survival skills, and experience realistic wildlife gameplay in a vibrant 3D open world.\n\nFeatures\n-Raise and protect your own duck family.\n-Explore beautiful islands, forests, lakes, and open-world environments.\n-Hunt for fish, insects, and other food to survive.\n-Battle dangerous predators including crocodiles, snakes, sharks, giant lizards, and wild dogs.\n-Fly through the skies, collect coins, and discover hidden areas.\n-Build a safe home and care for your ducklings.\n-Complete exciting survival missions and wildlife challenges.\n-Smooth controls, realistic animations, and immersive 3D gameplay.\n\nBecome the leader of your duck family and experience a fun wildlife adventure filled with exploration, survival, family-building, and action in Duck Family Simulator Animal Games. Explore the wilderness, protect your loved ones, and prove your survival skills in this exciting animal simulator.",
+          "howToPlayText": "Desktop:\nAWSD: Player Movement\nMouse = Camera Movement\nP = Pause\nCtrl = Setting\nI = Info\nE = Attack\nShift = Sprint\nF = Actions\nU: Click to fly\nJ: Click for walk\nE: Move up while flying\nX: Move Down while flying\n\nMobile:\nJoystick to Move Player\nDrag Screen To Move Camera",
+          "gameURL": "https://playgama.com/export/game/duck-family-simulator-animal-games?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/duck-family-simulator-animal-games",
+          "genres": [
+            "adventure",
+            "simulation",
+            "kids",
+            "3d",
+            "animals"
+          ],
+          "tags": [
+            "mission-games",
+            "life-simulation-games",
+            "collecting-games",
+            "1-player-games",
+            "bird-games",
+            "open-world-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/duck-family-simulator-animal-games/big_preview/5ab4d1d05e91435caf7289401a466895?width=448",
+            "https://static.playgama.com/p-img/pg/duck-family-simulator-animal-games/icon/5c147a6be4d04d35895179c0550841b6?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "ac3e030ce68946308525c7f2b99c15a9",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/duck-family-simulator-animal-games?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125024",
+          "slug": "toilet-dash-run",
+          "title": "Toilet Dash Run",
+          "description": "Toilet Dash Run is a lighthearted path-drawing puzzle game. Guide each character to the matching restroom by drawing safe routes around fences, hazards, and moving enemies. Plan every line before the rush begins: once the routes are ready, everyone moves at the same time. Handcrafted levels, unlockable character looks, and quick mouse-or-touch play make every escape a fresh challenge.\n",
+          "howToPlayText": "Objective: Get every character safely to the restroom with the matching symbol.\n\nPress or touch a character, then drag to draw a route to the correct door. Release on the destination and plan the remaining routes. Avoid walls, obstacles, enemies, and paths that would make the characters collide. You win when every character reaches the correct restroom safely.\n\nControls:\n- Mouse: Hold the left mouse button and drag.\n- Touchscreen: Press and drag with one finger.\n- Restart: Select the circular-arrow button to redraw the level.\n- Hint or skip: Select the video button and complete the rewarded video when available.\n",
+          "gameURL": "https://playgama.com/export/game/toilet-dash-run?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/toilet-dash-run",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "funny",
+            "mouse",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "addictive-games",
+            "desktop-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/toilet-dash-run/big_preview/815d25c32e24429b948a6f737eabd5b9?width=448",
+            "https://static.playgama.com/p-img/pg/toilet-dash-run/icon/a13e7cbea9be4d4bbba3c2ed8d0052cb?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/toilet-dash-run?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125023",
+          "slug": "pregnant-mom-simulator-family-life",
+          "title": "Pregnant Mom Simulator Family Life ",
+          "description": "Experience the journey of motherhood and family life in Pregnant Mom Simulator Family Life! Play as a virtual mom and manage daily household activities, family responsibilities, pregnancy tasks, and baby care missions. Complete exciting levels and experience different stages of family life through realistic and engaging gameplay.\nChoose from three unique modes: Pregnancy, Baby Care, and Life Without Him. In Pregnancy Mode, experience the daily routine of a pregnant mom, prepare meals, manage household tasks, attend hospital checkups, and complete pregnancy-related missions. In Baby Care Mode, take care of your newborn, complete baby care activities, manage daily routines, and keep your little one happy and comfortable. In Life Without Him Mode, take on new challenges and experience the responsibilities of managing family life independently.\nFeatures\n\n3 exciting modes: Pregnancy, Baby Care, and Life Without Him.\n-Experience different stages of pregnancy and family life.\n-Complete pregnancy checkups and hospital missions.\n-Take care of your newborn with engaging baby care activities.\n-Cook meals, clean the house, shop for groceries, and complete daily chores.\n-Complete family and household missions across multiple levels.\n-Experience realistic 3D environments and family activities.\n-Smooth and easy controls with engaging animations.\n-Different challenges and tasks that increase as you progress.\n\nExperience the challenges, responsibilities, and memorable moments of motherhood in Pregnant Mom Simulator Family Life. Complete your daily tasks, care for your family and baby, and explore all three modes in this engaging family life simulator.",
+          "howToPlayText": "Desktop\nWASD = Player Movement\nMouse = Camera Move\nMouse Left Click = Action\nLeft Shift = Sprint\nCtrl = Settings\nN = Skip Level\nP = Pause\nI = Info\n\nMobile\nJoystick to move player\nDrag screen area to rotate camera",
+          "gameURL": "https://playgama.com/export/game/pregnant-mom-simulator-family-life?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/pregnant-mom-simulator-family-life",
+          "genres": [
+            "arcade",
+            "adventure",
+            "simulation",
+            "3d"
+          ],
+          "tags": [
+            "mission-games",
+            "casual-games",
+            "pregnancy-games",
+            "mom-games",
+            "life-simulation-games",
+            "1-player-games",
+            "baby-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/pregnant-mom-simulator-family-life/big_preview/0bd3219743424bed905890d8d3bf6747?width=448",
+            "https://static.playgama.com/p-img/pg/pregnant-mom-simulator-family-life/icon/d798961e46b54c8a92c42289fb7953dd?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/pregnant-mom-simulator-family-life?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125022",
+          "slug": "tractor-farming-farmer-life-game",
+          "title": "Tractor Farming Farmer Life Game",
+          "description": "Experience the life of a real farmer in Tractor Farming Simulator! Drive powerful tractors, cultivate fields, grow crops, and complete realistic farming missions across beautiful countryside environments. Operate modern agricultural machinery, transport your harvest, and expand your farming business as you become the ultimate farming expert.\n\nChoose from four unique farming modes, each focused on a different crop and farming experience. Grow Corn, Cotton, Wheat, and Pumpkins, with each mode featuring its own farming missions and harvesting challenges. Plough the fields, sow seeds, irrigate crops, apply fertilizer, harvest at the perfect time, and transport your produce to earn rewards.\n\nUnlock new tractors, trailers, and farming equipment as you progress through increasingly challenging levels. Explore large open farms, improve your skills, and enjoy an authentic farming adventure with smooth controls and realistic gameplay.\n\nFeatures\n-4 farming modes: Corn, Cotton, Wheat, and Pumpkin Farming.\n-Drive realistic tractors, trailers, and agricultural vehicles.\n-Perform complete farming activities including ploughing, sowing, watering, fertilizing, spraying, and harvesting.\n-Complete dozens of farming missions and earn rewards.\n-Explore beautiful 3D countryside environments.\n-Unlock and drive multiple tractors and farming machines.\n-Multiple control options for a comfortable driving experience.\n-Smooth controls, realistic sound effects, and immersive farming simulation.\n\nGrow your crops, master modern farming equipment, and build your dream farm in Tractor Farming Farmer Life Game. Whether you enjoy tractor driving or realistic agriculture games, this farming adventure offers relaxing gameplay and rewarding challenges for every player.",
+          "howToPlayText": "Desktop:\nAWSD: Player Movement\nSpace: Break\nMouse: Camera Movement\nP = Pause\nCtrl = Setting\nI= Info\nShift = Sprint\nF = Actions\nN: Skip Level\n\nMobile:\nJoystick: Move Player\nScreen Drag : Move Camera\nLeft Button: Move Tractor Left\nRight Button: Move Tractor Right\nRace: Tractor Race\nBreak: Tractor Break",
+          "gameURL": "https://playgama.com/export/game/tractor-farming-farmer-life-game?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/tractor-farming-farmer-life-game",
+          "genres": [
+            "arcade",
+            "simulation",
+            "3d",
+            "car",
+            "tractor",
+            "driving",
+            "farm"
+          ],
+          "tags": [
+            "mission-games",
+            "addictive-games",
+            "vehicles-games",
+            "life-simulation-games",
+            "desktop-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/tractor-farming-farmer-life-game/big_preview/2a4ce66a6cb5401db1af3e1bc7d6b109?width=448",
+            "https://static.playgama.com/p-img/pg/tractor-farming-farmer-life-game/icon/338855c9c7f1406ebaa6136bddb508b2?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "a678fe4188ab4c93b512a59433e606bc",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/tractor-farming-farmer-life-game?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125020",
+          "slug": "cozy-idle-village",
+          "title": "Cozy idle village",
+          "description": "Cozy idle village is an idle sim where every villager is a person: they have names, families and stories - they work, fall in love, raise children, grow old, and their descendants visit the family graves. Build houses, mills, fishing huts and workshops, assign villagers to jobs in one tap, and expand your land toward the water and into new biomes.\n\nThe world runs on its own clock: day turns to night, seasons repaint the landscape, rain and storms roll through, and dozens of wild animal species live around your village - track them all in the in-game codex. Unlock the tech tree, reach new epochs, complete daily quests, and open the traveler's chest when it appears for bonus supplies.\n\nYour village keeps working while you are away: come back and collect everything it produced offline. No timers pushing you, no pressure - a calm, warm world that grows with you. Playable in nine languages.",
+          "howToPlayText": "Drag to move the camera, pinch or use the mouse wheel to zoom.\nTap the Build tab to construct a building, then place it on a free tile.\nTap any building to assign villagers to it; tap Villagers to manage everyone at once.\nComplete daily quests, unlock the tech tree, and collect what the village produced while you were away.\nEverything is playable with one finger or the left mouse button.",
+          "gameURL": "https://playgama.com/export/game/cozy-idle-village?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/cozy-idle-village",
+          "genres": [
+            "arcade",
+            "strategy",
+            "simulation",
+            "tycoon",
+            "management",
+            "cozy",
+            "idle"
+          ],
+          "tags": [
+            "city-building-games",
+            "casual-games",
+            "relaxing-games",
+            "life-simulation-games",
+            "1-player-games",
+            "incremental-games",
+            "building-games",
+            "resource-management-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/cozy-idle-village/big_preview/a55046a843c94d44865f62b4394bd58d?width=448",
+            "https://static.playgama.com/p-img/pg/cozy-idle-village/icon/eae97f96a7f341ebbdf395acc9d41436?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "33edb80f89334f6487d0caef71524f10",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/cozy-idle-village?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125017",
+          "slug": "miki-oath",
+          "title": "Miki Oath",
+          "description": "Miki Oath is a story-driven precision platformer with 106 handcrafted levels across ten magical worlds. Guide Miki through spikes, saws, moving platforms, springs, and teleporters as she keeps her promise to save Luna. Fast restarts, responsive controls, and full localization in nine languages make every attempt easy to jump back into.",
+          "howToPlayText": "Desktop: use A/D or the Left/Right Arrow keys to move and Space, W, or Up Arrow to jump. Mobile: use the on-screen touch controls. Reach the flag to clear each level, avoid hazards, and keep trying after every fall. Use the sound control to mute audio. Rewarded ads are optional and can be used to skip a difficult level.",
+          "gameURL": "https://playgama.com/export/game/miki-oath?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/miki-oath",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "adventure",
+            "skill",
+            "platform",
+            "story",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "fast-paced-games",
+            "addictive-games",
+            "challenging-games",
+            "jumping-games",
+            "trap-games",
+            "1-player-games",
+            "action-adventure"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/miki-oath/big_preview/73f627e375c5457eb1aa99f519ce5eca?width=448",
+            "https://static.playgama.com/p-img/pg/miki-oath/icon/02f388f0a720405795850e2724f612b0?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "it-IT",
+            "ja-JP",
+            "ko-KR",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/miki-oath?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125016",
+          "slug": "flappy-ball",
+          "title": "Flappy Ball",
+          "description": "Take your basketball hopping skills to the limit in Flappy Ball — an addictive arcade sports runner with tactile, physics-based controls!\n\n🏀 Core Features:\n\nEndless Run & 15 Handcrafted Challenges: Test your reflexes across moving, pulsing, and tilted hoops or master the flap-count budget challenge.\nClean Swish & On-Fire Streaks: Score without touching the rim to ignite flame trails, multipliers, and acoustic swish sound effects.\nRich Customization: Unlock 11 unique ball skins (Classic, Billiards 8-Ball, Tennis, Watermelon, Glazed Donut, Lava Core, Dragon Eye, Cosmic Pulsar) and 7 parallax dynamic themes.\nWeekly Tournaments: Compete in 50-player weekly seasons to earn massive star rewards.\nLucky Wheel & Trophies: Spin daily for free rewards and unlock achievements as you beat your high score.",
+          "howToPlayText": "Objective: Keep the ball airborne and pass through every single hoop. Missing a hoop costs 1 Life ❤️ (3 Lives in Endless mode, strict 1-fail in Challenges). Score consecutive clean swishes without touching rims for bonus multiplier stars and Fire Mode!\n\nControls:\n\nMobile / Tablet: Tap anywhere on the screen to hop upward.\nDesktop / Laptop: Press Spacebar, Up Arrow (↑), or click the Left Mouse Button to hop.\nPause / Menu: Click the Pause ⏸️ icon or press Escape (Esc) / P.",
+          "gameURL": "https://playgama.com/export/game/flappy-ball?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/flappy-ball",
+          "genres": [
+            "arcade",
+            "sports",
+            "skill",
+            "basketball",
+            "ball",
+            "physics",
+            "runner"
+          ],
+          "tags": [
+            "customization-games",
+            "casual-games",
+            "addictive-games",
+            "endless-games",
+            "jumping-games",
+            "collecting-games",
+            "1-player-games",
+            "dunking-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/flappy-ball/big_preview/11a4bd1f5ee340a5be0517afdd536c19?width=448",
+            "https://static.playgama.com/p-img/pg/flappy-ball/icon/2f04145ece134e1488b035ec3838027a?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/flappy-ball?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125015",
+          "slug": "katana-upgrade",
+          "title": "Katana Upgrade",
+          "description": "Upgrade your katana and create the ultimate blade!\nTest your luck, strengthen your sword, and see how far you can go. One failed upgrade could destroy your progress!",
+          "howToPlayText": "Click the Upgrade button to strengthen your katana.\nEach successful upgrade increases your katana's level, but failed upgrades can destroy your sword. Keep upgrading and aim for the highest level possible!\n\nControls:\nMouse Click — Upgrade / Interact",
+          "gameURL": "https://playgama.com/export/game/katana-upgrade?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/katana-upgrade",
+          "genres": [
+            "arcade",
+            "skill",
+            "clicker",
+            "brain"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "addictive-games",
+            "sword-games",
+            "luck-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/katana-upgrade/big_preview/65590820a970490d868c7c2627c2e187?width=448",
+            "https://static.playgama.com/p-img/pg/katana-upgrade/icon/6715ef6ed53c490b853d194aa9b1cd3c?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "ko-KR"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/katana-upgrade?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125014",
+          "slug": "time-puzzle",
+          "title": "Time Puzzle",
+          "description": "Enjoy relaxing picture puzzles and put every piece in the right place. Complete beautiful photos, unlock new puzzles, and take on gradually more challenging levels at your own pace.",
+          "howToPlayText": "Drag puzzle pieces with the mouse, or touch and drag on mobile, to swap their positions. Arrange all pieces correctly to complete the picture and finish the level. Earn rewards as you progress, use hints when needed, and decorate your gallery with the items you unlock.",
+          "gameURL": "https://playgama.com/export/game/time-puzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/time-puzzle",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "cozy",
+            "logic"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "jigsaw-games",
+            "relaxing-games",
+            "brain-training-games",
+            "mind-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/time-puzzle/big_preview/4a7d858dbba24f28a7a7a2bc220ea3a6?width=448",
+            "https://static.playgama.com/p-img/pg/time-puzzle/icon/a824b4523f0841cdbcf7f2c61fb57d64?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "d050128da9e445de9e291e61f16b5c15",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/time-puzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125013",
+          "slug": "ricoshield",
+          "title": "Ricoshield",
+          "description": "You have no weapon. You have a guard that orbits your core — and everything attacking you is also your only ammunition.\n\nCatch an enemy on your guard and it becomes a bolt fired straight back out, tearing through whatever is behind it. Catch it dead centre, on the white sweet-spot, and you get a PERFECT: a bigger bolt, double combo, and the world slows while the chain reaction plays out.\n\nThe catch is that your ammo supply is the thing killing you. Clear the screen and you have nothing left to shoot with. Let it fill up and one missed angle ends the run. Armoured enemies can't be blocked at all — the only way to kill them is a ricochet, so you have to keep threats alive on purpose.\n\nEvery 20 seconds you pick one of three upgrades from a pool of seventeen. Every fourth wave a Crucible ring surrounds the arena, and its armour nodes can only be reached by ricochet. Shards from every run unlock six cores that play as genuinely different games, plus three permanent perks.\n\nEvery run is ranked. Your ten best are kept side by side so you can see exactly which one you have to beat, and where the platform supports it your score goes onto the global board too. A seeded daily challenge sets a new rule every day — the same seed for every player — and a streak counter rewards coming back for it.\n\nRuns last a couple of minutes. Restarting takes one tap.",
+          "howToPlayText": "Move your mouse or drag your finger to aim the guard around your core — it follows the angle of your pointer, so you can hold your thumb anywhere on the screen.\n\nCatch incoming enemies on the guard to deflect them. A deflected enemy becomes a bolt that flies outward and destroys anything it hits.\n\nThe white tip in the centre of the guard is the PERFECT zone. Time a deflect there for a stronger bolt and double combo.\n\nRed armoured enemies bounce off your guard and cannot be deflected — kill them with a ricochet from another enemy instead.\n\nKeep your combo alive for a bigger score multiplier. You have three core plates; lose them all and the run ends.\n\nEvery run is ranked when it ends. Open RANKS from the game over screen or the pause menu to see the global board and your own ten best runs — the one you just finished is highlighted, so you always know which score to beat next.\n\nKeyboard: A/D, Q/D or arrow keys to turn. 1/2/3 to pick upgrades. Space to restart. Esc to pause.",
+          "gameURL": "https://playgama.com/export/game/ricoshield?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/ricoshield",
+          "genres": [
+            "action",
+            "arcade",
+            "skill",
+            "shooting",
+            "physics"
+          ],
+          "tags": [
+            "2d-games",
+            "reaction-games",
+            "fast-paced-games",
+            "addictive-games",
+            "avoid-games",
+            "defense-games",
+            "desktop-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/ricoshield/big_preview/91907ced71b549a1a42c8095f38a6640?width=448",
+            "https://static.playgama.com/p-img/pg/ricoshield/icon/6c77c69a4b5e4c52b7bd25d9800eb425?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "d45851d1d5954c9195ffa51aff2f4117",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/ricoshield?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125012",
+          "slug": "run-from-67",
+          "title": "Run from 67",
+          "description": "A first-person game of hide-and-seek in a dark school. Find 6 backpacks on each\nfloor to unlock the seventh door and get out before Sixseven catches you.\n\nHe hunts by sound, not by sight. Sprinting carries far, walking half as far,\ncrouching almost nothing — and if you stand perfectly still, you make no sound\nat all. A circle on the minimap shows exactly how far away you can be heard\nright now.\n\nYour flashlight both saves and betrays you: you see nothing without it, but\nshine it in his face and he charges from across the floor. It runs down fast and\nrecharges at wall panels. Throw a coin to send the noise somewhere else and slip\npast while he investigates.\n\nSeven floors, each with its own light: night blue, emergency green, sodium\norange, ultraviolet, the pool, a fire alarm, and a total blackout.",
+          "howToPlayText": "Goal: find 6 backpacks hidden around the floor. Collect them all and the seventh door opens, and that is the exit.\n\nSixseven hunts by ear. Sprinting is heard from 20 metres, walking from 10, crouching from 4, and standing perfectly still makes no sound at all. The circle on the minimap is how far you can be heard right now. Jumping is quiet; the landing is what gives you away.\n\nThe flashlight is a trade. Without it you see nothing, but shine it at Sixseven and he charges from across the floor even if you were silent. The light cone is drawn on the minimap as a second danger zone. The battery lasts about a minute; hold E at a wall panel to refill it.\n\nCoin: press Q to throw one. It clinks where it lands and he goes to investigate. It has its own hearing radius, shown on the map, so you can see exactly where you sent him.\n\nDesktop: WASD to move, mouse to look, Shift to sprint, C to crouch, Space to jump, E to open doors, climb into lockers and hold at charging panels, Q to throw a coin, F for the flashlight, P to pause.\n\nMobile: left stick to move, pushed fully forward it sprints on its own. Drag on the right side of the screen to look, double tap to jump. The hand button opens doors and lockers, tapping the battery toggles the flashlight, crouch is in the bottom left corner.\n\nSprinting drains the blue stamina bar, so do not run all the time. A burger permanently raises it, cola gives unlimited sprint for 10 seconds. When he is close, hide in a locker: press E to climb in, Space to get out. Inside he cannot see you even if he walks right past.",
+          "gameURL": "https://playgama.com/export/game/run-from-67?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/run-from-67",
+          "genres": [
+            "arcade",
+            "adventure",
+            "horror",
+            "3d",
+            "survival",
+            "escape"
+          ],
+          "tags": [
+            "mission-games",
+            "avoid-games",
+            "stealth-games",
+            "collecting-games",
+            "1-player-games",
+            "survival-horror",
+            "horror-escape",
+            "3d-horror"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/run-from-67/big_preview/71087253210f4525955807846f61fd0d?width=448",
+            "https://static.playgama.com/p-img/pg/run-from-67/icon/9faddc0f00bd4bdd8d8436a967eef705?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/run-from-67?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125011",
+          "slug": "putt-party",
+          "title": "Putt Party",
+          "description": "Putt Party is a laid-back mini-golf puzzler with a bold retro-poster look. Line up your shot, pull back, and let it fly — then watch the ball bank off walls, skirt the water, and drop into the cup. No two holes feel the same: the greens twist into doglegs, funnels and crosses, with boosters and portals to figure out along the way. Sink it in as few strokes as you can, earn your stars, unlock new balls, and see how you stack up on the leaderboard.",
+          "howToPlayText": "Drag back from the ball and release to putt — the farther you pull, the harder the hit. Reach the hole in as few strokes as you can to earn up to three stars, and mind the walls, water and sand along the way. Two tools help when you're stuck: Ball Back rewinds your last shot, and Aim Line shows a longer trajectory preview.\n\nControls: drag & release (mouse or touch).",
+          "gameURL": "https://playgama.com/export/game/putt-party?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/putt-party",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "sports",
+            "skill",
+            "physics",
+            "mini-golf"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "desktop-games",
+            "1-player-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/putt-party/big_preview/d0d5462e191b45aba8db2e87d7f373ec?width=448",
+            "https://static.playgama.com/p-img/pg/putt-party/icon/8e00e06625ad4cc586f1d1aadebb27e1?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/putt-party?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125009",
+          "slug": "offroad-jeep-driving-mountain-climb",
+          "title": "Offroad Jeep Driving Mountain Climb",
+          "description": "Get behind the wheel and take on the ultimate off-road driving adventure in Mountain Climb Jeep Driving! Drive powerful 4x4 jeeps across dangerous mountain roads, steep hills, muddy tracks, snowy terrain, and challenging mega ramps. Test your driving skills as you navigate sharp turns, uneven paths, obstacles, and impossible tracks without losing control.\nChoose your favorite off-road vehicle and customize or upgrade it to handle tougher challenges. Complete exciting missions, pass checkpoints, collect coins, and unlock new vehicles and challenging tracks as you progress. Every level puts your driving skills to the test with difficult climbs, narrow roads, ramps, and tricky obstacles.\n\nFeatures\n-Exciting 4x4 mountain and off-road driving gameplay.\n-Multiple jeeps, SUVs, trucks, and powerful off-road vehicles.\n-Challenging mountain roads, muddy tracks, snow, ramps, and impossible terrain.\n-Vehicle upgrades and customization options.\n-Complete missions, checkpoints, and challenging driving levels.\n-Collect coins and unlock new vehicles and content.\n-Perform exciting stunts on mega ramps and steep mountain tracks.\n-Multiple control options including Tilt, Buttons, and Steering Wheel.\n-Adjustable steering sensitivity for better driving control.\n-Smooth controls, realistic 3D environments, and immersive driving experience.\n\nConquer steep mountains, master impossible tracks, overcome dangerous obstacles, and prove that you have what it takes to become an off-road driving master in Mountain Climb Jeep Driving.",
+          "howToPlayText": "Desktop:\nW / Up Arrow = Race\nA / Left Arrow = Move Left\nS / Down Arrow / Space = Break\nD / Right Arrow = Move Right\nP = Pause\nE = Setting\nN: Skip Level\n\nMobile:\nLeft Button: Move Left\nRight Button: Move Right\nRace: Jeep Race\nBreak: Jeep Break",
+          "gameURL": "https://playgama.com/export/game/offroad-jeep-driving-mountain-climb?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/offroad-jeep-driving-mountain-climb",
+          "genres": [
+            "racing",
+            "arcade",
+            "3d",
+            "car",
+            "driving",
+            "physics"
+          ],
+          "tags": [
+            "customization-games",
+            "offroad-games",
+            "avoid-games",
+            "vehicles-games",
+            "desktop-games",
+            "1-player-games",
+            "mountain-games",
+            "offroad-car"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/offroad-jeep-driving-mountain-climb/big_preview/86e03def37f146e69ead971950c79a9d?width=448",
+            "https://static.playgama.com/p-img/pg/offroad-jeep-driving-mountain-climb/icon/edfdfcff35a94c1db6dd12481dfade29?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "765a0fc99e6f493d8f19bda1df0797f0",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/offroad-jeep-driving-mountain-climb?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125008",
+          "slug": "pop-it",
+          "title": "Pop It!",
+          "description": "Minesweeper with a twist — familiar logic, new emotions!\nRemember classic Minesweeper? We took its proven mechanics and added tons of fun surprises! Now every cell can bring unexpected delights.\nWhat awaits you:\n\nFamiliar rules — find mines by numbers, just like the original\nSpecial cells with bonuses, effects, and fun features\nVisual fireworks for successful moves\nSound effects for complete immersion\nVarious difficulty levels\n\nGameplay remains the same: open cells, analyze numbers, avoid mines. But now the process is much more entertaining thanks to random events and pleasant surprises!\nPerfect for both newcomers and genre veterans. The classic logic puzzle got a second life with modern features. Test your wit and enjoy the enhanced Minesweeper!\nReady for fun demining? Launch the game and rediscover Minesweeper!",
+          "howToPlayText": "On a computer:\n\nLeft mouse button — tap the cell (open)\nRight mouse button — mark a bomb with a flag\nDrag and drop - place a popper \n\nOn a mobile device:\n\nTap the cell — open it\nDrag and drop — mark bomb with flag\nDrag and drop - place a popper \n\nGame objective:\nOpen all safe cells and mark all bombs with flags. To win, you must find and mark every bomb on the field without detonating any of them.\nNumbers on opened cells show the count of bombs in adjacent cells. Use this information for logical analysis and safe level completion. Be careful — one wrong move can end the game!",
+          "gameURL": "https://playgama.com/export/game/pop-it?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/pop-it",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "matching",
+            "logic",
+            "bubble"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "mind-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/pop-it/big_preview/a2a940c74c3c47c58b145ed752819868?width=448",
+            "https://static.playgama.com/p-img/pg/pop-it/icon/8e66665d0ea7473d802e6e09a8cdae07?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "e6c3aaa59d7c43c1ad11b0830900d2fa",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "de-DE",
+            "es-ES",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": false
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/pop-it?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125007",
+          "slug": "ragdoll-rescue-physics-puzzle",
+          "title": "Ragdoll Rescue: Physics Puzzle",
+          "description": "Ragdoll Rescue: Physics Puzzle is a hilarious, satisfying physics puzzle game where your mission is to save an unlucky ragdoll hero pushed off towering cliffs by a mischievous villain!\nStrategically place mattresses, trampolines, booster springs, fans, ramps, and portals to build the ultimate rescue contraption. Direct the hero's bounce trajectory away from deadly spikes and dangerous hazards to land safely with maximum health!",
+          "howToPlayText": "Mouse & Touch Controls:\n• Left Click / Tap: Select and place items from the palette\n• Drag & Drop: Move placed objects freely across the arena\n• Widget (↺ / ↻ buttons): Rotate active object to adjust angles\n• Trash Button (🗑️ DEL): Remove selected item\n• Right Click (PC): Quick delete object under cursor\n• Mouse Wheel / Swipe: Pan and scroll camera up/down\n\nKeyboard Shortcuts (PC):\n• Q / E or A / D: Rotate object left / right\n• 1 – 9: Quick select items from the palette\n• Spacebar: Start / Resume physics simulation\n• Delete / Backspace: Delete active item",
+          "gameURL": "https://playgama.com/export/game/ragdoll-rescue-physics-puzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/ragdoll-rescue-physics-puzzle",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "platform",
+            "ragdoll",
+            "physics",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "brain-training-games",
+            "addictive-games",
+            "avoid-games",
+            "desktop-games",
+            "1-player-games",
+            "ai-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/ragdoll-rescue-physics-puzzle/big_preview/4e27c6ba67614c5d9fa84ac9f0008355?width=448",
+            "https://static.playgama.com/p-img/pg/ragdoll-rescue-physics-puzzle/icon/9a5535cd32d0431a9b8e12a955cb1cdd?width=448"
+          ],
+          "videos": [
+            {
+              "playgama_id": "2717b4485d244edba332e044c960a1fd",
+              "external_url": "",
+              "type": "gameplay"
+            }
+          ],
+          "mobileReady": [
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "No",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "de-DE",
+            "es-ES",
+            "fr-FR",
+            "ja-JP",
+            "ko-KR",
+            "pt-PT",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/ragdoll-rescue-physics-puzzle?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "125006",
+          "slug": "mosaicat",
+          "title": "Mosaicat",
+          "description": "Cut the grid into rectangles and uncover the picture hiding underneath.\n\nUncover the Picture! Every number on the board is the size of the rectangle it\nbelongs to. A 6 sits inside a rectangle of six squares. Find where that\nrectangle goes, and the tiles it covers turn into part of a picture you have\nnot seen yet.\n\nDraw them one at a time and the picture arrives a piece at a time - a cactus, a\nteapot, a small orange cat - built out of the moves you made rather than shown\nto you at the end.\n\nThere is no timer, there are no lives, and there is nothing to lose. A\nrectangle that does not belong is simply refused, and you try another. The game\nwaits for as long as you want to look at it.\n\n757 puzzles, every one checked by machine to have exactly one solution, so a\nboard is never a guess. They start small enough to learn on and grow with you.\nWhen you reach the end they come round again as new puzzles on the same\npictures.\n\nTen colour themes, light and dark. A hint for when a board will not open. And a\ncat called Tuna, who turns up when you finish one.",
+          "howToPlayText": "The board is covered in tiles, and some of them carry a number. Every number is\nthe size of the rectangle it belongs to.\n\n1. Find a number and work out where its rectangle can fit. A 6 needs six\n   squares: 1x6, 2x3, 3x2 or 6x1.\n2. Drag across the grid to draw that rectangle, and release to place it.\n3. The tiles it covered turn into part of the hidden picture.\n4. Repeat until every square on the board is inside a rectangle.\n\nRules:\nEach rectangle covers exactly one number.\nThat number is how many squares the rectangle covers.\nRectangles never overlap.\nEvery square ends up inside one.\n\nA rectangle that does not belong is refused. Nothing is lost and nothing is\ncounted against you - draw another one.\n\nStuck? The hint button opens one rectangle for you. You have three, and after\nthat a short video buys another.\n\nDesktop Controls:\nMouse drag: Hold the left button and drag across the grid to draw a rectangle.\nRelease: Place the rectangle.\nHint button: Opens one rectangle for you.\nRestart button: Clears the board and starts the same puzzle again.\nSettings button: Sound, music, and ten colour themes.\n\nMobile Controls:\nTouch drag: Press and drag across the grid to draw a rectangle.\nLift your finger: Place the rectangle.\nHint button: Tap to open one rectangle.",
+          "gameURL": "https://playgama.com/export/game/mosaicat?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/mosaicat",
+          "genres": [
+            "puzzle",
+            "arcade",
+            "cozy",
+            "brain",
+            "logic",
+            "color"
+          ],
+          "tags": [
+            "2d-games",
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "addictive-games",
+            "mind-games",
+            "1-player-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/mosaicat/big_preview/03352a0eeeed4c5aa1c9b9503a33e6a1?width=448",
+            "https://static.playgama.com/p-img/pg/mosaicat/icon/ffee73718c38485aa6945133e2fda230?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/mosaicat?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124766",
+          "slug": "guess-the-craft-blocky-recipes",
+          "title": "Guess the Craft: Blocky Recipes",
+          "description": "A crafting table and an item you have built a hundred times. Now do it from memory.\n\nA crafting puzzle: you lay out the ingredients, and after every attempt the game hints how close you are. The rest is on you.\n\nIn Classic Mode the target is shown and you only have to recall its recipe. Guess the Recipe hides it, so you build blind. Daily Craft gives one puzzle a day, the same for everyone. Recipe Quiz flips it around: the recipe is right there, and you name what it makes. One mistake ends the streak.\n\nCrafts you open are collected in the Craft-o-pedia, records go to the leaderboards.",
+          "howToPlayText": "Goal: craft the secret item from the ingredients in your inventory.\n\nControls:\nMouse or finger - drag an ingredient from the inventory into a crafting table slot\nTap a slot - put the ingredient back\nClear button - empty the whole crafting table at once\n\nIf a craft attempt fails, the ingredient backgrounds light up to help you:\n\nGreen - the ingredient is correct and in the right place\nBlue - the ingredient is in the recipe, but sits somewhere else\nBlack or grey - the ingredient is not in the recipe at all\n\nNot every item in the inventory is useful, some never appear in any recipe, so you will need some wit.\n\nRecipe Quiz has no crafting table: the recipe is already laid out, just tap the item it produces.\n\nThe tutorial is always available in the settings, the gear button in the corner of the screen.",
+          "gameURL": "https://playgama.com/export/game/guess-the-craft-blocky-recipes?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/guess-the-craft-blocky-recipes",
+          "genres": [
+            "minecraft",
+            "crafting",
+            "logic",
+            "blocks"
+          ],
+          "tags": [
+            "minigames",
+            "guessing-games",
+            "casual-games",
+            "brain-training-games",
+            "memory-games",
+            "1-player-games",
+            "mine-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/guess-the-craft-blocky-recipes/big_preview/53f6f31af2a24a8fb5968b5139bc14e4?width=448",
+            "https://static.playgama.com/p-img/pg/guess-the-craft-blocky-recipes/icon/7407a57e3b33482595dbd9c05fa4b015?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "de-DE",
+            "es-ES",
+            "ru-RU",
+            "tr-TR"
+          ],
+          "screenOrientation": {
+            "horizontal": true,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/guess-the-craft-blocky-recipes?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
+        {
+          "id": "124760",
+          "slug": "unscrew-odyssey",
+          "title": "UNSCREW ODYSSEY",
+          "description": "✈️ Unscrew Odyssey is a bright 3D screw-puzzle adventure where every twist matters! Match colorful screws with the right boxes, rotate playful toy mechanisms, free stuck parts, and clear increasingly clever levels. Use boosters when the board gets tricky, build a win streak, and climb the leaderboard. Easy to learn, deeply satisfying to master! 🔩🌈\n",
+          "howToPlayText": "> 🔩 Tap a coloured screw to send it into a free box of the same colour. Drag across the model to rotate the puzzle and reveal hidden screws. Keep enough free box slots, use a booster when the board gets tricky, and remove every screw to finish the level. On desktop use the mouse; on mobile tap and drag with one finger. ✈️\n",
+          "gameURL": "https://playgama.com/export/game/unscrew-odyssey?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
+          "playgamaGameUrl": "https://playgama.com/game/unscrew-odyssey",
+          "genres": [
+            "puzzle",
+            "3d",
+            "logic"
+          ],
+          "tags": [
+            "casual-games",
+            "relaxing-games",
+            "brain-training-games",
+            "addictive-games",
+            "mind-games",
+            "color-matching-games",
+            "1-player-games",
+            "simple-games"
+          ],
+          "images": [
+            "https://static.playgama.com/p-img/pg/unscrew-odyssey/big_preview/0bdf56772fc54528841b1793345d5ab5?width=448",
+            "https://static.playgama.com/p-img/pg/unscrew-odyssey/icon/4d40f4b55582425db4e8d01804046085?width=448"
+          ],
+          "videos": [],
+          "mobileReady": [
+            "For Android",
+            "For IOS",
+            "For Desktop"
+          ],
+          "gender": [
+            "Male",
+            "Female"
+          ],
+          "inGamePurchases": "Yes",
+          "supportedLanguages": [
+            "en-US",
+            "zh-CN",
+            "de-DE",
+            "nl-NL",
+            "es-ES",
+            "fr-FR",
+            "id-ID",
+            "it-IT",
+            "ja-JP",
+            "ko-KR",
+            "pl-PL",
+            "pt-PT",
+            "ru-RU",
+            "th-TH",
+            "tr-TR",
+            "vi-VN"
+          ],
+          "screenOrientation": {
+            "horizontal": false,
+            "vertical": true
+          },
+          "embed": "<iframe src='https://playgama.com/export/game/unscrew-odyssey?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
+        },
         {
           "id": "124758",
           "slug": "zoo-elephant-simulator-city-attack",
@@ -15887,7 +16909,7 @@
         {
           "id": "123920",
           "slug": "winter-vacation-beach-games",
-          "title": "Winter Vacation Beach Games",
+          "title": "Mother Simulator Beach Party Games",
           "description": "Experience the ultimate family vacation adventure in Family Simulator Beach Games! Pack your bags, gather your family, and set off on an exciting holiday filled with beach fun, off road driving, camping, and thrilling family activities.\n\nEnjoy an unforgettable family trip as you explore beautiful beaches, snowy mountains, and scenic picnic spots. Drive powerful 4x4 jeeps through challenging off road tracks, organize family picnics, and create lasting memories with your virtual family.\n\nTake part in exciting holiday activities including beach races, camping adventures, sightseeing, and outdoor games. Spend quality time with your virtual mom, dad, siblings, and friends while completing engaging missions and exploring breath taking environments.\n\nWhether you're relaxing by the beach, driving through mountain roads, or enjoying a family campfire, every moment is packed with fun and adventure.\n\nGame Features\n\n* Enjoy an exciting virtual family vacation adventure.\n* Explore beautiful beaches, mountains, parks, and camping locations.\n* Drive powerful 4x4 off road jeeps across challenging terrains.\n* Complete fun family missions and exciting holiday activities.\n* Experience beach parties, camping, picnics, and outdoor adventures.\n* Play mini activities including races, exploration, and sightseeing.\n* Unlock new rewards and complete challenging objectives.\n* Stunning 3D environments with realistic animations and sound effects.\n* Smooth controls and immersive gameplay for all ages.\n\nCreate unforgettable memories with your virtual family and enjoy the perfect holiday adventure in Family Simulator Beach Games!\n",
           "howToPlayText": "Desktop\nWASD = Movement\nLeft Shift = Sprint\nCtrl = Settings\nP & Tab = Pause\nF = Action\nI = Instruction\n\nMobile: \nOn-Screen Joystick: Move in all directions by dragging the joystick.",
           "gameURL": "https://playgama.com/export/game/winter-vacation-beach-games?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
@@ -15931,7 +16953,7 @@
           ],
           "screenOrientation": {
             "horizontal": true,
-            "vertical": true
+            "vertical": false
           },
           "embed": "<iframe src='https://playgama.com/export/game/winter-vacation-beach-games?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1' allow='fullscreen; accelerometer; camera; clipboard-read; clipboard-write; screen-wake-lock; speaker-selection; web-share; geolocation; gyroscope; microphone; xr-spatial-tracking; autoplay; encrypted-media; picture-in-picture; payment; publickey-credentials-get; publickey-credentials-create; storage-access; attribution-reporting; browsing-topics' frameborder='0' width='800' height='450'></iframe>"
         },
@@ -39464,6 +40486,7 @@
           "genres": [
             "arcade",
             "adventure",
+            "funny",
             "multiplayer"
           ],
           "tags": [
@@ -39473,12 +40496,12 @@
             "italian-brainrot"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/baby-brainrots-multiplayer-with-friends/big-preview/db88b5edd9f2445285787415b4f5b4c8?width=448",
-            "https://static.playgama.com/p-img/pg/preview/e62d867e20ea41ebae125b7679fa62c8?width=448"
+            "https://static.playgama.com/p-img/pg/baby-brainrots-multiplayer-with-friends/big_preview/d98db2c3834542469a67455b74df31e9?width=448",
+            "https://static.playgama.com/p-img/pg/baby-brainrots-multiplayer-with-friends/icon/f75aa5310cf54907949310caaddedd90?width=448"
           ],
           "videos": [
             {
-              "playgama_id": "d193076d4a42463ab4ea237dfd095bdd",
+              "playgama_id": "be1b0da41f0e4ecb8bc7f86f7ec66754",
               "external_url": "",
               "type": "gameplay"
             }
@@ -63958,7 +64981,7 @@
         {
           "id": "115055",
           "slug": "epic-sword-battle-fight-in-the-ragdoll-arena",
-          "title": "Epic Sword Battle! Fight in the Ragdoll Arena!  ",
+          "title": "Epic Sword Battle! Fight in the Ragdoll Arena!",
           "description": "⚔️ Welcome to \"Epic Sword Battle! Fight in the Ragdoll Arena!\" - an exciting 3D game where knights and gladiators fight with swords in the gaming arena! Control the fighter, use powerful blows and participate in duels with funny ragdoll physics. Get ready for fights where every blow of the sword decides everything.\n\n⭐ Don't forget to leave a review! It will help us improve the game!\n\n🔥 Inspired by such hits as \"Sword Master: Slash Enemies!\" and \"War of Knights: Sword Arena Battle 3D\", this game combines simple controls, dynamic gameplay and funny ragdoll physics. Here you can cut enemies, dodge blows and prove your superiority in a sword fight! Use agility and reaction to become the hero of the arena!\n\n⚡ Features of the game:\n- Epic battles in the arena with gladiators and knights\n- Funny ragdoll physics and simple controls\n- Leaderboard for competitions with other players\n- Variety of swords, opponents and levels\n- The game is available online and free on all devices",
           "howToPlayText": "⚔️ Game Objective\nEngage in an epic duel with your enemies! Fight in the arena with your sword, fend off attacks, and win ragdoll battles to become an arena legend!\n\n💻 On PC:\nMove your fighter and attack enemies by moving your mouse while holding down the left button.\n\n📱 On mobile:\nSlide your finger across the screen to move and strike with your sword.\n\n🔥 Advice\nUse your reaction and accuracy to win every fight! The faster and more accurate your strikes, the higher your chances of becoming an arena champion!",
           "gameURL": "https://playgama.com/export/game/epic-sword-battle-fight-in-the-ragdoll-arena?clid=p_a383bcc2-0945-44fa-ad7d-bd13a7ad12e1",
@@ -63980,8 +65003,8 @@
             "1-player-games"
           ],
           "images": [
-            "https://static.playgama.com/p-img/pg/epic-sword-battle-fight-in-the-ragdoll-arena/big-preview/83b2515ebe454edb84390f4aa56a5a71?width=448",
-            "https://static.playgama.com/p-img/pg/backfill/game-115055/icon/53be25eef80b3608f1850f79532a1cc165f9c1fd1c932d425dd02af1f9ac1377?width=448"
+            "https://static.playgama.com/p-img/pg/epic-sword-battle-fight-in-the-ragdoll-arena/big_preview/cd9b92eab74043d293dfbbba8d4bcfd2?width=448",
+            "https://static.playgama.com/p-img/pg/epic-sword-battle-fight-in-the-ragdoll-arena/icon/48222c3db2244f9d841dab314c649212?width=448"
           ],
           "videos": [
             {
